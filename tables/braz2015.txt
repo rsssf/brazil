@@ -1,6 +1,6 @@
 <!--
    source: http://www.rsssf.com/tablesb/braz2015.html
-   html to text conversion on 2015-07-25 15:40:23 +0200
+   html to text conversion on 2015-07-25 16:33:27 +0200
   -->
 
 
@@ -246,4 +246,3 @@ Last updated: 8 Jul 2015
 You are free to copy
 this document in whole or part provided that proper acknowledgement is given to
 the author. All rights reserved.
-</P>
