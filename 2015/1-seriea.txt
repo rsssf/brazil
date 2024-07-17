@@ -1,159 +1,878 @@
-#### S�rie A
+## Série A
 
 Round 1
 [May 9]
-Chapecoense     2-1 Coritiba
-Palmeiras       2-2 Atl�tico/MG
-Fluminense      1-0 Joinville
+Palmeiras   2-2  Atlético/MG
+ [Vítor Hugo 81', Rafael Marques 90'+4'; Patric 50', Jô 85']
+Chapecoense   2-1  Coritiba
+ [Elicarlos 29', Roger 65'; Rafhael Lucas 2']
+Fluminense   1-0  Joinville
+ [Vinícius 87']
 [May 10]
-Gr�mio          3-3 Ponte Preta
-Sport Recife    4-1 Figueirense
-Cruzeiro        0-1 Corinthians
-Atl�tico/PR     3-0 Internacional
-S�o Paulo       2-1 Flamengo
-Ava�            1-1 Santos
-Vasco da Gama   0-0 Goi�s
+Grêmio     3-3  Ponte Preta
+ [Yuri Mamute 23',53', Matías Rodríguez 78'; Renato Cajá 61', Rildo 64', Diego Oliveira 90'+4']
+São Paulo   2-1  Flamengo
+ [Luís Fabiano 73', Alexandre Pato 81'; Éverton 85'p]
+Cruzeiro   0-1  Corinthians                  [played in Cuiabá-MT]
+ [Romero 81']
+Atlético/PR   3-0  Internacional
+ [Walter 13', Felipe 65'p, Paulão 68'og]
+Sport     4-1  Figueirense
+ [Matheus Ferraz 19', Diego Souza 63',77', Régis 68'; Renê 67'og]
+Vasco da Gama   0-0  Goiás
+Avaí     1-1  Santos
+ [Marquinhos 63'; Robinho 28']
 
 Round 2
 [May 16]
-Coritiba        2-0 Gr�mio
-Goi�s           2-0 Atl�tico/PR
-Corinthians     1-0 Chapecoense
+Goiás     2-0  Atlético/PR
+ [Bruno Henrique 54',80']
+Coritiba   2-0  Grêmio
+ [Thiago Galhardo 26', Erazo 33'og]
+Corinthians   1-0  Chapecoense                  [played in Araraquara-SP]
+ [Fábio Santos 27']
 [May 17]
-Figueirense     0-0 Vasco da Gama
-Santos          1-0 Cruzeiro
-Atl�tico/MG     4-1 Fluminense
-Flamengo        2-2 Sport Recife
-Ponte Preta     1-0 S�o Paulo
-Internacional   1-0 Ava�
-Joinville       0-0 Palmeiras
+Figueirense   0-0  Vasco da Gama
+Atlético/MG   4-1  Fluminense                  [played in Brasília-DF]
+ [Jemerson 6',36', Dátolo 52', Luan 79'; Fred 88'p]
+Santos     1-0  Cruzeiro
+ [Geuvânio 44']
+Flamengo   2-2  Sport
+ [Canteros 73', Éverton 90'+5'; Diego Souza 45'+1', Elber 68']
+Internacional   1-0  Avaí
+ [Vitinho 62']
+Joinville   0-0  Palmeiras
+Ponte Preta   1-0  São Paulo
+ [Renato Cajá 13']
 
 Round 3
 [May 23]
-S�o Paulo       3-0 Joinville
-Vasco da Gama   1-1 Internacional
-Gr�mio          1-0 Figueirense
+Vasco da Gama   1-1  Internacional
+ [Lucas 83'; Nilmar 45'+2']
+São Paulo   3-0  Joinville
+ [Dória 10', Michel Bastos 58', Alexandre Pato 85']
+Grêmio     1-0  Figueirense
+ [Braian Rodríguez 80']
 [May 24]
-Palmeiras       0-1 Goi�s
-Chapecoense     1-0 Santos
-Ava�            2-1 Flamengo
-Atl�tico/PR     1-0 Atl�tico/MG
-Fluminense      0-0 Corinthians
-Cruzeiro        1-1 Ponte Preta
-Sport Recife    1-0 Coritiba
+Palmeiras   0-1  Goiás
+ [Victor Ramos 76'og]
+Fluminense   0-0  Corinthians
+Chapecoense   1-0  Santos
+ [Apodi 20']
+Avaí     2-1  Flamengo
+ [Hugo 46',61'; Gabriel 50']
+Atlético/PR   1-0  Atlético/MG
+ [Douglas Coutinho 38']
+Cruzeiro   1-1  Ponte Preta
+ [Charles 81'; Biro Biro 84']
+Sport     1-0  Coritiba
+ [Neto 28']
 
 Round 4
 [May 30]
-Coritiba        1-2 Ava�
-Ponte Preta     3-1 Chapecoense
-Joinville       1-2 Atl�tico/PR
+Ponte Preta   3-1  Chapecoense
+ [Tiago Alves 5', Biro Biro 47', Renato Cajá 90'+2'; Gil 88']
+Coritiba   1-2  Avaí
+ [Paulinho 49'; Anderson Lopes 0'45", Roberto 78']
+Joinville   1-2  Atlético/PR
+ [Rafael Costa 64'; Nikão 29', Douglas Coutinho 32']
 [May 31]
-Santos          2-2 Sport Recife
-Goi�s           1-1 Gr�mio
-Internacional   0-0 S�o Paulo
-Corinthians     0-2 Palmeiras
-Atl�tico/MG     3-0 Vasco da Gama
-Figueirense     2-1 Cruzeiro
-Flamengo        2-3 Fluminense
+Santos     2-2  Sport
+ [Robinho 43', Werley 69'; Joélinton 52', Samuel Rosa 90'+2']
+Corinthians   0-2  Palmeiras
+ [Rafael Marques 24', Zé Roberto 45']
+Internacional   0-0  São Paulo
+Goiás     1-1  Grêmio
+ [Rodrigo 52'; Giuliano 35']
+Atlético/MG   3-0  Vasco da Gama
+ [Thiago Ribeiro 11',43', Dátolo 19']
+Flamengo   2-3  Fluminense
+ [Alecsandro 36', Eduardo da Silva 85'; Fred 7'p,46', Pará 32'og]
+Figueirense   2-1  Cruzeiro
+ [Marquinhos 35', Carlos Alberto 49'; Henrique 40']
 
 Round 5
 [Jun 3]
-Atl�tico/PR     1-0 Figueirense
-Chapecoense     2-0 Joinville
-Vasco da Gama   0-3 Ponte Preta
-S�o Paulo       3-2 Santos
-Gr�mio          3-1 Corinthians
-Ava�            1-4 Atl�tico/MG
-Cruzeiro        1-0 Flamengo
+Vasco da Gama   0-3  Ponte Preta
+ [Diego Olivera 0'55", Tiago Alves 38', Borges 76']
+Atlético/PR   1-0  Figueirense
+ [Nikão 19']
+Chapecoense   2-0  Joinville
+ [Ananias 10', Bruno Silva 28']
+São Paulo   3-2  Santos
+ [Michel Bastos 33', Paulo Miranda 49', Rogério Ceni 85'p; Ricardo Oliveira 45',46']
+Cruzeiro   1-0  Flamengo
+ [Manoel 77']
+Avaí     1-4  Atlético/MG
+ [André Lima 73'; Carlos 10',76', Antônio Carlos 22'og, Lucas Pratto 67']
+Grêmio     3-1  Corinthians
+ [Giuliano 2', Marcelo Oliveira 4', Luan 38'; Mendoza 22']
 [Jun 4]
-Fluminense      2-0 Coritiba
-Sport Recife    1-0 Goi�s
-Palmeiras       1-1 Internacional
+Fluminense   2-0  Coritiba
+ [Vinícius 30', Marcos Júnior 87']
+Sport     1-0  Goiás
+ [Maikon Leite 90'+3']
+Palmeiras   1-1  Internacional
+ [Vitor Hugo 64'; Rafael Moura 75']
 
 Round 6
 [Jun 6]
-Santos          2-2 Ponte Preta
-Atl�tico/MG     1-3 Cruzeiro
-Flamengo        1-0 Chapecoense
-Joinville       0-1 Corinthians
-S�o Paulo       2-0 Gr�mio
-Atl�tico/PR     2-0 Vasco da Gama
+Santos     2-2  Ponte Preta
+ [Geuvânio 22', Ricardo Oliveira 60'; Felipe Azevedo 52', Renato Cajá 71']
+Flamengo   1-0  Chapecoense
+ [Gabriel 64']
+Atlético/MG   1-3  Cruzeiro
+ [Luan 12'; Willian 45'+1', Gabriel Xavier 46', Marquinhos 71']
+Atlético/PR   2-0  Vasco da Gama
+ [Nikão 59'p, Ytalo 90'+1']
+Joinville   0-1  Corinthians
+ [Jádson 31']
+São Paulo   2-0  Grêmio
+ [Luis Fabiano 26', Rogério Ceni 55'p]
 [Jun 7]
-Internacional   2-0 Coritiba
-Fluminense      0-0 Sport Recife
-Goi�s           0-1 Ava�
-Figueirense     2-1 Palmeiras
+Internacional   2-0  Coritiba
+ [Vitinho 25', Nilmar 35']
+Goiás     0-1  Avaí
+ [Rômulo 90'+3']
+Fluminense   0-0  Sport
+Figueirense   2-1  Palmeiras
+ [Carlos Alberto 7', Thiago Santana 61'; Gabriel 11']
 
 Round 7
 [Jun 10]
-Atl�tico/MG     2-2 Santos
+Atlético/MG   2-2  Santos
+ [Werley 27'og, Dátolo 42'; Ricardo Oliveira 19', Gabriel 53']
 [Jun 13]
-Chapecoense     0-1 S�o Paulo
-Corinthians     2-1 Internacional
-Coritiba        0-1 Flamengo
-Sport Recife    2-1 Joinville
-Vasco da Gama   1-3 Cruzeiro
+Chapecoense   0-1  São Paulo
+ [Souza 6']
+Corinthians   2-1  Internacional
+ [Jádson 50', Vágner Love 66'; Nilmar 40']
+Coritiba   0-1  Flamengo
+ [Eduardo da Silva 38']
+Vasco da Gama   1-3  Cruzeiro
+ [Rodrigo 87'; Leandro Damião 29',73', Charles 57']
+Sport     2-1  Joinville
+ [Maikon Leite 15',38'; Marcelinho Paraíba 78']
 [Jun 14]
-Ponte Preta     0-0 Goi�s
-Ava�            1-1 Figueirense
-Gr�mio          2-1 Atl�tico/PR
-Palmeiras       2-1 Fluminense
+Ponte Preta   0-0  Goiás
+Avaí     1-1  Figueirense
+ [Anderson Lopes 35'; Marquinhos 14']
+Palmeiras   2-1  Fluminense
+ [Rafael Marques 45'+2', Cristaldo 90'; Jean 16']
+Grêmio     2-1  Atlético/PR
+ [Giuliano 32', Rhodolfo 70'; Hernani 51']
 
 Round 8
 [Jun 18]
-Figueirense     0-0 Internacional
+Figueirense   0-0  Internacional
 [Jun 20]
-Santos          1-0 Corinthians
-Sport Recife    2-1 Vasco da Gama
-Flamengo        0-2 Atl�tico/MG
-Gr�mio          1-0 Palmeiras
+Santos     1-0  Corinthians
+ [Ricardo Oliveira 10']
+Flamengo   0-2  Atlético/MG
+ [Samir 21'og, Lucas Pratto 40']
+Sport     2-1  Vasco da Gama
+ [André 19', Wendell 81'; Riascos 41']
+Grêmio     1-0  Palmeiras
+ [Maicon 55']
 [Jun 21]
-Cruzeiro        0-1 Chapecoense
-S�o Paulo       1-1 Ava�
-Joinville       2-1 Goi�s
-Atl�tico/PR     2-2 Coritiba
+Cruzeiro   0-1  Chapecoense
+ [Camilo 35']
+Atlético/PR   2-2  Coritiba
+ [Walter 24', Edigar Junio 81'; Wellington Paulista 16', Ruy 76']
+Joinville   2-1  Goiás
+ [Kempes 34',45'+1'; Wesley 25']
+São Paulo   1-1  Avaí
+ [Souza 54'; André Lima 88']
 [Jun 24]
-Fluminense      2-0 Ponte Preta
+Fluminense   2-0  Ponte Preta
+ [Wellington Silva 54', Vinícius 90'+4']
 
 Round 9
 [Jun 27]
-Ava�            1-2 Gr�mio
-Chapecoense     1-1 Sport Recife
-Corinthians     2-1 Figueirense
+Avaí     1-2  Grêmio
+ [Anderson Lopes 56'p; Pedro Rocha 1', Luan 9']
+Chapecoense   1-1  Sport
+ [Bruno Rangel 87'; Rithely 28']
+Corinthians   2-1  Figueirense
+ [Vágner Love 54', Jadson 64'p; Thiago Santana 72']
 [Jun 28]
-Atl�tico/MG     1-0 Joinville
-Goi�s           1-2 Fluminense
-Coritiba        1-0 Cruzeiro
-Ponte Preta     2-1 Atl�tico/PR
-Palmeiras       4-0 S�o Paulo
-Internacional   1-0 Santos
-Vasco da Gama   1-0 Flamengo
+Atlético/MG   1-0  Joinville
+ [Leonardo Silva 33']
+Goiás     1-2  Fluminense
+ [Erik 33'; Wagner 52', Edson 63']
+Coritiba   1-0  Cruzeiro
+ [Rafhael Lucas 62']
+Palmeiras   4-0  São Paulo
+ [Leandro Pereira 31', Victor Ramos 42', Rafael Marques 58', Cristaldo 70']
+Ponte Preta   2-1  Atlético/PR
+ [Renato Cajá 29', Felipe Azevedo 70'; Nikão 27']
+Vasco da Gama   1-0  Flamengo                    [played in Cuiabá-MT]
+ [Riascos 16']
+Internacional   1-0  Santos
+ [Valdivia 77']
 
 Round 10
 [Jul 1]
-Sport Recife    3-0 Internacional
-Vasco da Gama   1-0 Ava�
-Palmeiras       2-0 Chapecoense
-Atl�tico/MG     2-0 Coritiba
-Gr�mio          1-0 Cruzeiro
-Atl�tico/PR     2-1 S�o Paulo
-Joinville       0-1 Flamengo
+Sport     3-0  Internacional
+ [André 9',35', Marlone 29']
+Palmeiras   2-0  Chapecoense
+ [Egídio 27', Cristaldo 69']
+Vasco da Gama   1-0  Avaí
+ [Emanuel Biancucchi 68']
+Atlético/MG   2-0  Coritiba
+ [Thiago Ribeiro 45',66']
+Grêmio     1-0  Cruzeiro
+ [Douglas 68'p]
+Atlético/PR   2-1  São Paulo
+ [Gustavo 35', Marcos Guilherme 58'; Centurión 71']
+Joinville   0-1  Flamengo
+ [Emerson Sheik 54']
 [Jul 2]
-Figueirense     3-1 Goi�s
-Corinthians     2-0 Ponte Preta
-Fluminense      2-1 Santos
+Figueirense   3-1  Goiás
+ [Thiago Santana 23', Clayton 33', Paulo Roberto 79'; Felipe Menezes 46']
+Corinthians   2-0  Ponte Preta
+ [Jádson 40', Vágner Love 90'+5']
+Fluminense   2-1  Santos
+ [Fred 39', Lucas Gomes 80'; Ricardo Oliveira 53']
 
 Round 11
 [Jul 4]
-Coritiba        0-0 Joinville
-Cruzeiro        2-0 Atl�tico/PR
-Chapecoense     1-0 Vasco da Gama
+Chapecoense   1-0  Vasco da Gama
+ [Neto 45']
+Coritiba   0-0  Joinville
+Cruzeiro   2-0  Atlético/PR
+ [De Arrascaeta 40', Marinho 72']
 [Jul 5]
-Ava�            2-2 Sport Recife
-Goi�s           0-0 Corinthians
-S�o Paulo       0-0 Fluminense
-Santos          1-3 Gr�mio
-Flamengo        1-2 Figueirense
-Ponte Preta     0-2 Palmeiras
-Internacional   1-3 Atl�tico/MG
+Avaí     2-2  Sport
+ [Samuel Xavier 39'og, Renan 37'; Diego Souza 20', André 90'+2']
+São Paulo   0-0  Fluminense
+Goiás     0-0  Corinthians
+Santos     1-3  Grêmio
+ [Ricardo Oliveira 63'; Pedro Rocha 3', Rafael Galhardo 49', Yuri Mamute 80']
+Ponte Preta   0-2  Palmeiras                    [played in Cuiabá-MT]
+ [Dudu 8',39']
+Flamengo   1-2  Figueirense
+ [Alan Patrick 47'; Ricardinho 61', Fabinho 90'+2']
+Internacional   1-3  Atlético/MG
+ [Lisandro López 85'; Maicosuel 58',76', Thiago Ribeiro 79']
+
+Round 12
+[Jul 8]
+Goiás     4-1  Santos
+ [Felipe Menezes 47'p,58', Fred 51', Carlos Augusto 61'; Ricardo Oliveira 89'p]
+Coritiba   0-0  Ponte Preta
+Chapecoense   1-0  Grêmio
+ [Bruno Rangel 76']
+Figueirense   0-2  Joinville
+ [Kempes 10',60']
+Palmeiras   3-0  Avaí
+ [Rafael Marques 7', Lucas 64', Cristaldo 88']
+Atlético/MG   2-1  Sport
+ [Lucas Pratto 46', Giovanni Augusto 54'; Matheus Ferraz 49']
+Internacional   1-2  Flamengo
+ [Ernando 90'+2'; Paolo Guerrero 10', Everton 64']
+Vasco da Gama   0-4  São Paulo                    [played in Brasília-DF]
+ [Alexandre Pato 13', Michel Bastos 17', Wesley 48', Boschilia 90'+2']
+[Jul 9]
+Corinthians   2-0  Atlético/PR
+ [Elias 33', Jádson 76']
+Fluminense   1-0  Cruzeiro
+ [Gustavo Scarpa 73']
+
+Round 13
+[Jul 11]
+Grêmio     2-0  Vasco da Gama
+ [Anderson Salles 59'og, Pedro Rocha 80']
+Santos     3-0  Figueirense
+ [David Braz 31', Lucas Lima 46', Gabriel 62']
+Ponte Preta   0-2  Atlético/MG
+ [Thiago Ribeiro 27', Giovanni Augusto 87']
+[Jul 12]
+São Paulo   3-1  Coritiba
+ [Centurión 14', Alexandre Pato 45',90'; Marcos Aurélio 59']
+Joinville   0-2  Internacional
+ [Réver 32', Vitinho 45'p]
+Atlético/PR   1-2  Fluminense
+ [Sidcley 68'; Gustavo Scarpa 51', Fred 90'+3']
+Cruzeiro   1-0  Goiás
+ [Joel 37']
+Flamengo   0-3  Corinthians
+ [Elias 25', Uendel 45'+3', Jádson 63']
+Sport     2-2  Palmeiras
+ [Matheus Ferraz 21', André 90'; Leandro Pereira 43',58']
+Avaí     2-1  Chapecoense
+ [Emerson 9', William 19'; Bruno Rangel 47']
+
+Round 14
+[Jul 18]
+Internacional   2-1  Goiás
+ [Eduardo 59', Eduardo Sasha 88'; Felipe Menezes 79'p]
+Flamengo   1-0  Grêmio
+ [Paolo Guerrero 40']
+Corinthians   1-0  Atlético/MG
+ [Malcom 42']
+[Jul 19]
+Atlético/PR   1-0  Chapecoense
+ [Ernani 52']
+Palmeiras   1-0  Santos
+ [Leandro Pereira 14']
+Figueirense   0-0  Coritiba
+Sport     2-0  São Paulo
+ [Élber 33', Ferrugem 90'+2']
+Fluminense   1-2  Vasco da Gama
+ [Marcos Júnior 58'; Andrezinho 38', Jhon Cley 70']
+Cruzeiro   1-1  Avaí
+ [Marcos Vinícius 14'; André Lima 81']
+Joinville   1-1  Ponte Preta
+ [Silvinho 54'; Fernando Bob 73'p]
+
+Round 15
+[Jul 25]
+Avaí     1-2  Atlético/PR
+ [Rômulo 38'; Marcos Guilherme 42',89']
+Grêmio     1-1  Sport
+ [Pedro Rocha 44'; Diego Souza 61']
+Atlético/MG   1-0  Figueirense
+ [Lucas Pratto 62']
+[Jul 26]
+Chapecoense   2-1  Fluminense
+ [Bruno Rangel 26',89'p; Edson 28']
+Santos     2-0  Joinville
+ [Gabriel 3',18']
+São Paulo   1-0  Cruzeiro
+ [Alexandre Pato 44']
+Ponte Preta   0-0  Internacional
+Coritiba   1-1  Corinthians
+ [Evandro 90'+1'; Felipe 41']
+Goiás     0-1  Flamengo
+ [Marcelo Cirino 71']
+Vasco da Gama   1-4  Palmeiras
+ [Riascos 68'; Leandro Pereira 3',54', Dudu 17', Victor Ramos 34']
+
+Round 16
+[Jul 29]
+Corinthians   3-0  Vasco da Gama
+ [Renato Augusto 46', Gil 61', Elias 76']
+Atlético/MG   3-1  São Paulo
+ [Lucas Pratto 19',25',43'; Alexandre Pato 58']
+[Aug 1]
+Fluminense   1-0  Grêmio
+ [Marcos Júnior 81']
+[Aug 2]
+Palmeiras   0-1  Atlético/PR
+ [Walter 77']
+Coritiba   1-1  Goiás
+ [Evandro 90'; Liniker 65']
+Figueirense   3-1  Ponte Preta
+ [João Vitor 4', Marquinhos 73', Dudu 90'+1'; Renato Chaves 50']
+Joinville   2-0  Avaí
+ [Jéci 39'og, Guti 60']
+Flamengo   2-2  Santos
+ [Alan Patrick 39', Emerson Sheik 42'; Ricardo Oliveira 51', Lucas Lima 71']
+Internacional   0-0  Chapecoense
+Sport     0-0  Cruzeiro
+
+Round 17
+[Aug 8]
+Avaí     1-0  Fluminense
+ [André Lima 5']
+Santos     3-0  Coritiba
+ [Geuvânio 19', Ivan 43'og, Ricardo Oliveira 59']
+[Aug 9]
+Vasco da Gama   0-0  Joinville
+Atlético/PR   1-1  Sport
+ [Vilches 90'+7'; Marlone 15']
+Cruzeiro   2-1  Palmeiras
+ [Alisson 4', De Arrascaeta 81'; Cristaldo 74']
+Goiás     0-0  Atlético/MG
+Ponte Preta   1-0  Flamengo
+ [Pablo 71']
+São Paulo   1-1  Corinthians
+ [Luís Fabiano 47'; Luciano 20']
+Chapecoense   2-2  Figueirense
+ [Bruno Rangel 49', Tiago Luis 56'; Dudu 82', Marcão 88']
+Grêmio     5-0  Internacional
+ [Giuliano 35', Luan 42',48', Fernandinho 78', Réver 84'og]
+
+Round 18
+[Aug 12]
+Flamengo   3-2  Atlético/PR
+ [Wallace 12', Emerson Sheik 39', Alan Patrick 44'; Hernani 24', Kadu 65']
+Coritiba   2-1  Palmeiras
+ [Henrique Almeida 17',81'; Rafael Marques 45']
+Santos     1-0  Vasco da Gama
+ [Victor Ferraz 48']
+Goiás     0-0  Chapecoense
+Corinthians   4-3  Sport
+ [Luciano 12',45'+1', Samuel Xavier 59'og, Jádson 87'p; André 16', Hernane 71',76']
+Figueirense   0-2  São Paulo
+ [Alexandre Pato 13', Rogério Ceni 26'p]
+Internacional   1-0  Fluminense
+ [Vitinho 82']
+[Aug 13]
+Ponte Preta   2-0  Avaí
+ [Borges 59', Felipe Azevedo 72']
+Joinville   3-0  Cruzeiro
+ [Marcelinho Paraíba 13', Bruno Aguiar 26', Trípodi 71']
+Atlético/MG   0-2  Grêmio
+ [Douglas 40', Luan 54']
+
+Round 19
+[Aug 15]
+Atlético/PR   0-0  Santos
+Vasco da Gama   0-1  Coritiba
+ [Evandro 90'+2']
+São Paulo   0-3  Goiás
+ [Felipe Menezes 26', Erik 44',76']
+[Aug 16]
+Palmeiras   4-2  Flamengo
+ [Jackson 5', Samir 57'og, Dudu 65', Alecsandro 71'; Ederson 50',56']
+Fluminense   2-1  Figueirense
+ [Cícero 48', Fred 64'; Clayton 40'p]
+Avaí     1-2  Corinthians
+ [André Lima 13'; Luciano 45'+2',86']
+Sport     1-1  Ponte Preta
+ [Diego Souza 9'; Borges 81']
+Cruzeiro   0-0  Internacional
+Grêmio     2-1  Joinville
+ [Erazo 60', Rafael Galhardo 83'; Bruno Aguiar 2']
+Chapecoense   2-1  Atlético/MG
+ [Cléber Santana 40', Apodi 77'; Neto 63'og]
+
+Round 20
+[Aug 22]
+Goiás     3-0  Vasco da Gama
+ [Zé Love 4', Erik 16'p,76'p]
+Santos     5-2  Avaí
+ [Gabriel 10', Thiago Maia 13', Ricardo Oliveira 47', Gilson 80', Lucas Lima 90'+3'p; Léo Gamalho 29',82']
+Figueirense   2-1  Sport
+ [Dudu 62', Bruno Alves 69'; Renê 31']
+[Aug 23]
+Ponte Preta   0-0  Grêmio
+Coritiba   1-0  Chapecoense
+ [Henrique Almeida 23']
+Internacional   2-0  Atlético/PR
+ [Valdívia 3', Paulão 70']
+Corinthians   3-0  Cruzeiro
+ [Vágner Love 14',47', Jadson 44']
+Joinville   2-1  Fluminense
+ [Mário Sérgio 80', Marlon 90'+1'og; Cícero 70']
+Flamengo   2-1  São Paulo
+ [Éderson 42', Guerrero 47'; Luiz Eduardo 35']
+Atlético/MG   2-1  Palmeiras
+ [Lucas Pratto 17',36'p; Andrei Girotto 4']
+
+Round 21
+[Aug 29]
+Vasco da Gama   0-1  Figueirense
+ [Marcão 90'+3']
+São Paulo   3-0  Ponte Preta
+ [Michel Bastos 34', Ganso 49', Wilder Guisao 53']
+[Aug 30]
+Grêmio     0-0  Coritiba
+Avaí     3-0  Internacional
+ [Léo Gamalho 69'p,83', Néstor Camacho 90'+5']
+Sport     0-1  Flamengo
+ [Éverton 4']
+Chapecoense   1-3  Corinthians
+ [Bruno Rangel 45'+3'; Elias 10', Vágner Love 13', Jádson 89'p]
+Palmeiras   3-2  Joinville
+ [Gabriel Jesus 0'48", 67', Dudu 23'; Marcelinho Paraíba 26',27']
+Fluminense   1-2  Atlético/MG
+ [Wellington Paulista 46'; Giovanni Augusto 21', Patric 82']
+Cruzeiro   0-1  Santos
+ [Ricardo Oliveira 42']
+Atlético/PR   3-0  Goiás
+ [Wálter 26',77', Ewandro 87']
+
+Round 22
+[Sep 2]
+Internacional   6-0  Vasco da Gama
+ [Ernando 10', Eduardo Sasha 39', Lisandro López 53',90'+1', Valdívia 57', Nílton 62']
+Joinville   0-0  São Paulo
+Ponte Preta   1-2  Cruzeiro
+ [Biro Biro 58'; Willians 42', Vinícius Araújo 90'+3']
+Flamengo   3-0  Avaí                    [played in Natal-RN]
+ [Alan Patrick 30', Kayke 54',75']
+Atlético/MG   0-1  Atlético/PR
+ [Walter 57'p]
+Goiás     1-0  Palmeiras
+ [Bruno Henrique 62']
+Coritiba   0-0  Sport
+Corinthians   2-0  Fluminense
+ [Marciel 4', Ralf 70']
+[Sep 3]
+Santos     3-1  Chapecoense
+ [Ricardo Oliveira 15',75', Geuvânio 57'; Neto 83']
+Figueirense   0-2  Grêmio
+ [Bobô 6', Pedro Rocha 77']
+
+Round 23
+[Sep 5]
+São Paulo   2-0  Internacional
+ [Rogério 48', Michel Bastos 71']
+Vasco da Gama   1-2  Atlético/MG
+ [Nenê 73'p; Lucas Pratto 23'p, Dátolo 42']
+Atlético/PR   0-0  Joinville
+[Sep 6]
+Chapecoense   0-0  Ponte Preta
+Cruzeiro   5-1  Figueirense
+ [Willian 3',28',71',74', Vinícius Araújo 60'; Marquinhos Pedroso 65']
+Grêmio     2-1  Goiás
+ [Douglas 51', Everton 82'; Bruno Henrique 43']
+Palmeiras   3-3  Corinthians
+ [Lucas 19', Robinho 27', Dudu 41'; Guilherme Arana 24', Amaral 37'og, Vágner Love 78']
+Fluminense   1-3  Flamengo
+ [Jean 57'p; Emerson Sheik 9', Kayke 14', Paulinho 68']
+Avaí     0-2  Coritiba
+ [Henrique Almeida 64',82']
+Sport     1-1  Santos
+ [André 27'; Ricardo Oliveira 20']
+
+Round 24
+[Sep 9]
+Internacional   1-0  Palmeiras
+ [Nílton 19']
+Atlético/MG   2-0  Avaí
+ [Luan 11', Leonardo Silva 29']
+Ponte Preta   0-1  Vasco da Gama
+ [Leandrão 74']
+Figueirense   1-1  Atlético/PR
+ [Clayton 43'p; Walter 40']
+Santos     3-0  São Paulo
+ [David Braz 31', Rafael Longuine 42', Ricardo Oliveira 51']
+Corinthians   1-1  Grêmio
+ [Renato Augusto 65'; Bobô 58']
+Coritiba   1-1  Fluminense
+ [Henrique Almeida 28'; Marcos Júnior 59']
+[Sep 10]
+Goiás     1-0  Sport
+ [Carlos 79']
+Flamengo   2-0  Cruzeiro
+ [Alan Patrick 45', Luiz Antônio 68']
+Joinville   0-0  Chapecoense
+
+Round 25
+[Sep 12]
+Coritiba   0-1  Internacional
+ [Vitinho 45'+3']
+Palmeiras   2-0  Figueirense
+ [Jackson 46', Zé Roberto 87'p]
+[Sep 13]
+Corinthians   3-0  Joinville
+ [Malcon 38', Uendel 57', Vágner Love 88']
+Ponte Preta   3-1  Santos
+ [Bady 8', Ferrón 22', Borges 43'; Rafael Longuine 90'+2']
+Chapecoense   1-3  Flamengo
+ [Bruno Rangel 80'; Paulinho 10', Canteros 32', Kayke 88']
+Vasco da Gama   2-0  Atlético/PR
+ [Júlio César 4', Nenê 47'p]
+Grêmio     1-2  São Paulo
+ [Everton 90'+2'; Alexandre Pato 34', Rogério 90']
+Cruzeiro   1-1  Atlético/MG
+ [Willian 37'; Carlos 88']
+Avaí     2-1  Goiás
+ [Emerson 87', André Lima 90'+3'; Bruno Henrique 28']
+Sport     1-0  Fluminense
+ [Danilo 17']
+
+Round 26
+[Sep 16]
+Fluminense   1-4  Palmeiras
+ [Jean 36'; Lucas Barrios 68',89',90'+2', Gabriel Jesus 78']
+Goiás     1-2  Ponte Preta
+ [Fred 27'; Biro Biro 5', Alexandro 80']
+Joinville   1-1  Sport
+ [Edgar Júnio 38'; André 90']
+Atlético/PR   1-2  Grêmio
+ [Ewandro 77'; Douglas 31', Luan 46']
+Figueirense   0-1  Avaí
+ [Renan Oliveira 79']
+Santos     4-0  Atlético/MG
+ [Gabriel 37',54', Ricardo Oliveira 70', Marquinhos Gabriel 90'+1']
+Internacional   2-1  Corinthians
+ [Réver 37', Valdivia 73'; Malcom 18']
+Cruzeiro   2-2  Vasco da Gama
+ [Willian 26', Alisson 42'; Rafael Silva 24',80']
+[Sep 17]
+São Paulo   0-0  Chapecoense
+Flamengo   0-2  Coritiba                    [played in Brasília-DF]
+ [Kléber Gladiador 8'p, Henrique Almeida 24']
+
+Round 27
+[Sep 19]
+Internacional   1-1  Figueirense
+ [Alex 36'p; Thiago Santana 77']
+Palmeiras   3-2  Grêmio
+ [Victor Hugo 6', Lucas Barrios 31', Rafael Marques 58'; Luan 19',85'p]
+Ponte Preta   3-1  Fluminense
+ [Borges 7', Fernando Bob 25'p, Marlon 43'og; Gustavo Scarpa 46']
+[Sep 20]
+Corinthians   2-0  Santos
+ [Jádson 85'p,88']
+Goiás     3-0  Joinville
+ [Fred 18', Erik 72'p,86']
+Avaí     2-1  São Paulo
+ [Marquinhos 17', Anderson Lopes 71'; Breno 43']
+Atlético/MG   4-1  Flamengo
+ [Marcelo 15'og, Jemerson 25',54', Dátolo 70'; Paulinho 18']
+Vasco da Gama   2-1  Sport
+ [Nenê 1', Rafael Vaz 48'; Elber 39']
+Chapecoense   0-2  Cruzeiro
+ [Fabiano 11', Rafael Lima 23'og]
+Coritiba   2-0  Atlético/PR
+ [Henrique Almeida 12', Negueba 44']
+
+Round 28
+[Sep 26]
+Fluminense   2-0  Goiás
+ [Fred 28', Gustavo Scarpa 49']
+Grêmio     3-1  Avaí
+ [Giuliano 12',23', Maxi Rodríguez 75'; André Lima 64']
+[Sep 27]
+Atlético/PR   1-2  Ponte Preta
+ [Bruno Mota 29'; Biro Biro 16',63']
+Santos     3-1  Internacional
+ [Marquinhos Gabriel 36', Gabriel 59'p, Leandro 89'; Valdívia 26'p]
+Figueirense   1-3  Corinthians
+ [Leandro Silva 90'; Elias 14', Gil 66', Renato Augusto 82']
+São Paulo   1-1  Palmeiras
+ [Carlinhos 59'; Robinho 90'+2']
+Flamengo   1-2  Vasco da Gama
+ [Emerson Sheik 11'; Rodrigo 57', Nenê 61'p]
+Joinville   2-2  Atlético/MG
+ [Kempes 61', William Popp 82'; Luan 51', Thiago Ribeiro 81']
+Sport     3-0  Chapecoense
+ [Diego Souza 24', Apodi 77'og, Régis 84']
+Cruzeiro   2-0  Coritiba
+ [Ceará 21', Willian 65']
+
+Round 29
+[Oct 3]
+Coritiba   0-3  Atlético/MG
+ [Leandro Silva 41'og, Giovanni Augusto 65', Lucas Pratto 84'p]
+Internacional   2-1  Sport
+ [Lisandro López 64', Rodrigo Dourado 81'; Élber 79']
+São Paulo   1-0  Atlético/PR
+  [Rogério 71']
+[Oct 4]
+Avaí     1-1  Vasco da Gama
+ [André Lima 85'; Nenê 43'p]
+Flamengo   2-0  Joinville
+  [Ayrton 56', Gabriel 79']
+Ponte Preta   2-2  Corinthians
+ [Elton 61', Felipe Azevedo 63'; Jádson 42', Rodriguinho 84']
+Goiás     2-3  Figueirense
+ [Zé Love 45'+5'p, Rafael Forster 66'; Dudu 56',59', Rafael Bastos 86']
+Cruzeiro   0-0  Grêmio
+Santos     3-1  Fluminense
+ [Lucas Lima 5', Marquinhos Gabriel 10', Neto Berola 83'; Robert 90'+1']
+Chapecoense   5-1  Palmeiras
+ [Neto 4', Camilo 22', Túlio de Melo 54', Apodi 64', Ananias 86'; Dudu 58']
+
+Round 30
+[Oct 14]
+Atlético/MG   2-1  Internacional
+  [Lucas Pratto 16'p, Marcos Rocha 69'; Paulão 38']
+Sport     3-0  Avaí
+ [Régis 60', André 63',84']
+Joinville   3-1  Coritiba
+ [Marcelinho Paraíba 32'p, Rafael Donato 56', Kadu 72'; Henrique Almeida 88'p]
+Figueirense   3-0  Flamengo
+ [Clayton 21',65', Dudu 87']
+Palmeiras   0-1  Ponte Preta
+ [Fernando Bob 27'p]
+Atlético/PR   2-2  Cruzeiro
+ [Ewandro 36', Bruno Pereirinha 79'; Fabrício 73', Arrascaeta 84']
+Fluminense   2-0  São Paulo
+ [Fred 30', Marcos Junior 48']
+[Oct 15]
+Corinthians   3-0  Goiás
+ [Edu Dracena 15', Malcom 26', Rodriguinho 87']
+Vasco da Gama   1-1  Chapecoense
+ [Rodrigo 71'; Bruno Rangel 85'p]
+Grêmio     1-0  Santos
+ [Bressan 26']
+
+Round 31
+[Oct 17]
+Avaí     1-3  Palmeiras
+ [André Lima 68'; Gabriel Jesus 16', Cristaldo 60', Dudu 77']
+Joinville   1-0  Figueirense
+ [Kempes 53']
+[Oct 18]
+Cruzeiro   2-0  Fluminense
+ [Willian 27',46']
+Ponte Preta   3-0  Coritiba
+ [Alexandro 49',85', Biro Biro 90'+2']
+São Paulo   2-2  Vasco da Gama
+ [Luis Fabiano 1', Rodrigo Caio 87'; Nenê 45'p, Rodrigo 62']
+Flamengo   0-1  Internacional
+ [Ernando 18']
+Atlético/PR   1-4  Corinthians
+ [Bruno Mota 55'; Renato Augusto 16',45', Vágner Love 28',62']
+Grêmio     2-3  Chapecoense
+ [Douglas 4', Bobô 33'; Túlio de Melo 56'p,77', Apodi 90'+5']
+Santos     3-1  Goiás
+ [Werley 11', Ricardo Oliveira 14',45'; David 48']
+Sport     4-1  Atlético/MG
+ [Matheus Ferraz 6', Diego Souza 22', Elber 26', Maikon Leite 53'; Thiago Ribeiro 83'p]
+
+Round 32
+[Oct 24]
+Fluminense   0-1  Atlético/PR
+ [Walter 59']
+Figueirense   0-0  Santos
+Internacional   1-0  Joinville
+ [Vitinho 64']
+Palmeiras   0-2  Sport
+ [Marlone 15', André 58'p]
+[Oct 25]
+Vasco da Gama   0-0  Grêmio
+Coritiba   1-2  São Paulo
+ [Cáceres 45'; Alan Kardec 24', Alexandre Pato 64']
+Chapecoense   0-0  Avaí
+Corinthians   1-0  Flamengo
+ [Vágner Love 45'+1']
+Goiás     0-1  Cruzeiro
+ [Arrascaeta 51']
+Atlético/MG   2-1  Ponte Preta
+ [Luan 51', Giovanni Augusto 56'; Renato Chaves 90'+1']
+
+Round 33
+[Oct 31]
+São Paulo   3-0  Sport
+ [Paulo Henrique Ganso 18', Luís Fabiano 43', Michel Bastos 64']
+Avaí     1-1  Cruzeiro
+ [Rômulo 50'; Leandro Damião 74']
+Ponte Preta   1-0  Joinville
+ [Guti 54'og]
+Coritiba   1-1  Figueirense
+ [Juan 23'; Yago 39']
+[Nov 1]
+Santos     2-1  Palmeiras
+ [Thiago Maia 26', Ricardo Oliveira 48'; Dudu 74']
+Grêmio     2-0  Flamengo
+ [Éverton 51', Bobô 84']
+Chapecoense   0-0  Atlético/PR
+Atlético/MG   0-3  Corinthians
+ [Malcom 67', Vágner Love 74', Lucca 84']
+Vasco da Gama   0-1  Fluminense
+ [Gérson 45'+2']
+Goiás     2-1  Internacional
+ [Zé Love 47', Bruno Henrique 50'; Valdívia 19']
+
+Round 34
+[Nov 7]
+Internacional   1-0  Ponte Preta
+ [Vitinho 87']
+Corinthians   2-1  Coritiba
+  [Jadson 15'p, Lucca 88'; Negueba 47']
+Atlético/PR    2-1  Avaí
+ [Wálter 34', Sidcley 42'; Anderson Lopes 58']
+Fluminense   2-3  Chapecoense
+ [Jean 19'p, Gustavo Scarpa 49'; Túlio de Melo 29', Thiego 33', Camilo 63']
+[Nov 8]
+Palmeiras   0-2  Vasco da Gama
+ [Rafael Silva 34', Nenê 39']
+Flamengo   4-1  Goiás
+ [Alan Patrick 18',47', Kayke 50',63'; Erik 45'+1']
+Figueirense   0-1  Atlético/MG
+ [Dátolo 90']
+Cruzeiro   2-1  São Paulo
+ [Willian 32', Leandro Damião 75'; Luis Fabiano 30']
+Joinville   0-0  Santos
+Sport     1-0  Grêmio
+ [André 69']
+
+Round 35
+[Nov 15]
+Cruzeiro   3-0  Sport
+ [Willians 58'p, Durval 61'og, Marcos Vinícius 66']
+[Nov 18]
+Goiás     1-3  Coritiba
+ [Fred 79'; Juan 0'25", João Paulo 45'+2', Henrique Almeida 90'+3']
+Avaí     2-1  Joinville
+ [André Lima 18', Everton Silva 87'; Fernando Viana 42']
+Atlético/PR   3-3  Palmeiras
+ [Marcos Guilherme 1', Ewandro 83',86'; Robinho 53', Jackson 74', Alecsandro 90'+4']
+Ponte Preta   0-1  Figueirense
+ [Clayton 13'p]
+[Nov 19]
+Chapecoense   1-0  Internacional
+ [Ananias 64']
+Grêmio     1-0  Fluminense
+ [Luan 59'p]
+São Paulo   4-2  Atlético/MG
+ [Alan Kardec 68',84', Michel Bastos 74', Luis Fabiano 90'p; Luan 56', Dátolo 69']
+Santos     0-0  Flamengo
+Vasco da Gama   1-1  Corinthians
+ [Júlio César 72'; Vágner Love 81']
+
+Round 36
+[Nov 21]
+Palmeiras   1-1  Cruzeiro
+ [Lucas Barrios 70'; Marcos Vinícius 20']
+[Nov 22]
+Figueirense   0-0  Chapecoense
+Atlético/MG   2-2  Goiás
+ [Luan 22', Marcos Rocha 56'; Erik 38', Bruno Henrique 59']
+Joinville   1-2  Vasco da Gama
+ [Rafael Donato 79'; Nenê 5', Riascos 9']
+Corinthians   6-1  São Paulo
+ [Bruno Henrique 25', Romero 28',63', Edu Dracena 45', Lucca 75', Cristian 76'p; Carlinhos 69']
+Internacional   1-0  Grêmio
+ [Vitinho 52']
+Flamengo   1-1  Ponte Preta                  [played in Brasília-DF]
+ [Gabriel 55'; Diego Olivera 76']
+Sport     0-0  Atlético/PR
+Coritiba   1-0  Santos
+ [Henrique Almeida 57']
+Fluminense   3-1  Avaí                    [played in Cariacica-ES]
+ [Gum 20', Osvaldo 74', Fred 85'; Léo Gamalho 89']
+
+Round 37
+[Nov 28]
+São Paulo   3-2  Figueirense
+ [Luis Fabiano 10', Thiago Mendes 90'+4', Alan Kardec 90'; Clayton 27', Carlos Alberto 74']
+Fluminense   1-1  Internacional
+ [Cícero 73'p; Vitinho 4']
+Avaí     1-0  Ponte Preta
+ [Antônio Carlos 65']
+[Nov 29]
+Sport     2-0  Corinthians
+ [Matheus Ferraz 23', André 90']
+Cruzeiro   3-0  Joinville
+ [Willian 34', Charles 39', Alisson 63']
+Vasco da Gama   1-0  Santos
+ [Nenê 44'p]
+Grêmio     2-1  Atlético/MG
+ [Éverton 30', Luan 68'; Lucas Pratto 41'p]
+Chapecoense   1-3  Goiás
+ [Túlio de Melo 46'; Erik 28'p, Fred 32',77']
+Palmeiras   0-2  Coritiba
+ [Juan 23', Henrique Almeida 90'+3']
+Atlético/PR   3-0  Flamengo
+ [Roberto 12', Cléberson 32',67']
+
+Round 38 [Dec 6]
+Joinville   0-2  Grêmio
+ [Marcelo Oliveira 5', Bobô 60']
+Atlético/MG   3-0  Chapecoense
+ [Thiago Ribeiro 38', Leonardo Silva 50', Patric 67']
+Coritiba   0-0  Vasco da Gama
+Flamengo   1-2  Palmeiras
+ [Pará 75'; Dudu 71', Vitor Hugo 89']
+Ponte Preta   0-1  Sport
+ [Diego Souza 61']
+Internacional   2-0  Cruzeiro
+ [Vitinho 25',61']
+Santos     5-1  Atlético/PR
+ [Geuvânio 14',80', Gabriel 29',59', Vitor Bueno 73'; Cléberson 12']
+Figueirense   1-0  Fluminense
+ [Marcão 48']
+Corinthians   1-1  Avaí
+ [Vágner Love 77'; Claudinei 57']
+Goiás     0-1  São Paulo
+ [Rogério 90'+2']
 
