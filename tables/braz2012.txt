@@ -1,6 +1,5 @@
 <!--
-   source: http://www.rsssf.com/tablesb/braz2012.html
-   html to text conversion on 2015-07-25 16:33:26 +0200
+   source: https://rsssf.org/tablesb/braz2012.html
   -->
 
 
@@ -8,31 +7,29 @@
 ## Brazil 2012
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-SÈrie A
-
-Copa do Brasil
-
-SÈrie B
+‚ÄπS√©rie A‚Ä∫
+‚ÄπCopa do Brasil‚Ä∫
+‚ÄπS√©rie B‚Ä∫
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### SÈrie A
+#### S√©rie A
 
 
 Participants
 
-AtlÈtico C Goianiense (Goi‚nia-GO)     GrÍmio FBPA (Porto Alegre-RS)
-C AtlÈtico Mineiro (Belo Horizonte-MG)      SC Internacional (Porto Alegre-RS)
-EC Bahia (Salvador-BA)         C N·utico Capibaribe (Recife-PE)
-Botafogo FR (Rio de Janeiro-RJ)       SE Palmeiras (S„o Paulo-SP)
-SC Corinthians Paulista (S„o Paulo-SP)     AA Ponte Preta (Campinas-SP)
-Coritiba FC (Curitiba-PR)       A Portuguesa de Desportos (S„o Paulo-SP)
-Cruzeiro EC (Belo Horizonte-MG)             S„o Paulo FC (SP)
-Figueirense FC (FlorianÛpolis-SC)     Santos FC (SP)
+Atl√©tico C Goianiense (Goi√¢nia-GO)     Gr√™mio FBPA (Porto Alegre-RS)
+C Atl√©tico Mineiro (Belo Horizonte-MG)      SC Internacional (Porto Alegre-RS)
+EC Bahia (Salvador-BA)         C N√°utico Capibaribe (Recife-PE)
+Botafogo FR (Rio de Janeiro-RJ)       SE Palmeiras (S√£o Paulo-SP)
+SC Corinthians Paulista (S√£o Paulo-SP)     AA Ponte Preta (Campinas-SP)
+Coritiba FC (Curitiba-PR)       A Portuguesa de Desportos (S√£o Paulo-SP)
+Cruzeiro EC (Belo Horizonte-MG)             S√£o Paulo FC (SP)
+Figueirense FC (Florian√≥polis-SC)     Santos FC (SP)
 CR Flamengo (Rio de Janeiro-RJ)       Sport Club do Recife (PE)
 Fluminense FC (Rio de Janeiro-RJ)     CR Vasco da Gama (Rio de Janeiro-RJ)
 
 
-(+) - Teams promoted from 2011 SÈrie B (2nd level)
+(+) - Teams promoted from 2011 S√©rie B (2nd level)
 Top 4 qualify to 2013 Libertadores.
 Teams placed 5-11 qualify to 2013 Sudamericana.
 
@@ -40,9 +37,9 @@ Teams placed 5-11 qualify to 2013 Sudamericana.
 Final Table:
 
  1.Fluminense    38 22 11  5  61-33  77  Champions
- 2.AtlÈtico/MG    38 20 12  6  64-37  72
- 3.GrÍmio    38 20 11  7  56-33  71
- 4.S„o Paulo    38 20  6 12  59-37  66
+ 2.Atl√©tico/MG    38 20 12  6  64-37  72
+ 3.Gr√™mio    38 20 11  7  56-33  71
+ 4.S√£o Paulo    38 20  6 12  59-37  66
  5.Vasco da Gama 38 16 10 12  45-44  58
  6.Corinthians    38 15 12 11  51-39  57
  7.Botafogo    38 15 10 13  60-50  55
@@ -50,7 +47,7 @@ Final Table:
  9.Cruzeiro    38 15  7 16  47-51  52
 10.Internacional 38 13 13 12  44-40  52
 11.Flamengo    38 12 14 12  39-46  50
-12.N·utico    38 14  7 17  44-51  49  (+)
+12.N√°utico    38 14  7 17  44-51  49  (+)
 13.Coritiba    38 14  6 18  53-60  48
 14.Ponte Preta    38 12 12 14  37-44  48  (+)
 15.Bahia    38 11 14 13  37-41  47
@@ -58,11 +55,11 @@ Final Table:
 -----------------------------------------
 17.Sport    38 10 11 17  39-56  41  (+)  Relegated
 18.Palmeiras    38  9  7 22  39-54  34  Relegated
-19.AtlÈtico/GO    38  7  9 22  37-67  30  Relegated
+19.Atl√©tico/GO    38  7  9 22  37-67  30  Relegated
 20.Figueirense    38  7  9 22  39-72  30  Relegated
 
 Topscorer: Fred (Fluminense), 19 goals.
-     LuÌs Fabiano (S„o Paulo), 17 goals.
+     Lu√≠s Fabiano (S√£o Paulo), 17 goals.
      Bruno Mineiro (Portuguesa) and Barcos (Palmeiras), 14 goals each.
 
 
@@ -71,90 +68,90 @@ Round 1
 Palmeiras   1-1  Portuguesa
  [Luan 37'; Rodriguinho 86']
 Sport    1-1  Flamengo
- [Marquinhos Gabriel 57'; V·gner Love 73']
-Figueirense   2-1  N·utico
- [Fernandes 75', Caio 90'+4'; Ara˙jo 79'p]
+ [Marquinhos Gabriel 57'; V√°gner Love 73']
+Figueirense   2-1  N√°utico
+ [Fernandes 75', Caio 90'+4'; Ara√∫jo 79'p]
 [May 20]
-Botafogo   4-2  S„o Paulo
- [Herrera 49',67',77', VÌtor J˙nior 72'; J·dson 11', LuÌs Fabiano 60']
-Ponte Preta   0-1  AtlÈtico/MG
+Botafogo   4-2  S√£o Paulo
+ [Herrera 49',67',77', V√≠tor J√∫nior 72'; J√°dson 11', Lu√≠s Fabiano 60']
+Ponte Preta   0-1  Atl√©tico/MG
  [Escudero 90']
 Corinthians   0-1  Fluminense
- [Leandro EuzÈbio 71']
+ [Leandro Euz√©bio 71']
 Internacional   2-0  Coritiba
- [Leandro Dami„o 8', Dagoberto 37']
-Cruzeiro   0-0  AtlÈtico/GO              [played in Uberl‚ndia-MG]
+ [Leandro Dami√£o 8', Dagoberto 37']
+Cruzeiro   0-0  Atl√©tico/GO              [played in Uberl√¢ndia-MG]
 Bahia    0-0  Santos
-Vasco da Gama   2-1  GrÍmio
+Vasco da Gama   2-1  Gr√™mio
  [Felipe Bastos 22', Alecsandro 68'; Fernando 26']
 
 Round 2
 [May 26]
 Flamengo   3-3  Internacional
- [AÌrton 5', Ronaldinho 16'p, V·gner Love 48'; Gilberto 33', FabrÌcio 66', D·tolo 69']
+ [A√≠rton 5', Ronaldinho 16'p, V√°gner Love 48'; Gilberto 33', Fabr√≠cio 66', D√°tolo 69']
 Portuguesa   0-1  Vasco da Gama
  [Alecsandro 21']
-AtlÈtico/GO   1-1  Ponte Preta
+Atl√©tico/GO   1-1  Ponte Preta
  [Bida 11'; Roger 52']
-N·utico   0-0  Cruzeiro
+N√°utico   0-0  Cruzeiro
 [May 27]
 Coritiba   2-3  Botafogo
- [Lincoln 1', Lucas Mendes 50'; Lucas 18',87', VÌtor J˙nior 26']
-S„o Paulo   1-0  Bahia
- [LuÌs Fabiano 58']
+ [Lincoln 1', Lucas Mendes 50'; Lucas 18',87', V√≠tor J√∫nior 26']
+S√£o Paulo   1-0  Bahia
+ [Lu√≠s Fabiano 58']
 Santos    0-0  Sport
-AtlÈtico/MG   1-0  Corinthians
+Atl√©tico/MG   1-0  Corinthians
  [Danilinho 64']
-GrÍmio    1-0  Palmeiras
- [AndrÈ Lima 71']
+Gr√™mio    1-0  Palmeiras
+ [Andr√© Lima 71']
 Fluminense   2-2  Figueirense
- [Marcos J˙nior 16', W·gner 66'; Caio 57', Pablo 74']
+ [Marcos J√∫nior 16', W√°gner 66'; Caio 57', Pablo 74']
 
 Round 3
 [Jun 6]
-AtlÈtico/GO   0-1  GrÍmio
+Atl√©tico/GO   0-1  Gr√™mio
  [Miralles 68']
 Sport    2-1  Palmeiras
- [Marquinhos Paran· 14', Felipe Azevedo 71'; Barcos 37']
-AtlÈtico/MG   1-1  Bahia
- [JÙ 51'p; Fahel 68']
-Vasco da Gama   4-2  N·utico
- [Alecsandro 22', 69', Felipe 35', Juninho Pernambucano 61'; MartÌnez 66', Ara˙jo 87']
+ [Marquinhos Paran√° 14', Felipe Azevedo 71'; Barcos 37']
+Atl√©tico/MG   1-1  Bahia
+ [J√¥ 51'p; Fahel 68']
+Vasco da Gama   4-2  N√°utico
+ [Alecsandro 22', 69', Felipe 35', Juninho Pernambucano 61'; Mart√≠nez 66', Ara√∫jo 87']
 Coritiba   2-0  Portuguesa
- [Ayrton 17', …verton Costa 43']
+ [Ayrton 17', √âverton Costa 43']
 Ponte Preta   2-2  Flamengo
- [RenÍ Junior 14', Jo„o Paulo 51'; Renato Abreu 28', V·gner Love 90'+3']
-Internacional   1-0  S„o Paulo
+ [Ren√™ Junior 14', Jo√£o Paulo 51'; Renato Abreu 28', V√°gner Love 90'+3']
+Internacional   1-0  S√£o Paulo
  [D'Alessandro 21']
 Santos    1-1  Fluminense
- [RenterÌa 4'; Carlinhos 25'p]
+ [Renter√≠a 4'; Carlinhos 25'p]
 [Jun 7]
 Corinthians   1-1  Figueirense
  [Danilo 37'; Caio 78']
 Botafogo   2-3  Cruzeiro
- [Amaral 20'og, Herrera 69'; Anselmo RamÛn 73', …verton 75', Wellington Paulista 79'p]
+ [Amaral 20'og, Herrera 69'; Anselmo Ram√≥n 73', √âverton 75', Wellington Paulista 79'p]
 
 Round 4
 [Jun 9]
 Flamengo   3-1  Coritiba
- [V·gner Love 6', Luiz AntÙnio 12', Hernane 90'; Emerson 23']
-Palmeiras   0-1  AtlÈtico/MG
- [JÙ 48']
+ [V√°gner Love 6', Luiz Ant√¥nio 12', Hernane 90'; Emerson 23']
+Palmeiras   0-1  Atl√©tico/MG
+ [J√¥ 48']
 [Jun 10]
-Portuguesa   2-0  AtlÈtico/GO
- [Ricardo Jesus 47', MoisÈs 63']
+Portuguesa   2-0  Atl√©tico/GO
+ [Ricardo Jesus 47', Mois√©s 63']
 Fluminense   0-0  Internacional
-GrÍmio    2-0  Corinthians
- [Marco AntÙnio 21', AndrÈ Lima 28']
-S„o Paulo   1-0  Santos
+Gr√™mio    2-0  Corinthians
+ [Marco Ant√¥nio 21', Andr√© Lima 28']
+S√£o Paulo   1-0  Santos
  [Paulo Miranda 7']
 Bahia    1-2  Vasco da Gama
- [J˙nior 90+4'; Juninho Pernambucano 7', Diego Souza 31']
+ [J√∫nior 90+4'; Juninho Pernambucano 7', Diego Souza 31']
 Cruzeiro   1-0  Sport                [played in Varginha-MG]
  [Wellington Paulista 68'p]
 Figueirense   0-0  Ponte Preta
-N·utico   3-2  Botafogo
- [Ara˙jo 16', L˙cio 32', Derley 82'; M·rcio Azevedo 48', Cesinha 59'og]
+N√°utico   3-2  Botafogo
+ [Ara√∫jo 16', L√∫cio 32', Derley 82'; M√°rcio Azevedo 48', Cesinha 59'og]
 
 Round 5
 [Jun 16]
@@ -165,99 +162,99 @@ Fluminense   4-1  Portuguesa
 Cruzeiro   1-0  Figueirense
  [Wellington Paulista 65']
 [Jun 17]
-S„o Paulo   1-0  AtlÈtico/MG
- [LuÌs Fabiano 41']
+S√£o Paulo   1-0  Atl√©tico/MG
+ [Lu√≠s Fabiano 41']
 Palmeiras   1-1  Vasco da Gama              [played in Barueri-SP]
  [Mazinho 55'; Juninho Pernambucano 82']
 Bahia    2-1  Sport
  [Elias 14', Fahel 85'; Bruno Aguiar 69']
 Ponte Preta   1-0  Corinthians
- [AndrÈ LuÌs 41']
-N·utico   1-0  GrÍmio
+ [Andr√© Lu√≠s 41']
+N√°utico   1-0  Gr√™mio
  [Ronaldo Alves 90'+1']
-Coritiba   3-0  AtlÈtico/GO
+Coritiba   3-0  Atl√©tico/GO
  [Pereira 24', Marcel 71', Tcheco 73']
 Flamengo   1-0  Santos
  [Bottinelli 87'p]
 
 Round 6
 [Jun 23]
-Portuguesa   1-0  S„o Paulo
+Portuguesa   1-0  S√£o Paulo
  [Ivan 56']
-AtlÈtico/MG   5-1  N·utico
- [Bernard 2', Ronaldinho Ga˙cho 35'p, Danilinho 36',61', Escudero 90'+2'; Ara˙jo 12']
+Atl√©tico/MG   5-1  N√°utico
+ [Bernard 2', Ronaldinho Ga√∫cho 35'p, Danilinho 36',61', Escudero 90'+2'; Ara√∫jo 12']
 Vasco da Gama   1-3  Cruzeiro
- [Rodolfo 65'; Montillo 40', Wellington Paulista 63', Anselmo RamÛn 80']
+ [Rodolfo 65'; Montillo 40', Wellington Paulista 63', Anselmo Ram√≥n 80']
 [Jun 24]
 Figueirense   1-1  Bahia
- [J˙lio CÈsar 51'; V‚nder 78']
-GrÍmio    2-0  Flamengo
+ [J√∫lio C√©sar 51'; V√¢nder 78']
+Gr√™mio    2-0  Flamengo
  [Marcelo Moreno 32', Werley 48']
 Corinthians   2-1  Palmeiras
  [Romarinho 33',55'; Mazinho 3']
 Botafogo   1-2  Ponte Preta
- [Andrezinho 43'p; Nik„o 15', Ricardinho 53']
+ [Andrezinho 43'p; Nik√£o 15', Ricardinho 53']
 Sport    0-2  Internacional
- [Bruno Aguiar 13'og, Leandro Dami„o 38']
-AtlÈtico/GO   1-4  Fluminense
+ [Bruno Aguiar 13'og, Leandro Dami√£o 38']
+Atl√©tico/GO   1-4  Fluminense
  [Ernandes 12'; Samuel Rosa 18', Gum 25', Gilson 51'og, Deco 90'+3'p]
 Santos    2-2  Coritiba
  [Edu Dracena 31', Neymar 70'; Rafinha 48', Lincoln 74'p]
 
 Round 7
 [Jun 30]
-Cruzeiro   2-3  S„o Paulo
- [Rafael Donato 13',53'; LuÌs Fabiano 11', Lucas 15', J·dson 48']
-N·utico   0-2  Fluminense
+Cruzeiro   2-3  S√£o Paulo
+ [Rafael Donato 13',53'; Lu√≠s Fabiano 11', Lucas 15', J√°dson 48']
+N√°utico   0-2  Fluminense
  [Samuel Rosa 30',71']
 Vasco da Gama   3-2  Ponte Preta
- [Alecsandro 20', …der Luis 48', Diego Souza 76'p; Roger 16',26']
+ [Alecsandro 20', √âder Luis 48', Diego Souza 76'p; Roger 16',26']
 [Jul 1]
 Portuguesa   0-0  Santos
 Coritiba   2-3  Sport
  [Anderson Aquino 12', Tcheco 24'; Henrique 36', Marquinhos Gabriel 75', Felipe Azevedo 86']
 Bahia    1-1  Internacional
- [Gabriel 44'; Õndio 62']
+ [Gabriel 44'; √çndio 62']
 Palmeiras   3-1  Figueirense              [played in Barueri-SP]
- [Rom·n 37', Barcos 84', Maikon Leite 86'; J˙lio Cesar 30']
-Flamengo   3-2  AtlÈtico/GO
+ [Rom√°n 37', Barcos 84', Maikon Leite 86'; J√∫lio Cesar 30']
+Flamengo   3-2  Atl√©tico/GO
  [Renato Abreu 34',60', Adryan 56'; Felipe 27',79']
-GrÍmio    0-1  AtlÈtico/MG
- [JÙ 26']
+Gr√™mio    0-1  Atl√©tico/MG
+ [J√¥ 26']
 [Jul 11]
 Corinthians   1-3  Botafogo
- [Chic„o 89'p; Paulo AndrÈ 27'og, …lkeson 56',68']
+ [Chic√£o 89'p; Paulo Andr√© 27'og, √âlkeson 56',68']
 
 Round 8
 [Jul 7]
 Botafogo   3-0  Bahia
- [Cidinho 6',44', …lkeson 47']
+ [Cidinho 6',44', √âlkeson 47']
 Internacional   2-1  Cruzeiro
- [Oscar 7', Leandro Dami„o 36'; LÈo 64']
-AtlÈtico/GO   0-1  N·utico
- [Ara˙jo 22']
+ [Oscar 7', Leandro Dami√£o 36'; L√©o 64']
+Atl√©tico/GO   0-1  N√°utico
+ [Ara√∫jo 22']
 [Jul 8]
 Fluminense   1-0  Flamengo
  [Fred 10']
-S„o Paulo   3-1  Coritiba
- [J·dson 14', Maicon 40', Osvaldo 79'; Robinho 70'p]
-Santos    4-2  GrÍmio
+S√£o Paulo   3-1  Coritiba
+ [J√°dson 14', Maicon 40', Osvaldo 79'; Robinho 70'p]
+Santos    4-2  Gr√™mio
  [Edu Dracena 27', Felipe Anderson 38',69', Neymar 62'; Vilson 77', Marquinhos 90'+2']
 Figueirense   1-1  Vasco da Gama
  [Ronny 73'; Diego Souza 21']
 Sport    1-1  Corinthians
- [Marquinhos Gabriel 89'; LiÈdson 74']
+ [Marquinhos Gabriel 89'; Li√©dson 74']
 Ponte Preta   1-0  Palmeiras
  [Ricardinho 15']
-AtlÈtico/MG   2-0  Portuguesa
+Atl√©tico/MG   2-0  Portuguesa
  [Marcos Rocha 23', Leonardo Silva 51']
 
 Round 9
 [Jul 14]
-Figueirense   3-4  AtlÈtico/MG
- [Anderson ConceiÁ„o 37', J˙lio Cesar 45'+2', Ronny 59';
-  Ronaldinho Ga˙cho 17'p, Leonardo Silva 64', Bernard 68', Guilherme 73']
-Corinthians   2-1  N·utico
+Figueirense   3-4  Atl√©tico/MG
+ [Anderson Concei√ß√£o 37', J√∫lio Cesar 45'+2', Ronny 59';
+  Ronaldinho Ga√∫cho 17'p, Leonardo Silva 64', Bernard 68', Guilherme 73']
+Corinthians   2-1  N√°utico
  [Danilo 22',49'; Elicarlos 21']
 Ponte Preta   4-1  Coritiba
  [Roger 36',52',90'+1', Ricardinho 48'; Pereira 39']
@@ -265,37 +262,37 @@ Ponte Preta   4-1  Coritiba
 Botafogo   1-1  Fluminense
  [Andrezinho 66'; Fred 51']
 Bahia    1-2  Flamengo
- [KlÈberson 37'; Hernane 30', Renato Abreu 71'p]
-Cruzeiro   1-3  GrÍmio
- [Wellington Paulista 90'+3'p; Marcelo Moreno 25',64', KlÈber 28']
+ [Kl√©berson 37'; Hernane 30', Renato Abreu 71'p]
+Cruzeiro   1-3  Gr√™mio
+ [Wellington Paulista 90'+3'p; Marcelo Moreno 25',64', Kl√©ber 28']
 Internacional   0-0  Santos
 Sport    2-1  Portuguesa
- [Henrique 15', Gilberto 68'; MoisÈs 71']
-Vasco da Gama   1-0  AtlÈtico/GO
+ [Henrique 15', Gilberto 68'; Mois√©s 71']
+Vasco da Gama   1-0  Atl√©tico/GO
  [Alecsandro 13']
-Palmeiras   1-1  S„o Paulo                [played in Barueri-SP]
- [Mazinho 81'; LuÌs Fabiano 12']
+Palmeiras   1-1  S√£o Paulo                [played in Barueri-SP]
+ [Mazinho 81'; Lu√≠s Fabiano 12']
 
 Round 10
 [Jul 18]
-GrÍmio    3-1  Sport
+Gr√™mio    3-1  Sport
  [Marcelo Moreno 64', Leandro 72',79'; Felipe Azevedo 38']
 Santos    0-0  Botafogo
-N·utico   3-0  Ponte Preta
+N√°utico   3-0  Ponte Preta
  [Kieza 35',88', Souza 60']
 Portuguesa   0-2  Cruzeiro
  [Wellington Paulista 77'p, Diego Renan 83']
-AtlÈtico/MG   3-1  Internacional
+Atl√©tico/MG   3-1  Internacional
  [Guilherme 45', Leonardo Silva 60', Escudero 90'+1'; Fred 64']
-S„o Paulo   0-1  Vasco da Gama
- [F·gner 48']
+S√£o Paulo   0-1  Vasco da Gama
+ [F√°gner 48']
 Flamengo   0-3  Corinthians
  [Douglas 27',39', Danilo 54']
 [Jul 19]
 Coritiba   1-1  Palmeiras
  [Anderson Aquino 67'; Patrik 5']
-AtlÈtico/GO   3-2  Figueirense
- [M·rcio 38'p, Felipe 58', JoÌlson 82'; Caio 23'p,62'p]
+Atl√©tico/GO   3-2  Figueirense
+ [M√°rcio 38'p, Felipe 58', Jo√≠lson 82'; Caio 23'p,62'p]
 Fluminense   4-0  Bahia
  [Fred 48'p,74'p, Thiago Neves 65', Wallace 87']
 
@@ -303,258 +300,258 @@ Round 11
 [Jul 21]
 Vasco da Gama   2-0  Santos
  [Douglas 11', Alecsandro 48']
-Sport    1-4  AtlÈtico/MG
- [Gilberto 26'; Danilinho 33', Ronaldinho Ga˙cho 59', JÙ 64', Bernard 72']
+Sport    1-4  Atl√©tico/MG
+ [Gilberto 26'; Danilinho 33', Ronaldinho Ga√∫cho 59', J√¥ 64', Bernard 72']
 Corinthians   1-1  Portuguesa
- [Douglas 49'; HÈverton 29']
+ [Douglas 49'; H√©verton 29']
 [Jul 22]
-Internacional   4-1  AtlÈtico/GO
- [Elton 20', Dagoberto 46', Jaj· 58', Fred 75'; ReniÍ 27']
-Figueirense   0-2  S„o Paulo
- [Ademilson 49", Willian JosÈ 90'+3']
-Palmeiras   3-0  N·utico                [played in Barueri-SP]
- [Obina 18', Mazinho 30', M·rcio Ara˙jo 50']
+Internacional   4-1  Atl√©tico/GO
+ [Elton 20', Dagoberto 46', Jaj√° 58', Fred 75'; Reni√™ 27']
+Figueirense   0-2  S√£o Paulo
+ [Ademilson 49", Willian Jos√© 90'+3']
+Palmeiras   3-0  N√°utico                [played in Barueri-SP]
+ [Obina 18', Mazinho 30', M√°rcio Ara√∫jo 50']
 Cruzeiro   1-0  Flamengo
  [Borges 43']
 Ponte Preta   1-2  Fluminense
- [FerrÛn 83'; Thiago Neves 44', Fred 89'p]
-Botafogo   0-1  GrÍmio
+ [Ferr√≥n 83'; Thiago Neves 44', Fred 89'p]
+Botafogo   0-1  Gr√™mio
  [Marcelo Moreno 48']
 Bahia    2-2  Coritiba
- [Souza 9', Mancini 46'; …verton Costa 65', Emerson 69']
+ [Souza 9', Mancini 46'; √âverton Costa 65', Emerson 69']
 
 Round 12
 [Jul 25]
 Figueirense   0-1  Internacional
  [Dagoberto 24']
 Ponte Preta   1-1  Sport
- [AndrÈ LuÌs 6'; Marquinhos Gabriel 21']
-N·utico   3-4  Coritiba
+ [Andr√© Lu√≠s 6'; Marquinhos Gabriel 21']
+N√°utico   3-4  Coritiba
  [Souza 13', Kieza 17', Rico 85'; Robinho 15', Leonardo 46',55'p, Pereira 77']
 Vasco da Gama   1-0  Botafogo
  [Alecsandro 86']
-AtlÈtico/GO   4-3  S„o Paulo
- [Marino 16', M·rcio 25'p, Patric 30', Wesley 43'; AdemÌlson 41', J·dson 49', Rafael TolÛi 62']
-GrÍmio    1-0  Fluminense
- [KlÈber 68']
+Atl√©tico/GO   4-3  S√£o Paulo
+ [Marino 16', M√°rcio 25'p, Patric 30', Wesley 43'; Adem√≠lson 41', J√°dson 49', Rafael Tol√≥i 62']
+Gr√™mio    1-0  Fluminense
+ [Kl√©ber 68']
 Corinthians   2-0  Cruzeiro
- [Chic„o 22', Paulinho 90'+3']
+ [Chic√£o 22', Paulinho 90'+3']
 [Jul 26]
-AtlÈtico/MG   2-0  Santos
- [Danilinho 41', RÈver 65']
+Atl√©tico/MG   2-0  Santos
+ [Danilinho 41', R√©ver 65']
 Palmeiras   0-2  Bahia                [played in Barueri-SP]
  [Souza 69'p,81']
 Flamengo   0-0  Portuguesa
 
 Round 13
 [Jul 28]
-Coritiba   2-1  GrÍmio
- [Ayrton 60', Leonardo 89'; AndrÈ Lima 63']
+Coritiba   2-1  Gr√™mio
+ [Ayrton 60', Leonardo 89'; Andr√© Lima 63']
 Internacional   0-0  Vasco da Gama
 Botafogo   1-0  Figueirense
  [Andrezinho 59']
 [Jul 29]
-Sport    0-0  AtlÈtico/GO
+Sport    0-0  Atl√©tico/GO
 Bahia    0-0  Corinthians
-S„o Paulo   4-1  Flamengo
- [Maicon 43', LuÌs Fabiano 45'+1',59', J·dson 90'+2'; RamÛn 66']
-Fluminense   0-0  AtlÈtico/MG
+S√£o Paulo   4-1  Flamengo
+ [Maicon 43', Lu√≠s Fabiano 45'+1',59', J√°dson 90'+2'; Ram√≥n 66']
+Fluminense   0-0  Atl√©tico/MG
 Cruzeiro   2-1  Palmeiras
  [Borges 36'p,57'; Barcos 68']
 Santos    2-1  Ponte Preta
  [Bruno Peres 37', Miralles 86'; Roger 82']
-Portuguesa   3-1  N·utico
- [MoisÈs 30', Ananias 57', Diego Viana 87'; Kieza 8']
+Portuguesa   3-1  N√°utico
+ [Mois√©s 30', Ananias 57', Diego Viana 87'; Kieza 8']
 
 Round 14
 [Aug 4]
-AtlÈtico/GO   1-2  Botafogo
- [M·rcio 27'p; Seedorf 64', Fellype Gabriel 74']
+Atl√©tico/GO   1-2  Botafogo
+ [M√°rcio 27'p; Seedorf 64', Fellype Gabriel 74']
 Palmeiras   0-1  Internacional              [played in Barueri-SP]
  [Ygor 34']
 Portuguesa   2-0  Figueirense
  [Bruno Mineiro 54', Ananias 86']
 [Aug 5]
-GrÍmio    3-1  Bahia
+Gr√™mio    3-1  Bahia
  [Elano 31'p, Souza 87', Marcelo Moreno 90'+2'; Fahel 63']
 Coritiba   0-2  Fluminense
  [Pereira 82'og, Fred 86']
-S„o Paulo   1-0  Sport
+S√£o Paulo   1-0  Sport
  [Ademilson 78']
 Vasco da Gama   0-0  Corinthians
-N·utico   3-0  Santos
+N√°utico   3-0  Santos
  [Patric 58', Kim 80', Kieza 90'+1']
 Cruzeiro   1-2  Ponte Preta
  [Borges 45'+2'; Cicinho 17', Marcinho 47']
 [Sep 26]
-Flamengo   2-1  AtlÈtico/MG
- [V·gner Love 21', LiÈdson 55'; JÙ 49']
+Flamengo   2-1  Atl√©tico/MG
+ [V√°gner Love 21', Li√©dson 55'; J√¥ 49']
 
 Round 15
 [Aug 8]
-Internacional   0-0  N·utico
+Internacional   0-0  N√°utico
 Sport    0-2  Vasco da Gama
- [Juninho Pernambucano 67', Carlos TenÛrio 84']
-Corinthians   1-1  AtlÈtico/GO
+ [Juninho Pernambucano 67', Carlos Ten√≥rio 84']
+Corinthians   1-1  Atl√©tico/GO
  [Paulinho 74'; Ricardo Bueno 56']
 Bahia    0-0  Portuguesa
 Santos    4-2  Cruzeiro
- [Felipe Anderson 19', Victor Andrade 32', Durval 59', Bill 78'; Borges 28', Cear· 50']
+ [Felipe Anderson 19', Victor Andrade 32', Durval 59', Bill 78'; Borges 28', Cear√° 50']
 Figueirense   0-2  Flamengo
- [V·gner Love 62',86']
+ [V√°gner Love 62',86']
 Botafogo   1-2  Palmeiras
  [Andrezinho 57'; Barcos 14',72']
 [Aug 9]
-Fluminense   2-1  S„o Paulo
- [Leandro EuzÈbio 35', Fred 49'; CÌcero 43']
-Ponte Preta   0-0  GrÍmio
-AtlÈtico/MG   1-0  Coritiba
- [RÈver 47']
+Fluminense   2-1  S√£o Paulo
+ [Leandro Euz√©bio 35', Fred 49'; C√≠cero 43']
+Ponte Preta   0-0  Gr√™mio
+Atl√©tico/MG   1-0  Coritiba
+ [R√©ver 47']
 
 Round 16
 [Aug 11]
 Sport    0-1  Figueirense
- [AloÌsio 55']
+ [Alo√≠sio 55']
 Bahia    0-1  Cruzeiro
  [Montillo 8']
-Santos    2-2  AtlÈtico/GO              [played in S„o Paulo-SP]
- [Patito RodrÌguez 56', Miralles 82'p; Patric 4', Wesley 36']
-Flamengo   2-0  N·utico
- [V·gner Love 14',43']
+Santos    2-2  Atl√©tico/GO              [played in S√£o Paulo-SP]
+ [Patito Rodr√≠guez 56', Miralles 82'p; Patric 4', Wesley 36']
+Flamengo   2-0  N√°utico
+ [V√°gner Love 14',43']
 [Aug 12]
 Internacional   2-1  Ponte Preta
- [Jaj· 59', Mike 90'+1'; Cicinho 40']
-AtlÈtico/MG   1-0  Vasco da Gama
- [JÙ 69']
+ [Jaj√° 59', Mike 90'+1'; Cicinho 40']
+Atl√©tico/MG   1-0  Vasco da Gama
+ [J√¥ 69']
 Coritiba   1-2  Corinthians
- […verton Ribeiro 45'+1'; Paulinho 65', Romarinho 90']
-S„o Paulo   1-2  GrÍmio
- [CÌcero 40'; Werley 66', AndrÈ Lima 90'+1']
+ [√âverton Ribeiro 45'+1'; Paulinho 65', Romarinho 90']
+S√£o Paulo   1-2  Gr√™mio
+ [C√≠cero 40'; Werley 66', Andr√© Lima 90'+1']
 Portuguesa   1-1  Botafogo
- [Bruno Mineiro 38'; …lkeson 18']
+ [Bruno Mineiro 38'; √âlkeson 18']
 Fluminense   1-0  Palmeiras
  [Jean 84']
 
 Round 17
 [Aug 15]
-GrÍmio    1-2  Portuguesa
- [KlÈber 87'; Ananias 26', Bruno Mineiro 83']
+Gr√™mio    1-2  Portuguesa
+ [Kl√©ber 87'; Ananias 26', Bruno Mineiro 83']
 Cruzeiro   1-1  Fluminense
  [Wellington Paulista 3'; Fred 43']
 Ponte Preta   0-2  Bahia
  [Gabriel 10', Souza 89']
-AtlÈtico/GO   1-1  AtlÈtico/MG
+Atl√©tico/GO   1-1  Atl√©tico/MG
  [Ernandes 9'; Bernard 27']
 Palmeiras   1-0  Flamengo                [played in Barueri-SP]
  [Barcos 32']
 Botafogo   2-0  Sport
- […lkeson 66', Seedorf 76']
-N·utico   3-0  S„o Paulo
- [Kieza 12'p, Ara˙jo 28', RogÈrio Ceni 61'og]
+ [√âlkeson 66', Seedorf 76']
+N√°utico   3-0  S√£o Paulo
+ [Kieza 12'p, Ara√∫jo 28', Rog√©rio Ceni 61'og]
 [Aug 16]
 Corinthians   1-0  Internacional
- [Paulo AndrÈ 68']
+ [Paulo Andr√© 68']
 Figueirense   1-3  Santos
  [Fernandes 47'; Neymar 50', Bruno Peres 77', Ganso 84']
 Vasco da Gama   2-2  Coritiba
- [Fellipe 48', Wendel 87'; J˙nior Urso 21', …verton Ribeiro 89']
+ [Fellipe 48', Wendel 87'; J√∫nior Urso 21', √âverton Ribeiro 89']
 
 Round 18
 [Aug 18]
 Fluminense   1-0  Sport                [played in Volta Redonda-RJ]
  [Samuel Rosa 84']
-N·utico   1-0  Bahia
- [MartÌnez 87']
-S„o Paulo   3-0  Ponte Preta
- [RogÈrio Ceni 21'p, Lucas 26', Osvaldo 86']
+N√°utico   1-0  Bahia
+ [Mart√≠nez 87']
+S√£o Paulo   3-0  Ponte Preta
+ [Rog√©rio Ceni 21'p, Lucas 26', Osvaldo 86']
 [Aug 18]
-GrÍmio    4-0  Figueirense
- [Elano 35', Leandro 40',49', AndrÈ Lima 89']
-AtlÈtico/MG   3-2  Botafogo
- [Escudero 41', JÙ 53', Neto Berola 88'; Andrezinho 33',79']
+Gr√™mio    4-0  Figueirense
+ [Elano 35', Leandro 40',49', Andr√© Lima 89']
+Atl√©tico/MG   3-2  Botafogo
+ [Escudero 41', J√¥ 53', Neto Berola 88'; Andrezinho 33',79']
 Santos    3-2  Corinthians
- [AndrÈ 36',48', Bruno Rodrigo 83'; Danilo 28', MartÌnez 80']
+ [Andr√© 36',48', Bruno Rodrigo 83'; Danilo 28', Mart√≠nez 80']
 Coritiba   4-0  Cruzeiro
- [Lucas Mendes 19', Ayrton 37', Roberto 48', ¬nderson Aquino 77']
-AtlÈtico/GO   2-1  Palmeiras
+ [Lucas Mendes 19', Ayrton 37', Roberto 48', √Çnderson Aquino 77']
+Atl√©tico/GO   2-1  Palmeiras
  [Eron 18', Rayllan 79']
 Portuguesa   1-1  Internacional
  [Marcelo Cordeiro 81'p; Juan 74']
 Flamengo   1-0  Vasco da Gama
- [V·gner Love 38']
+ [V√°gner Love 38']
 
 Round 19
 [Aug 25]
 Palmeiras   1-2  Santos
- [CorrÍa 40'; Neymar 40',62']
+ [Corr√™a 40'; Neymar 40',62']
 Vasco da Gama   1-2  Fluminense
  [Gum 73'og; Thiago Neves 71',86']
 Ponte Preta   2-1  Portuguesa
  [Giancarlo 5',83'; Bruno Mineiro 23']
 [Aug 26]
 Figueirense   3-1  Coritiba
- [AloÌsio 21',26',52'; ¬nderson Aquino 32']
-Corinthians   1-2  S„o Paulo
- […merson 5'; LuÌs Fabiano 23',61']
+ [Alo√≠sio 21',26',52'; √Çnderson Aquino 32']
+Corinthians   1-2  S√£o Paulo
+ [√âmerson 5'; Lu√≠s Fabiano 23',61']
 Botafogo   0-0  Flamengo
-Internacional   0-1  GrÍmio
+Internacional   0-1  Gr√™mio
  [Elano 7']
-Bahia    1-1  AtlÈtico/GO
+Bahia    1-1  Atl√©tico/GO
  [Fabinho 8'; Diogo Campos 82']
-Sport    0-0  N·utico
-Cruzeiro   2-2  AtlÈtico/MG
- [Wallyson 16', Mateus 90'+11'; Leonardo Silva 45'+3', Ronaldinho Ga˙cho 89']
+Sport    0-0  N√°utico
+Cruzeiro   2-2  Atl√©tico/MG
+ [Wallyson 16', Mateus 90'+11'; Leonardo Silva 45'+3', Ronaldinho Ga√∫cho 89']
 
 Round 20
 [Aug 29]
 Santos    1-3  Bahia
- [AndrÈ 14'; Souza 59', Neto 62', Gabriel 72']
+ [Andr√© 14'; Souza 59', Neto 62', Gabriel 72']
 Coritiba   1-0  Internacional
  [Rafinha 56']
 Portuguesa   3-0  Palmeiras
- [Bruno Mineiro 49',70', MoisÈs 84']
-N·utico   3-2  Figueirense
- [Elicarlos 58',64', Souza 75'; Caio 10', AloÌsio 19']
-AtlÈtico/MG   2-2  Ponte Preta
+ [Bruno Mineiro 49',70', Mois√©s 84']
+N√°utico   3-2  Figueirense
+ [Elicarlos 58',64', Souza 75'; Caio 10', Alo√≠sio 19']
+Atl√©tico/MG   2-2  Ponte Preta
  [Danilinho 15', Guilherme 49'; Cicinho 42',82']
-AtlÈtico/GO   0-2  Cruzeiro
+Atl√©tico/GO   0-2  Cruzeiro
  [Borges 26', Wellington Paulista 70'p]
-GrÍmio    2-0  Vasco da Gama
- [Marcelo Moreno 40', KlÈber 58']
+Gr√™mio    2-0  Vasco da Gama
+ [Marcelo Moreno 40', Kl√©ber 58']
 Fluminense   1-1  Corinthians
- [Fred 83'; …merson 36']
+ [Fred 83'; √âmerson 36']
 [Aug 30]
-S„o Paulo   4-0  Botafogo
- [LuÌs Fabiano 5', Osvaldo 58', Lucas 60', CÌcero 88']
+S√£o Paulo   4-0  Botafogo
+ [Lu√≠s Fabiano 5', Osvaldo 58', Lucas 60', C√≠cero 88']
 Flamengo   1-1  Sport                [played in Volta Redonda-RJ]
  [Ibson 13'; Felipe Azevedo 19']
 
 Round 21
 [Sep 1]
 Figueirense   2-2  Fluminense
- [AloÌsio 68', Jo„o Paulo 86'; Dig„o 46', Rafael SÛbis 52']
-Palmeiras   0-0  GrÍmio
+ [Alo√≠sio 68', Jo√£o Paulo 86'; Dig√£o 46', Rafael S√≥bis 52']
+Palmeiras   0-0  Gr√™mio
 Vasco da Gama   2-0  Portuguesa
- [Alecsandro 36', Carlos TenÛrio 48']
+ [Alecsandro 36', Carlos Ten√≥rio 48']
 [Sep 2]
-Bahia    1-0  S„o Paulo
+Bahia    1-0  S√£o Paulo
  [Gabriel 71']
-Corinthians   1-0  AtlÈtico/MG
- [Paulo AndrÈ 63']
+Corinthians   1-0  Atl√©tico/MG
+ [Paulo Andr√© 63']
 Sport    2-1  Santos
- [Hugo 3', Felipe Azevedo 36'; AndrÈ 51']
+ [Hugo 3', Felipe Azevedo 36'; Andr√© 51']
 Internacional   4-1  Flamengo
- [Forl·n 28',66', Josimar 39', Leandro Dami„o 75'; V·gner Love 14']
-Ponte Preta   3-1  AtlÈtico/GO
- [Giancarlo 57', FerrÛn 67', ClÈber 84'; Diego Giarretta 8']
+ [Forl√°n 28',66', Josimar 39', Leandro Dami√£o 75'; V√°gner Love 14']
+Ponte Preta   3-1  Atl√©tico/GO
+ [Giancarlo 57', Ferr√≥n 67', Cl√©ber 84'; Diego Giarretta 8']
 Botafogo   2-0  Coritiba
- […lkeson 14', Lodeiro 28']
-Cruzeiro   3-0  N·utico
- [Borges 74', …lber 86', Wellington Paulista 90']
+ [√âlkeson 14', Lodeiro 28']
+Cruzeiro   3-0  N√°utico
+ [Borges 74', √âlber 86', Wellington Paulista 90']
 
 Round 22
 [Sep 5]
-N·utico   1-1  Vasco da Gama
+N√°utico   1-1  Vasco da Gama
  [Kieza 41'; Felipe Bastos 52']
 Flamengo   0-1  Ponte Preta              [played in Volta Redonda-RJ]
  [Uendel 20']
@@ -563,37 +560,37 @@ Figueirense   1-0  Corinthians
 Portuguesa   3-0  Coritiba
  [Bruno Mineiro 11',46', Ananias 54']
 Cruzeiro   1-3  Botafogo
- [Tinga 18'; Seedorf 34',35', J·dson 55']
-S„o Paulo   1-1  Internacional
+ [Tinga 18'; Seedorf 34',35', J√°dson 55']
+S√£o Paulo   1-1  Internacional
  [Maicon 18'; Dagoberto 7']
-GrÍmio    2-1  AtlÈtico/GO
+Gr√™mio    2-1  Atl√©tico/GO
  [Elano 9',18'; Marino 24']
-Bahia    0-0  AtlÈtico/MG
+Bahia    0-0  Atl√©tico/MG
 [Sep 6]
 Fluminense   3-1  Santos
- [Wellington Nem 20',43', Samuel Rosa 77'; AndrÈ 28']
+ [Wellington Nem 20',43', Samuel Rosa 77'; Andr√© 28']
 Palmeiras   3-1  Sport
- [CorrÍa 52', Tiago Real 63', Obina 67'; Rivaldo 61']
+ [Corr√™a 52', Tiago Real 63', Obina 67'; Rivaldo 61']
 
 Round 23
 [Sep 8]
 Coritiba   3-0  Flamengo
- [Lincoln 16', Rafinha 56', …verton Ribeiro 71']
+ [Lincoln 16', Rafinha 56', √âverton Ribeiro 71']
 Ponte Preta   2-2  Figueirense
- [Giancarlo 8', Marcinho 78'; AloÌsio 16', Caio 45']
-Corinthians   3-1  GrÍmio
+ [Giancarlo 8', Marcinho 78'; Alo√≠sio 16', Caio 45']
+Corinthians   3-1  Gr√™mio
  [Ralf 5', Guilherme 10', Geovani 90'; Leandro 58']
 [Sep 9]
-Santos    0-0  S„o Paulo
+Santos    0-0  S√£o Paulo
 Internacional   0-1  Fluminense
  [Fred 28']
-Botafogo   3-1  N·utico
- [Elkeson 1',33', Andrezinho 90'+1'; Ara˙jo 54'p]
-AtlÈtico/GO   1-1  Portuguesa
+Botafogo   3-1  N√°utico
+ [Elkeson 1',33', Andrezinho 90'+1'; Ara√∫jo 54'p]
+Atl√©tico/GO   1-1  Portuguesa
  [Marcos 37'; Valdomiro 52']
 Sport    2-1  Cruzeiro
  [Rithelly 30', Gilberto 61'; Wallyson 8']
-AtlÈtico/MG   3-0  Palmeiras
+Atl√©tico/MG   3-0  Palmeiras
  [Leonardo Silva 52', Bernard 83',90'+2']
 Vasco da Gama   0-4  Bahia
  [Souza 39',69', Jones 48',57']
@@ -601,93 +598,93 @@ Vasco da Gama   0-4  Bahia
 Round 24
 [Sep 12]
 Corinthians   1-1  Ponte Preta
- […merson 89'; Tiago Alves 68']
+ [√âmerson 89'; Tiago Alves 68']
 Figueirense   2-0  Cruzeiro
- [Jo„o Paulo 34', AloÌsio 85']
+ [Jo√£o Paulo 34', Alo√≠sio 85']
 Portuguesa   0-2  Fluminense
  [Jean 73', Wellington Nem 75']
-AtlÈtico/GO   1-2  Coritiba
+Atl√©tico/GO   1-2  Coritiba
  [Patric 10'; Robinho 1', Deivid 58']
 Sport    1-1  Bahia
- [Hugo 4'; HÈlder 82']
-AtlÈtico/MG   1-0  S„o Paulo
+ [Hugo 4'; H√©lder 82']
+Atl√©tico/MG   1-0  S√£o Paulo
  [Leonardo Silva 62']
 Santos    2-0  Flamengo
  [Victor Andrade 85', Neymar 87']
 Vasco da Gama   3-1  Palmeiras
- [Carlos TenÛrio 29', NÌlton 51', Juninho Pernambucano 73'; Luan 23']
+ [Carlos Ten√≥rio 29', N√≠lton 51', Juninho Pernambucano 73'; Luan 23']
 [Sep 13]
 Botafogo   1-1  Internacional
- [Cidinho 76'; Leandro Dami„o 67']
-GrÍmio    2-0  N·utico
- [Marco AntÙnio 60', KlÈber 90'+2']
+ [Cidinho 76'; Leandro Dami√£o 67']
+Gr√™mio    2-0  N√°utico
+ [Marco Ant√¥nio 60', Kl√©ber 90'+2']
 
 Round 25
 [Sep 15]
-Fluminense   1-2  AtlÈtico/GO              [played in Volta Redonda-RJ]
- [Michael 63'; Diego Giaretta 17', ReniÍ 41']
-S„o Paulo   3-1  Portuguesa
- [Osvaldo 5', Bruno Cortez 57', LuÌs Fabiano 77'; Bruno Mineiro 36']
+Fluminense   1-2  Atl√©tico/GO              [played in Volta Redonda-RJ]
+ [Michael 63'; Diego Giaretta 17', Reni√™ 41']
+S√£o Paulo   3-1  Portuguesa
+ [Osvaldo 5', Bruno Cortez 57', Lu√≠s Fabiano 77'; Bruno Mineiro 36']
 [Sep 16]
 Coritiba   1-2  Santos
  [Deivid 10'; Neymar 70',82']
 Palmeiras   0-2  Corinthians
  [Romarinho 21', Paulinho 53']
 Cruzeiro   1-1  Vasco da Gama              [played in Varginha-MG]
- [Renato Silva 3'og; NÌlton 27']
+ [Renato Silva 3'og; N√≠lton 27']
 Bahia    2-1  Figueirense
- [HÈlder 72', Cl·udio Pitbull 90'; J˙lio CÈsar 33']
-N·utico   1-0  AtlÈtico/MG
+ [H√©lder 72', Cl√°udio Pitbull 90'; J√∫lio C√©sar 33']
+N√°utico   1-0  Atl√©tico/MG
  [Souza 48']
-Flamengo   1-1  GrÍmio
+Flamengo   1-1  Gr√™mio
  [Adryan 61'; Marcelo Moreno 17']
 Internacional   2-2  Sport
- [Cassiano 62', Leandro Dami„o 75'; Rithelly 35', Gilsinho 41']
+ [Cassiano 62', Leandro Dami√£o 75'; Rithelly 35', Gilsinho 41']
 Ponte Preta   0-0  Botafogo
 
 Round 26
 [Sep 22]
 Figueirense   1-3  Palmeiras
- [AloÌsio 65'; Thiago Heleno 7', Henrique 9', Marcos AssunÁ„o 67']
-Fluminense   2-1  N·utico                [played in Volta Redonda-RJ]
- [Leandro EuzÈbio 38', Fred 45'; Kim 81']
-Santos    1-3  Portuguesa                [played in S„o Paulo-SP]
- [AndrÈ 74'; Bruno Mineiro 37',62', LÈo Silva 42']
+ [Alo√≠sio 65'; Thiago Heleno 7', Henrique 9', Marcos Assun√ß√£o 67']
+Fluminense   2-1  N√°utico                [played in Volta Redonda-RJ]
+ [Leandro Euz√©bio 38', Fred 45'; Kim 81']
+Santos    1-3  Portuguesa                [played in S√£o Paulo-SP]
+ [Andr√© 74'; Bruno Mineiro 37',62', L√©o Silva 42']
 [Sep 23]
-S„o Paulo   1-0  Cruzeiro
+S√£o Paulo   1-0  Cruzeiro
  [Osvaldo 67']
 Ponte Preta   0-0  Vasco da Gama
-AtlÈtico/GO   1-2  Flamengo
- [JoÌlson 10'; ClÈber Santana 35', LiÈdson 65']
+Atl√©tico/GO   1-2  Flamengo
+ [Jo√≠lson 10'; Cl√©ber Santana 35', Li√©dson 65']
 Botafogo   2-2  Corinthians
  [Seedorf 5',74'; Guerrero 8', Douglas 11'p]
-AtlÈtico/MG   0-0  GrÍmio
+Atl√©tico/MG   0-0  Gr√™mio
 Internacional   3-1  Bahia
- [Fred 12', Forl·n 36', Leandro Dami„o 51'; KlÈberson 90']
+ [Fred 12', Forl√°n 36', Leandro Dami√£o 51'; Kl√©berson 90']
 Sport    1-0  Coritiba
  [Gilberto 90'+2'p]
 
 Round 27
 [Sep 29]
 Cruzeiro   0-0  Internacional              [played in Varginha-MG]
-N·utico   2-0  AtlÈtico/GO
+N√°utico   2-0  Atl√©tico/GO
  [Kieza 18'p,40']
-Portuguesa   1-1  AtlÈtico/MG
- [LÈo Silva 50'; Bernard 65']
+Portuguesa   1-1  Atl√©tico/MG
+ [L√©o Silva 50'; Bernard 65']
 Vasco da Gama   3-1  Figueirense
- [Luan 33', Carlos TenÛrio 50', Juninho Pernambucano 79'; Caio 12']
+ [Luan 33', Carlos Ten√≥rio 50', Juninho Pernambucano 79'; Caio 12']
 Palmeiras   3-0  Ponte Preta
- [Barcos 11',14', Marcos AssunÁ„o 58']
+ [Barcos 11',14', Marcos Assun√ß√£o 58']
 [Sep 30]
 Flamengo   0-1  Fluminense
  [Fred 17']
 Bahia    2-0  Botafogo
- [Fahel 18', HÈlder 85']
-Coritiba   1-1  S„o Paulo
- […verton Ribeiro 59'p; Osvaldo 83']
+ [Fahel 18', H√©lder 85']
+Coritiba   1-1  S√£o Paulo
+ [√âverton Ribeiro 59'p; Osvaldo 83']
 Corinthians   3-0  Sport
  [Paulinho 54',  Romarinho 70',84']
-GrÍmio    1-1  Santos
+Gr√™mio    1-1  Santos
  [Werley 32'; Bruno Rodrigo 57']
 
 Round 28
@@ -696,53 +693,53 @@ Flamengo   0-0  Bahia
 Coritiba   1-0  Ponte Preta
  [Deivid 42']
 Portuguesa   5-1  Sport
- [Bruno Mineiro 24',47',66', MoisÈs 81', Rodriguinho 89'; Hugo 15']
+ [Bruno Mineiro 24',47',66', Mois√©s 81', Rodriguinho 89'; Hugo 15']
 [Oct 6]
-S„o Paulo   3-0  Palmeiras
- [LuÌs Fabiano 34',69', DenÌlson 42']
+S√£o Paulo   3-0  Palmeiras
+ [Lu√≠s Fabiano 34',69', Den√≠lson 42']
 Santos    1-1  Internacional
  [Bernardo 15'; Cassiano 51']
-N·utico   2-1  Corinthians
+N√°utico   2-1  Corinthians
  [Kieza 30', Ralf 84'og; Guerrero 44']
-AtlÈtico/GO   0-1  Vasco da Gama
+Atl√©tico/GO   0-1  Vasco da Gama
  [Juninho Pernambucano 86']
 Fluminense   1-0  Botafogo
  [Fred 72']
-GrÍmio    2-1  Cruzeiro
- [Marcelo Moreno 66', Marquinhos 77'; Anselmo RamÛn 27']
-AtlÈtico/MG   6-0  Figueirense
- [Ronaldinho Ga˙cho 11',31',62'p, RÈver 23', Bernard 68', Carlos CÈsar 82']
+Gr√™mio    2-1  Cruzeiro
+ [Marcelo Moreno 66', Marquinhos 77'; Anselmo Ram√≥n 27']
+Atl√©tico/MG   6-0  Figueirense
+ [Ronaldinho Ga√∫cho 11',31',62'p, R√©ver 23', Bernard 68', Carlos C√©sar 82']
 
 Round 29
 [Oct 10]
 Bahia    0-2  Fluminense
- [Bruno Vieira 58', Rafael SÛbis 74']
+ [Bruno Vieira 58', Rafael S√≥bis 74']
 Botafogo   0-2  Santos
- [AndrÈ 53', Miralles 56']
+ [Andr√© 53', Miralles 56']
 Cruzeiro   2-0  Portuguesa                [played in Varginha-MG]
  [Montillo 37'p, Souza 90'+3']
-Figueirense   3-1  AtlÈtico/GO
- [AloÌsio 11', Ronny 33',82'; Diego Giaretta 12']
-Ponte Preta   2-1  N·utico
+Figueirense   3-1  Atl√©tico/GO
+ [Alo√≠sio 11', Ronny 33',82'; Diego Giaretta 12']
+Ponte Preta   2-1  N√°utico
  [Rildo 74', Marcinho 77'p; Douglas Santos 4']
 Corinthians   3-2  Flamengo
- [EdenÌlson 60', Paulo AndrÈ 76', …merson 89'; Renato Santos 29', LiÈdson 90'+2']
-Internacional   3-0  AtlÈtico/MG
+ [Eden√≠lson 60', Paulo Andr√© 76', √âmerson 89'; Renato Santos 29', Li√©dson 90'+2']
+Internacional   3-0  Atl√©tico/MG
  [Jackson 65', Fred 79', Cassiano 86']
-Vasco da Gama   0-2  S„o Paulo
- [LuÌs Fabiano 20', Osvaldo 48']
+Vasco da Gama   0-2  S√£o Paulo
+ [Lu√≠s Fabiano 20', Osvaldo 48']
 [Oct 11]
 Palmeiras   0-1  Coritiba                [played in Araraquara-SP]
  [Deivid 90'+2'p]
-Sport    1-3  GrÍmio
+Sport    1-3  Gr√™mio
  [Hugo 80'p; Anderson Pico 43', Leandro 51', Marquinhos 56']
 
 Round 30
 [Oct 13]
-AtlÈtico/GO   3-1  Internacional
+Atl√©tico/GO   3-1  Internacional
  [Adriano 55', Ricardo Bueno 69', Luciano 73'; Fred 15']
 Flamengo   1-1  Cruzeiro
- [LiÈdson 10'; …verton 18']
+ [Li√©dson 10'; √âverton 18']
 Portuguesa   1-1  Corinthians
  [Marcelo Cordeiro 12'; Douglas 16']
 [Oct 14]
@@ -750,36 +747,36 @@ Coritiba   2-1  Bahia
  [Luccas Claro 11', Deivid 72'; Neto 15']
 Santos    2-0  Vasco da Gama
  [Miralles 8',47']
-S„o Paulo   2-0  Figueirense
- [LuÌs Fabiano 13', Douglas 19']
-N·utico   1-0  Palmeiras
+S√£o Paulo   2-0  Figueirense
+ [Lu√≠s Fabiano 13', Douglas 19']
+N√°utico   1-0  Palmeiras
  [Kieza 13']
-AtlÈtico/MG   2-1  Sport
+Atl√©tico/MG   2-1  Sport
  [Leonardo Silva 77',90'+4'; Hugo 16']
-GrÍmio    1-1  Botafogo
- [LÈo Gago 50'; Bruno Mendes 90']
+Gr√™mio    1-1  Botafogo
+ [L√©o Gago 50'; Bruno Mendes 90']
 Fluminense   2-1  Ponte Preta
  [Fred 79'p, Gum 88'; Luan 1']
 
 Round 31
 [Oct 17]
-Fluminense   2-2  GrÍmio
- [Dig„o 59', Rafael SÛbis 62'; Elano 54', ZÈ Roberto 85']
+Fluminense   2-2  Gr√™mio
+ [Dig√£o 59', Rafael S√≥bis 62'; Elano 54', Z√© Roberto 85']
 Bahia    0-1  Palmeiras
  [Betinho 19']
 Internacional   2-3  Figueirense
- [Dagoberto 41', Rafael Moura 69'; AloÌsio 45',90', Ronny 87']
-Coritiba   2-1  N·utico
- [Alem„o 2'og, Deivid 39'; Kieza 88']
-Santos    2-2  AtlÈtico/MG
- [Miralles 1', Neymar 11'; Bernard 62', JÙ 72']
+ [Dagoberto 41', Rafael Moura 69'; Alo√≠sio 45',90', Ronny 87']
+Coritiba   2-1  N√°utico
+ [Alem√£o 2'og, Deivid 39'; Kieza 88']
+Santos    2-2  Atl√©tico/MG
+ [Miralles 1', Neymar 11'; Bernard 62', J√¥ 72']
 Portuguesa   0-0  Flamengo
 Cruzeiro   2-0  Corinthians              [played in Varginha-MG]
- [Anselmo RamÛn 20', Martinuccio 60']
+ [Anselmo Ram√≥n 20', Martinuccio 60']
 [Oct 18]
 Botafogo   3-2  Vasco da Gama
- […lkeson 29', Bruno Mendes 74',90'+2'; Carlos Alberto 24',38']
-S„o Paulo   2-0  AtlÈtico/GO
+ [√âlkeson 29', Bruno Mendes 74',90'+2'; Carlos Alberto 24',38']
+S√£o Paulo   2-0  Atl√©tico/GO
  [Paulo Miranda 28', Osvaldo 38']
 Sport    3-1  Ponte Preta
  [Rithelly 32', Toby 38', Gilsinho 80'; Giancarlo 45'+1']
@@ -790,22 +787,22 @@ Palmeiras   2-0  Cruzeiro                [played in Araraquara-SP]
  [Barcos 73',76']
 Corinthians   1-1  Bahia
  [Douglas 11'p; Fahel 32']
-GrÍmio    0-0  Coritiba
+Gr√™mio    0-0  Coritiba
 [Oct 21]
-AtlÈtico/GO   0-1  Sport
+Atl√©tico/GO   0-1  Sport
  [Hugo 48']
-N·utico   0-0  Portuguesa
-Flamengo   1-0  S„o Paulo
- [Marcos Gonz·les 72']
-AtlÈtico/MG   3-2  Fluminense
- [JÙ 68',81', Leonardo Silva 90'+2'; Wellington Nem 55', Fred 85']
+N√°utico   0-0  Portuguesa
+Flamengo   1-0  S√£o Paulo
+ [Marcos Gonz√°les 72']
+Atl√©tico/MG   3-2  Fluminense
+ [J√¥ 68',81', Leonardo Silva 90'+2'; Wellington Nem 55', Fred 85']
 Ponte Preta   1-0  Santos
  [Luan 12']
 [Oct 24]
 Figueirense   0-2  Botafogo
  [Bruno Mendes 14', Seedorf 32']
 Vasco da Gama   1-2  Internacional
- [Jonas 22'; Forl·n 33',45']
+ [Jonas 22'; Forl√°n 33',45']
 
 Round 33
 [Oct 25]
@@ -813,92 +810,92 @@ Fluminense   2-1  Coritiba
  [Wellington Nem 15', Thiago Neves 70'; Everton Ribeiro 80']
 Ponte Preta   1-0  Cruzeiro
  [Roger 33']
-Santos    0-0  N·utico
+Santos    0-0  N√°utico
 [Oct 27]
 Corinthians   1-0  Vasco da Gama
  [Guerrero 58']
 Internacional   2-1  Palmeiras
  [Fred 34', Rafael Moura 54'; Luan 21']
-Botafogo   4-0  AtlÈtico/GO
- [Seedorf 20', DÛria 45'+3', Gabriel 48', Bruno Mendes 82']
+Botafogo   4-0  Atl√©tico/GO
+ [Seedorf 20', D√≥ria 45'+3', Gabriel 48', Bruno Mendes 82']
 Figueirense   0-0  Portuguesa
-Bahia    1-1  GrÍmio
- [Gabriel 40'; KlÈber 43']
-Sport    2-4  S„o Paulo
+Bahia    1-1  Gr√™mio
+ [Gabriel 40'; Kl√©ber 43']
+Sport    2-4  S√£o Paulo
  [Gilberto 13', Hugo 79'p; Lucas 17',29',58', Rivaldo 33'og]
 [Oct 31]
-AtlÈtico/MG   1-1  Flamengo
+Atl√©tico/MG   1-1  Flamengo
  [Leonardo Silva 57'; Renato Abreu 27']
 
 Round 34
 [Nov 3]
-GrÍmio    1-0  Ponte Preta
- [AndrÈ Lima 90']
+Gr√™mio    1-0  Ponte Preta
+ [Andr√© Lima 90']
 Cruzeiro   0-4  Santos
  [Neymar 11',35',81', Felipe Anderson 53']
 Flamengo   1-0  Figueirense              [played in Volta Redonda-RJ]
  [Hernane 71']
 [Nov 4]
-AtlÈtico/GO   0-2  Corinthians              [played in BrasÌlia-DF]
- [MartÌnez 53', Guilherme 90'+1']
-S„o Paulo   1-1  Fluminense
- [LuÌs Fabiano 49'; Fred 67']
+Atl√©tico/GO   0-2  Corinthians              [played in Bras√≠lia-DF]
+ [Mart√≠nez 53', Guilherme 90'+1']
+S√£o Paulo   1-1  Fluminense
+ [Lu√≠s Fabiano 49'; Fred 67']
 Vasco da Gama   0-3  Sport
  [Felipe Azevedo 39', Hugo 52', Henrique 86']
 Palmeiras   2-2  Botafogo                [played in Araraquara-SP]
- [Barcos 28',90'; Lodeiro 20', …lkeson 63']
+ [Barcos 28',90'; Lodeiro 20', √âlkeson 63']
 Portuguesa   0-1  Bahia
  [Souza 77']
-N·utico   3-0  Internacional
+N√°utico   3-0  Internacional
  [Souza 22',32', Kieza 61']
-Coritiba   1-0  AtlÈtico/MG
+Coritiba   1-0  Atl√©tico/MG
  [Deivid 8'p]
 
 Round 35
 [Nov 10]
-AtlÈtico/GO   2-1  Santos                [played in BrasÌlia-DF]
- [Diogo Campos 85', M·rcio 88'p; Bruno Rodrigo 45']
+Atl√©tico/GO   2-1  Santos                [played in Bras√≠lia-DF]
+ [Diogo Campos 85', M√°rcio 88'p; Bruno Rodrigo 45']
 Botafogo   3-0  Portuguesa
- [Bruno Mendes 11', Fellype Gabriel 66', Vitor J˙nior 89']
+ [Bruno Mendes 11', Fellype Gabriel 66', Vitor J√∫nior 89']
 Corinthians   5-1  Coritiba
- [Chic„o 5'p, F·bio Santos 18', Paulinho 19',68', Guerrero 63'; Deivid 31']
+ [Chic√£o 5'p, F√°bio Santos 18', Paulinho 19',68', Guerrero 63'; Deivid 31']
 [Nov 11]
 Palmeiras   2-3  Fluminense
- [Barcos 61', Patrik 64'; Fred 45',87' MaurÌcio Ramos 53'og]
-Vasco da Gama   1-1  AtlÈtico/MG
- [Alecsandro 55'; Ronaldinho Ga˙cho 26'p]
-GrÍmio    2-1  S„o Paulo
- [AndrÈ Lima 60', Marcelo Moreno 84'; RogÈrio Ceni 43'p]
-N·utico   0-1  Flamengo
+ [Barcos 61', Patrik 64'; Fred 45',87' Maur√≠cio Ramos 53'og]
+Vasco da Gama   1-1  Atl√©tico/MG
+ [Alecsandro 55'; Ronaldinho Ga√∫cho 26'p]
+Gr√™mio    2-1  S√£o Paulo
+ [Andr√© Lima 60', Marcelo Moreno 84'; Rog√©rio Ceni 43'p]
+N√°utico   0-1  Flamengo
  [Renato Abreu 81'p]
 Figueirense   1-1  Sport
- [J˙lio Cesar 64'; Gilberto 23']
+ [J√∫lio Cesar 64'; Gilberto 23']
 Ponte Preta   1-0  Internacional
  [Roger 25']
 Cruzeiro   3-1  Bahia
- [Martinuccio 53',67', Willian Magr„o 90'; Fahel 27']
+ [Martinuccio 53',67', Willian Magr√£o 90'; Fahel 27']
 
 Round 36
 [Nov 17]
 Santos    2-0  Figueirense
- [Patito RodrÌguez 42', Felipe Anderson 63']
+ [Patito Rodr√≠guez 42', Felipe Anderson 63']
 Coritiba   1-2  Vasco da Gama
- [Lincoln 9'; Rom·rio 22', NÌlton 59']
+ [Lincoln 9'; Rom√°rio 22', N√≠lton 59']
 [Nov 18]
 Fluminense   0-2  Cruzeiro
- [Montillo 23'p, …lber 47']
-AtlÈtico/MG   2-2  AtlÈtico/GO
- [RÈver 19', Ronaldinho Ga˙cho 90'; Rayllan 3', Patric 16']
+ [Montillo 23'p, √âlber 47']
+Atl√©tico/MG   2-2  Atl√©tico/GO
+ [R√©ver 19', Ronaldinho Ga√∫cho 90'; Rayllan 3', Patric 16']
 Flamengo   1-1  Palmeiras                [played in Volta Redonda-RJ]
- [V·gner Love 88'; VinÌcius 62']
+ [V√°gner Love 88'; Vin√≠cius 62']
 Bahia    1-0  Ponte Preta
  [Neto 80']
-S„o Paulo   2-1  N·utico
- [LuÌs Fabiano 54', RogÈrio Ceni 70'p; Souza 48']
-Portuguesa   2-2  GrÍmio
- [MoisÈs 52'p, LÈo Silva 60'; AndrÈ Lima 73', ZÈ Roberto 78']
+S√£o Paulo   2-1  N√°utico
+ [Lu√≠s Fabiano 54', Rog√©rio Ceni 70'p; Souza 48']
+Portuguesa   2-2  Gr√™mio
+ [Mois√©s 52'p, L√©o Silva 60'; Andr√© Lima 73', Z√© Roberto 78']
 Internacional   0-2  Corinthians
- [Guerrero 45'+2', EdenÌlson 90']
+ [Guerrero 45'+2', Eden√≠lson 90']
 Sport    2-0  Botafogo
  [Gilberto 58', Henrique 89']
 
@@ -907,13 +904,13 @@ Round 37
 Vasco da Gama   1-1  Flamengo
 Corinthians   1-1  Santos
 [Nov 25]
-Botafogo   2-3  AtlÈtico/MG
-Figueirense   2-4  GrÍmio
-Bahia    1-1  N·utico
+Botafogo   2-3  Atl√©tico/MG
+Figueirense   2-4  Gr√™mio
+Bahia    1-1  N√°utico
 Internacional   0-2  Portuguesa
-Palmeiras   1-2  AtlÈtico/GO
+Palmeiras   1-2  Atl√©tico/GO
 Cruzeiro   2-1  Coritiba
-Ponte Preta   0-0  S„o Paulo
+Ponte Preta   0-0  S√£o Paulo
 Sport    1-1  Fluminense
 
 Round 38
@@ -921,21 +918,21 @@ Round 38
 Santos    3-1  Palmeiras
 Flamengo   2-2  Botafogo
 [Dec 2]
-GrÍmio    0-0  Internacional
+Gr√™mio    0-0  Internacional
 Coritiba   3-0  Figueirense
-AtlÈtico/GO   0-1  Bahia
+Atl√©tico/GO   0-1  Bahia
 Portuguesa   0-0  Ponte Preta
-S„o Paulo   3-1  Corinthians
-N·utico   1-0  Sport
-AtlÈtico/MG   3-2  Cruzeiro
+S√£o Paulo   3-1  Corinthians
+N√°utico   1-0  Sport
+Atl√©tico/MG   3-2  Cruzeiro
 Fluminense   1-2  Vasco da Gama
 
 Final Table:
 
  1.Fluminense    38 22 11  5  61-33  77  Champions
- 2.AtlÈtico/MG    38 20 12  6  64-37  72
- 3.GrÍmio    38 20 11  7  56-33  71
- 4.S„o Paulo    38 20  6 12  59-37  66
+ 2.Atl√©tico/MG    38 20 12  6  64-37  72
+ 3.Gr√™mio    38 20 11  7  56-33  71
+ 4.S√£o Paulo    38 20  6 12  59-37  66
  5.Vasco da Gama 38 16 10 12  45-44  58
  6.Corinthians    38 15 12 11  51-39  57
  7.Botafogo    38 15 10 13  60-50  55
@@ -943,7 +940,7 @@ Final Table:
  9.Cruzeiro    38 15  7 16  47-51  52
 10.Internacional 38 13 13 12  44-40  52
 11.Flamengo    38 12 14 12  39-46  50
-12.N·utico    38 14  7 17  44-51  49  (+)
+12.N√°utico    38 14  7 17  44-51  49  (+)
 13.Coritiba    38 14  6 18  53-60  48
 14.Ponte Preta    38 12 12 14  37-44  48  (+)
 15.Bahia    38 11 14 13  37-41  47
@@ -951,11 +948,11 @@ Final Table:
 -----------------------------------------
 17.Sport    38 10 11 17  39-56  41  (+)  Relegated
 18.Palmeiras    38  9  7 22  39-54  34  Relegated
-19.AtlÈtico/GO    38  7  9 22  37-67  30  Relegated
+19.Atl√©tico/GO    38  7  9 22  37-67  30  Relegated
 20.Figueirense    38  7  9 22  39-72  30  Relegated
 
 Topscorer: Fred (Fluminense), 19 goals.
-     LuÌs Fabiano (S„o Paulo), 17 goals.
+     Lu√≠s Fabiano (S√£o Paulo), 17 goals.
      Bruno Mineiro (Portuguesa) and Barcos (Palmeiras), 14 goals each.
 
 
@@ -969,10 +966,10 @@ Participants:
 
 Clubs classified due to state competitions performance:
 
-S√O PAULO (3 berths):
-SE Palmeiras (S„o Paulo)
-S„o Paulo FC (S„o Paulo)
-Paulista FC (JundiaÌ)
+S√ÉO PAULO (3 berths):
+SE Palmeiras (S√£o Paulo)
+S√£o Paulo FC (S√£o Paulo)
+Paulista FC (Jundia√≠)
 
 RIO DE JANEIRO (3 berths):
 Botafogo FR (Rio de Janeiro)
@@ -980,19 +977,19 @@ Boavista SC (Saquarema)
 Madureira AC (Rio de Janeiro)
 
 RIO GRANDE DO SUL (3 berths):
-GrÍmio FBPA (Porto Alegre)
+Gr√™mio FBPA (Porto Alegre)
 EC Juventude (Caxias do Sul)
 GE Sapucaiense (Sapucaia do Sul) - plays home matches in Porto Alegre
 
 MINAS GERAIS (3 berths):
 Cruzeiro EC (Belo Horizonte) - plays home matches in Sete Lagoas
-C AtlÈtico Mineiro (Belo Horizonte) - plays home matches in Sete Lagoas
+C Atl√©tico Mineiro (Belo Horizonte) - plays home matches in Sete Lagoas
 Ipatinga FC (Ipatinga)
 
-PARAN¡ (3 berths):
+PARAN√Å (3 berths):
 Coritiba FC (Curitiba)
-C AtlÈtico Paranaense (Curitiba)
-Oper·rio FEC (Ponta Grossa)
+C Atl√©tico Paranaense (Curitiba)
+Oper√°rio FEC (Ponta Grossa)
 
 PERNAMBUCO (2 berths):
 Santa Cruz FC (Santa Cruz)
@@ -1000,23 +997,23 @@ Sport CR (Recife)
 
 BAHIA (2 berths):
 AD Bahia de Feira (Feira de Santana)
-EC VitÛria (Salvador)
+EC Vit√≥ria (Salvador)
 
-GOI¡S (2 berths):
-AtlÈtico CG (Goi‚nia)
-Goi·s EC (Goi‚nia)
+GOI√ÅS (2 berths):
+Atl√©tico CG (Goi√¢nia)
+Goi√°s EC (Goi√¢nia)
 
 SANTA CATARINA (2 berths):
-A Chapecoense F (ChapecÛ)
-Crici˙ma EC (Crici˙ma)
+A Chapecoense F (Chapec√≥)
+Crici√∫ma EC (Crici√∫ma)
 
-CEAR¡ (2 berths):
-Cear· SC (Fortaleza)
+CEAR√Å (2 berths):
+Cear√° SC (Fortaleza)
 Horizonte FC (Horizonte)
 
-PAR¡ (2 berths):
-Independente AC (TucuruÌ)
-Paysandu SC (BelÈm)
+PAR√Å (2 berths):
+Independente AC (Tucuru√≠)
+Paysandu SC (Bel√©m)
 
 RIO GRANDE DO NORTE (2 berths):
 ABC FC (Natal)
@@ -1030,17 +1027,17 @@ DISTRITO FEDERAL (2 berths):
 Brasiliense FC (Taguatinga)
 SE Gama (Gama)
 
-ESPÕRITO SANTO (2 berths):
-CERAA S„o Mateus (S„o Mateus)
-Real Noroeste CFC (¡guia Branca)
+ESP√çRITO SANTO (2 berths):
+CERAA S√£o Mateus (S√£o Mateus)
+Real Noroeste CFC (√Åguia Branca)
 
-PARAÕBA (2 berths):
+PARA√çBA (2 berths):
 Treze FC (Campina Grande)
-Auto Esporte C (Jo„o Pessoa)
+Auto Esporte C (Jo√£o Pessoa)
 
-MARANH√O (2 berths):
-Sampaio CorrÍa FC (S„o LuÌs)
-Santa QuitÈria FC (Santa QuitÈria)
+MARANH√ÉO (2 berths):
+Sampaio Corr√™a FC (S√£o Lu√≠s)
+Santa Quit√©ria FC (Santa Quit√©ria)
 
 AMAZONAS (2 berths):
 Penarol AC (Itacoatiara)
@@ -1051,15 +1048,15 @@ CENE (Campo Grande)
 Aquidauanense FC (Aquidauana)
 
 SERGIPE (2 berths):
-SE River Plate (CarmÛpolis)
-S„o Domingos FC (S„o Domingos)
+SE River Plate (Carm√≥polis)
+S√£o Domingos FC (S√£o Domingos)
 
-PIAUÕ (2 berths):
+PIAU√ç (2 berths):
 4 de Julho EC (Piripiri)
 Comercial AC (Campo Maior)
 
 MATO GROSSO (2 berths):
-Cuiab· EC (Cuiab·)
+Cuiab√° EC (Cuiab√°)
 Luverdense EC (Lucas do Rio Verde)
 
 ACRE (1 berth):
@@ -1068,34 +1065,34 @@ Rio Branco FC (Rio Branco)
 TOCANTINS (1 berth):
 Gurupi EC (Gurupi)
 
-ROND‘NIA (1 berth):
-EC Espig„o (Espig„o d'Oeste)
+ROND√îNIA (1 berth):
+EC Espig√£o (Espig√£o d'Oeste)
 
-AMAP¡ (1 berth):
-Trem DC (Macap·)
+AMAP√Å (1 berth):
+Trem DC (Macap√°)
 
 RORAIMA (1 berth):
-AE Real (S„o Luiz do Anau·) - plays home matches in Boa Vista
+AE Real (S√£o Luiz do Anau√°) - plays home matches in Boa Vista
 
 Clubs classified due to CBF Ranking
 (between brackets the placing in this ranking):
 
 EC Bahia (Salvador, BA)                [14]
 Guarani FC (Campinas, SP)              [16]
-A Portuguesa D (S„o Paulo, SP)         [18]
-C N·utico C (Recife, PE)               [21]
-Paran· Clube (Curitiba, PR)            [23]
+A Portuguesa D (S√£o Paulo, SP)         [18]
+C N√°utico C (Recife, PE)               [21]
+Paran√° Clube (Curitiba, PR)            [23]
 AA Ponte Preta (Campinas, SP)          [25]
-C Remo (BelÈm, PA)                     [27]
+C Remo (Bel√©m, PA)                     [27]
 Fortaleza EC (Fortaleza, CE)           [28]
-AmÈrica FC (Natal, RN)                 [29]
-AamÈrica FC (Belo Horizonte, MG)       [32] - plays home matches in Sete Lagoas
+Am√©rica FC (Natal, RN)                 [29]
+Aam√©rica FC (Belo Horizonte, MG)       [32] - plays home matches in Sete Lagoas
 
 Santos FC [2], CR Vasco da Gama [3], CR Flamengo [5], SC Corinthians P [6], SC Internacional [7]
 and Fluminense FC [12] didn't play due to their participation in Copa Libertadores 2012;
-Palmeiras [1], GrÍmio [4], Cruzeiro [8], S„o Paulo [9], AtlÈtico Mineiro [10], Botafogo/RJ [11],
-Coritiba [13], Goi·s [15], Sport [17], AtlÈtico Paranaense [19], VitÛria/BA [20], Santa Cruz [22],
-Cear· [24], Juventude [26], Crici˙ma [30] and Paysandu [31] are already qualified due to their
+Palmeiras [1], Gr√™mio [4], Cruzeiro [8], S√£o Paulo [9], Atl√©tico Mineiro [10], Botafogo/RJ [11],
+Coritiba [13], Goi√°s [15], Sport [17], Atl√©tico Paranaense [19], Vit√≥ria/BA [20], Santa Cruz [22],
+Cear√° [24], Juventude [26], Crici√∫ma [30] and Paysandu [31] are already qualified due to their
 performances in the state competitions.)
 
 Obs.: 1) In each match, the second mentioned team plays the 2nd leg in home.
@@ -1106,73 +1103,73 @@ First Round (07/03 to 22/03)
 
  1 Coruripe (AL) - Palmeiras (SP)               0-1 (14/03)     0-3 (22/03)            [a]
                                                 [Barcos 2]
-                                                [Marcos AssunÁ„o 55, Barcos 58, Juninho 84]
- 2 Horizonte (CE) - AmÈrica (RN)                2-0 (07/03)     0-2 (14/03)     4-2[pk][b]
-                                                [Elanardo 45+3pen, JÙ 66]
+                                                [Marcos Assun√ß√£o 55, Barcos 58, Juninho 84]
+ 2 Horizonte (CE) - Am√©rica (RN)                2-0 (07/03)     0-2 (14/03)     4-2[pk][b]
+                                                [Elanardo 45+3pen, J√¥ 66]
                                                 [Soares 33, Wanderley 77]
- 3 Gama (DF) - Cear· (CE)                       0-2 (07/03)     n/p (14/03)
+ 3 Gama (DF) - Cear√° (CE)                       0-2 (07/03)     n/p (14/03)
                                                 [Felipe Azevedo 60, 61]
- 4 Luverdense (MT) - Paran· (PR)                2-2 (07/03)     0-2 (14/03)
+ 4 Luverdense (MT) - Paran√° (PR)                2-2 (07/03)     0-2 (14/03)
                                                 [Valdir Papel 35, Raul Prata 57 ; Wellinton Silva 49, Alex Bruno 90+3]
-                                                [Luisinho 63pen, NÌlson 81]
+                                                [Luisinho 63pen, N√≠lson 81]
  5 Rio Branco (AC) - Cruzeiro (MG)              0-6 (07/03)     n/p (22/03)
-                                                [Wallysson 6, 49, 82 Anselmo Ramon 38, LÈo 68, Rudnei 77]
- 6 S„o Mateus (ES) - Chapecoense (SC)           2-1 (14/03)     1-3 (21/03)            [c]
-                                                [Marcelo PelÈ 33pen, Bruno Alem„o 79 ; Jo„o Paulo 90+1]
-                                                [Marcelo PelÈ 35pen ; Sousa 31, 44, Leandrinho 54]
- 7 Sampaio CorrÍa (MA) - AtlÈtico (PR)          2-1 (07/03)     0-1 (15/03)
-                                                [Edgar 4, ClÈu 19 ; Harrison 80]
+                                                [Wallysson 6, 49, 82 Anselmo Ramon 38, L√©o 68, Rudnei 77]
+ 6 S√£o Mateus (ES) - Chapecoense (SC)           2-1 (14/03)     1-3 (21/03)            [c]
+                                                [Marcelo Pel√© 33pen, Bruno Alem√£o 79 ; Jo√£o Paulo 90+1]
+                                                [Marcelo Pel√© 35pen ; Sousa 31, 44, Leandrinho 54]
+ 7 Sampaio Corr√™a (MA) - Atl√©tico (PR)          2-1 (07/03)     0-1 (15/03)
+                                                [Edgar 4, Cl√©u 19 ; Harrison 80]
                                                 [Marcinho 64]
- 8 Madureira (RJ) - Crici˙ma (SC)               0-2 (14/03)     n/p (22/03)
-                                                [Nirley 47, ZÈ Carlos 65pen]
- 9 River Plate (SE) - GrÍmio (RS)               2-3 (07/03)     1-3 (21/03)            [d]
-                                                [Almir Sergipe 42, Jonathan 48 ; Fernando BelÈm 67og, Kleber 90, Bertoglio 90+3]
-                                                [Lele 10 ; Marcelo Moreno 34, Werley 78, LÈo Gago 84]
+ 8 Madureira (RJ) - Crici√∫ma (SC)               0-2 (14/03)     n/p (22/03)
+                                                [Nirley 47, Z√© Carlos 65pen]
+ 9 River Plate (SE) - Gr√™mio (RS)               2-3 (07/03)     1-3 (21/03)            [d]
+                                                [Almir Sergipe 42, Jonathan 48 ; Fernando Bel√©m 67og, Kleber 90, Bertoglio 90+3]
+                                                [Lele 10 ; Marcelo Moreno 34, Werley 78, L√©o Gago 84]
 10 Real Noroeste (ES) - Ipatinga (MG)           0-2 (07/03)     n/p (14/03)
-                                                [MoisÈs 41, Kaka 82]
-11 Santa Cruz (RN) - N·utico (PE)               1-3 (15/03)     n/p (22/03)
+                                                [Mois√©s 41, Kaka 82]
+11 Santa Cruz (RN) - N√°utico (PE)               1-3 (15/03)     n/p (22/03)
                                                 [Binho 54 ; Cesinha 15, Danilo 61og, Derley 89]
 12 Comercial (PI) - Fortaleza (CE)              2-3 (07/03)     0-3 (21/03)            [e]
-                                                [Jonas 43, Paulinho Macejana 85 ; RÙmulo 15, Cleo 25, 30]
-                                                [JaÌlson 67, 70, 89]
+                                                [Jonas 43, Paulinho Macejana 85 ; R√¥mulo 15, Cleo 25, 30]
+                                                [Ja√≠lson 67, 70, 89]
 13 Auto Esporte (PB) - Bahia (BA)               0-3 (07/03)     n/p (15/03)
                                                 [Rafael Donato 24, Souza 67, Gabriel 74]
 14 Real (RR) - Remo (PA)                        0-0 (07/03)     0-3 (14/03)
-                                                [Reis 71, Jayme 84, Jo·ozinho 90+1]
-15 Cuiab· (MT) - Portuguesa (SP)                1-1 (08/03)     0-4 (21/03)
+                                                [Reis 71, Jayme 84, Jo√°ozinho 90+1]
+15 Cuiab√° (MT) - Portuguesa (SP)                1-1 (08/03)     0-4 (21/03)
                                                 [Fernando 83pen ; Ricardo Jesus 18]
                                                 [Diego Souza 45, Ananias 84, Danilo 86, 88]
-16 Oper·rio (PR) - Juventude (RS)               0-4 (07/03)     n/p (14/03)
-                                                [Jonatas 37, 39, 76, LÈo Maring· 76]
-17 Independente (PA) - S„o Paulo (SP)           0-1 (07/03)     0-4 (14/03)            [f]
-                                                [CÌcero 14]
-                                                [LuÌs Fabiano 31, 33, 54, 64]
+16 Oper√°rio (PR) - Juventude (RS)               0-4 (07/03)     n/p (14/03)
+                                                [Jonatas 37, 39, 76, L√©o Maring√° 76]
+17 Independente (PA) - S√£o Paulo (SP)           0-1 (07/03)     0-4 (14/03)            [f]
+                                                [C√≠cero 14]
+                                                [Lu√≠s Fabiano 31, 33, 54, 64]
 18 Aquidauanense (MS) - Bahia de Feira (BA)     1-0 (07/03)     0-2 (14/03)            [g]
                                                 [Baiano 59]
-                                                [Johnattan 53, Jo„o Neto 87pen]
-19 Gurupi (TO) - AtlÈtico (GO)                  0-1 (07/03)     2-4 (15/03)
+                                                [Johnattan 53, Jo√£o Neto 87pen]
+19 Gurupi (TO) - Atl√©tico (GO)                  0-1 (07/03)     2-4 (15/03)
                                                 [Marino 49]
-                                                [Everton 23, Ur‚nio 85 ; JoÌlson 12, F·bio Lima 22, 33. Marc„o 87]
+                                                [Everton 23, Ur√¢nio 85 ; Jo√≠lson 12, F√°bio Lima 22, 33. Marc√£o 87]
 20 Sapucaiense (RS) - Ponte Preta (SP)          0-0 (14/03)     2-5 (21/03)
-                                                [Rodrigo 4, Dudu 55 ; Roger 21. Enrico 22, 59, 79, Rodrigo Pimp„o 87]
-21 CENE (MS) - AtlÈtico (MG)                    1-3 (14/03)     n/p (21/03)            [g]
-                                                [M·rcio JosÈ 90+1 ; AndrÈ 61, RÈver 77, Mancini 84]
+                                                [Rodrigo 4, Dudu 55 ; Roger 21. Enrico 22, 59, 79, Rodrigo Pimp√£o 87]
+21 CENE (MS) - Atl√©tico (MG)                    1-3 (14/03)     n/p (21/03)            [g]
+                                                [M√°rcio Jos√© 90+1 ; Andr√© 61, R√©ver 77, Mancini 84]
 22 Penarol (AM) - Santa Cruz (PE)               1-2 (07/03)     3-2 (14/03)            [h]
-                                                [Marinelson 60 ; GeÌlson 15, 41]
-                                                [Marinelson 8, F·bio Bala 80, Rondinelli 81, DÍnis Marques 15, Memo 74]
-23 Boavista (RJ) - AmÈrica (MG)                 0-0 (07/03)     1-2 (14/03)            [i]
-                                                [Marlon 83 ; MoisÈs 35, Kaio 90+2]
-24 Paulista (SP) - Goi·s (GO)                   2-3 (08/03)     0-3 (21/03)
+                                                [Marinelson 60 ; Ge√≠lson 15, 41]
+                                                [Marinelson 8, F√°bio Bala 80, Rondinelli 81, D√™nis Marques 15, Memo 74]
+23 Boavista (RJ) - Am√©rica (MG)                 0-0 (07/03)     1-2 (14/03)            [i]
+                                                [Marlon 83 ; Mois√©s 35, Kaio 90+2]
+24 Paulista (SP) - Goi√°s (GO)                   2-3 (08/03)     0-3 (21/03)
                                                 [Rychely 49, 71pen ; Ramon 16, 44, Iarley 31]
                                                 [Ramon 18, Ricardo Goulart 55, Rafael Toloi 66]
 25 Nacional (AM) - Coritiba (PR)                0-0 (14/03)     0-2 (22/03)
                                                 [Anderson Aquino 18, 90+1]
-26 Santa QuitÈria (MA) - ASA (AL)               2-3 (14/03)     1-2 (21/03)
-                                                [Helton 29pen, Gabriel 83 ; Alan 12, Didira 19, L˙cio Maranh„o 65]
-                                                [Galvan 67 ; L˙cio Maranh„o 7, Didira 42]
+26 Santa Quit√©ria (MA) - ASA (AL)               2-3 (14/03)     1-2 (21/03)
+                                                [Helton 29pen, Gabriel 83 ; Alan 12, Didira 19, L√∫cio Maranh√£o 65]
+                                                [Galvan 67 ; L√∫cio Maranh√£o 7, Didira 42]
 27 4 de Julho (PI) - Sport (PE)                 0-2 (14/03)     n/p (21/03)            [e]
-                                                [Marcelinho ParaÌba 37, Renato 90+2]
-28 Espig„o (RO) - Paysandu (PA)                 1-3 (07/03)     n/p (21/03)
+                                                [Marcelinho Para√≠ba 37, Renato 90+2]
+28 Espig√£o (RO) - Paysandu (PA)                 1-3 (07/03)     n/p (21/03)
                                                 [Vieira 68 ; Leandrinho 1, Kariri 13, 67]
 29 Treze (PB) - Botafogo (RJ)                   1-1 (14/03)     1-1 (21/03)     2-3[pk]
                                                 [Manu 90+2 ; Herrera 67]
@@ -1180,17 +1177,17 @@ First Round (07/03 to 22/03)
 30 Brasiliense (DF) - Guarani (SP)              2-0 (07/03)     0-3 (14/03)
                                                 [Bachin 26, Luan 76]
                                                 [Neto 8, Fumagalli 30, Bruno Mendes 66]
-31 S„o Domingos (SE) - VitÛria (BA)             0-0 (08/03)     0-2 (14/03)            [j]
+31 S√£o Domingos (SE) - Vit√≥ria (BA)             0-0 (08/03)     0-2 (14/03)            [j]
                                                 [Marquinhos 27, Artur Maia 80]
 32 Trem (AP) - ABC (RN)                         0-5 (07/03)     n/p (14/03)
                                                 [Raul 32, Elielton 45+2, Murilo 56, 90, Edson 79]
 
-[a] 1st leg played in MaceiÛ, 2nd leg played in JundiaÌ.
+[a] 1st leg played in Macei√≥, 2nd leg played in Jundia√≠.
 [b] 2nd leg played in Goianinha.
 [c] 1st leg played in Colatina.
 [d] 1st leg played in Aracaju.
 [e] 1st leg played in Teresina.
-[f] 1st leg played in BelÈm.
+[f] 1st leg played in Bel√©m.
 [g] 1st leg played in Dourados.
 [h] 1st leg played in Manaus.
 [i] 1st leg played in Rio de Janeiro.
@@ -1201,45 +1198,45 @@ Second Round (04/04 to 18/04)
 
 33 Horizonte - Palmeiras                        1-3 (04/04)     n/p (12/04)
                                                 [Mateus 17 ; Leandro Amaro 34, 67, Maikon Leite 71]
-34 Cear· - Paran·                               2-2 (11/04)     1-1 (18/04)
-                                                [Felipe Azevedo 11, Rom·rio 78 ; NÌlson 21, Luizinho 59]
+34 Cear√° - Paran√°                               2-2 (11/04)     1-1 (18/04)
+                                                [Felipe Azevedo 11, Rom√°rio 78 ; N√≠lson 21, Luizinho 59]
                                                 [Rogerinho 70 ; Douglas Tanque 90]
 35 Chapecoense - Cruzeiro                       1-1 (11/04)     1-4 (18/04)
                                                 [Sousa 16 ; Walter 61]
                                                 [Fabiano 32 ; Thiago Carvalho 44, Wellington Paulista 66, 78, Anselmo Ramon 74]
-36 Crici˙ma - AtlÈtico (PR)                     1-2 (05/04)     1-5 (12/04)
-                                                [ZÈ Carlos 64 ; Guerron 32, 70]
+36 Crici√∫ma - Atl√©tico (PR)                     1-2 (05/04)     1-5 (12/04)
+                                                [Z√© Carlos 64 ; Guerron 32, 70]
                                                 [Gilmar 1 ; Guerron 3, 13, 19pen, 65, Patrick 62]
-37 Ipatinga - GrÍmio                            0-1 (04/04)     0-3 (11/04)
-                                                [LÈo Gago 72]
-                                                [Bertoglio 3, Miralles 76, LÈo Gago 84]
-38 Fortaleza - N·utico                          4-0 (12/04)     1-2 (18/04)
-                                                [Rafinha 16, JaÌlson 18, Geraldo 68pen, Cleo 75]
-                                                [JaÌlson 29 ; Marlon 46, LÈo Santos 80]
+37 Ipatinga - Gr√™mio                            0-1 (04/04)     0-3 (11/04)
+                                                [L√©o Gago 72]
+                                                [Bertoglio 3, Miralles 76, L√©o Gago 84]
+38 Fortaleza - N√°utico                          4-0 (12/04)     1-2 (18/04)
+                                                [Rafinha 16, Ja√≠lson 18, Geraldo 68pen, Cleo 75]
+                                                [Ja√≠lson 29 ; Marlon 46, L√©o Santos 80]
 39 Remo - Bahia                                 2-1 (11/04)     0-4 (19/04)
-                                                [F·bio Oliveira 11pen, Magnum 68 ; Diones 23]
-                                                [Lulinha 58, Rafael Donato 72, J˙nior 75, Vander 79]
+                                                [F√°bio Oliveira 11pen, Magnum 68 ; Diones 23]
+                                                [Lulinha 58, Rafael Donato 72, J√∫nior 75, Vander 79]
 40 Juventude - Portuguesa                       2-0 (04/04)     0-4 (12/04)
                                                 [Jonatas Belusso 20pen, 81]
-                                                [Ricardo Jesus 35pen, 65, 84, RaÌ 90]
-41 Bahia de Feira - S„o Paulo                   2-5 (11/04)     n/p (19/04)
-                                                [Carlinhos 29, Jo„o Neto 84pen ; Rhodolfo 9, LuÌs Fabiano 35pen, 58pen, Maicon 78, Osvaldo 87]
-42 AtlÈtico (GO) - Ponte Preta                  2-1 (05/04)     1-2 (18/04)     3-4[pk]
+                                                [Ricardo Jesus 35pen, 65, 84, Ra√≠ 90]
+41 Bahia de Feira - S√£o Paulo                   2-5 (11/04)     n/p (19/04)
+                                                [Carlinhos 29, Jo√£o Neto 84pen ; Rhodolfo 9, Lu√≠s Fabiano 35pen, 58pen, Maicon 78, Osvaldo 87]
+42 Atl√©tico (GO) - Ponte Preta                  2-1 (05/04)     1-2 (18/04)     3-4[pk]
                                                 [Gilson 61, 69 ; Roger 7]
-                                                [Marc„o 73 ; Uendel 64, Renato Caj· 70]
-43 Penarol - AtlÈtico (MG)                      0-5 (11/04)     n/p (19/04)            [k]
-                                                [Filipe Souto 1, AndrÈ 18, 77, 79, Guilherme 38]
-44 AmÈrica (MG) - Goi·s                         0-0 (04/04)     3-4 (11/04)
-                                                [Gabriel Santos 28, Thiago Mendes 67og, Bruno Meneghel 72 ; Ricardo Goulart 5, EgÌdio 21, 57, Ramon 40]
+                                                [Marc√£o 73 ; Uendel 64, Renato Caj√° 70]
+43 Penarol - Atl√©tico (MG)                      0-5 (11/04)     n/p (19/04)            [k]
+                                                [Filipe Souto 1, Andr√© 18, 77, 79, Guilherme 38]
+44 Am√©rica (MG) - Goi√°s                         0-0 (04/04)     3-4 (11/04)
+                                                [Gabriel Santos 28, Thiago Mendes 67og, Bruno Meneghel 72 ; Ricardo Goulart 5, Eg√≠dio 21, 57, Ramon 40]
 45 ASA - Coritiba                               1-0 (04/04)     0-3 (11/04)
-                                                [L˙cio Maranh„o 8]
-                                                [Tcheco 38pen, Anderson Aquino 45+1, …verton Ribeiro 71]
+                                                [L√∫cio Maranh√£o 8]
+                                                [Tcheco 38pen, Anderson Aquino 45+1, √âverton Ribeiro 71]
 46 Paysandu - Sport                             2-1 (04/04)     4-1 (11/04)
-                                                [Yago Pikachu 14, Adriano Magr„o 52 ; Jael 45]
+                                                [Yago Pikachu 14, Adriano Magr√£o 52 ; Jael 45]
                                                 [Tago Pikachu 60, Helinton 63, 85, Rafael Oliveira 90 ; Bruno Aguiar 76]
 47 Guarani - Botafogo                           1-2 (04/04)     0-0 (18/04)
                                                 [Bruno Mendes 35 ; Renato 44, Herrera 67]
-48 ABC - VitÛria                                1-1 (11/04)     2-3 (18/04)
+48 ABC - Vit√≥ria                                1-1 (11/04)     2-3 (18/04)
                                                 [Raul 29 ; Marquinhos 40]
                                                 [Washington 30, Raul 66 ; Neto Baiano 78pen, 90, 90+2pen]
 
@@ -1247,55 +1244,55 @@ Second Round (04/04 to 18/04)
 
 Third Round (25/04 to 09/05)
 
-49 Paran· - Palmeiras                           1-2 (25/04)     0-4 (09/05)            [l]
-                                                [Luisinho 39 ; Marcos AssunÁ„o 22, Henrique 78pen]
+49 Paran√° - Palmeiras                           1-2 (25/04)     0-4 (09/05)            [l]
+                                                [Luisinho 39 ; Marcos Assun√ß√£o 22, Henrique 78pen]
                                                 [Mazinho 25, 51, Valdivia 62, Maikon Leite 72]
-50 AtlÈtico (PR) - Cruzeiro                     1-0 (02/05)     2-1 (09/05)
-                                                [Edigar J˙nior 8]
-                                                [Guerron 26, Lig¸era 59 ; Wellington Paulista 38pen]
-51 Fortaleza - GrÍmio                           0-2 (02/05)     0-2 (09/05)
-                                                [Marcelo Moreno 11, Marco AntÙnio 12]
-                                                [LÈo Gago 54pen ; Bertoglio 85]
+50 Atl√©tico (PR) - Cruzeiro                     1-0 (02/05)     2-1 (09/05)
+                                                [Edigar J√∫nior 8]
+                                                [Guerron 26, Lig√ºera 59 ; Wellington Paulista 38pen]
+51 Fortaleza - Gr√™mio                           0-2 (02/05)     0-2 (09/05)
+                                                [Marcelo Moreno 11, Marco Ant√¥nio 12]
+                                                [L√©o Gago 54pen ; Bertoglio 85]
 52 Portuguesa - Bahia                           0-0 (25/04)     0-2 (10/05)
-                                                [Fabinho 14, J˙nior 70]
-53 Ponte Preta - S„o Paulo                      1-0 (02/05)     1-3 (10/05)            [m]
+                                                [Fabinho 14, J√∫nior 70]
+53 Ponte Preta - S√£o Paulo                      1-0 (02/05)     1-3 (10/05)            [m]
                                                 [Roger 63]
-                                                [Som·lia 12 ; Casemiro 39, Lucas 40, LuÌs Fabiano 66]
-54 Goi·s - AtlÈtico (MG)                        2-0 (25/04)     1-2 (03/05)
-                                                [Rafael TolÛi 11, Rafael Goulart 50]
+                                                [Som√°lia 12 ; Casemiro 39, Lucas 40, Lu√≠s Fabiano 66]
+54 Goi√°s - Atl√©tico (MG)                        2-0 (25/04)     1-2 (03/05)
+                                                [Rafael Tol√≥i 11, Rafael Goulart 50]
                                                 [Felipe Amorim 84 ; Neto Berola 6, Mancini 25pen]
 55 Coritiba - Paysandu                          4-1 (26/04)     1-0 (03/05)
-                                                [Anderson Aquino 32, Roberto 34, …verton Ribeiro 42, Tcheco 90+2pen ; Tiago Potiguar 68]
+                                                [Anderson Aquino 32, Roberto 34, √âverton Ribeiro 42, Tcheco 90+2pen ; Tiago Potiguar 68]
                                                 [Tcheco 44]
-56 VitÛria - Botafogo                           1-1 (02/05)     2-1 (09/05)
+56 Vit√≥ria - Botafogo                           1-1 (02/05)     2-1 (09/05)
                                                 [Neto Baiano 31 ; Elkeson 27]
-                                                [Pedro Ken 56, Tart· 68 ; Elkeson 20]
+                                                [Pedro Ken 56, Tart√° 68 ; Elkeson 20]
 
 [l] 2nd leg played in Barueri.
 [m] matches initially scheduled to 26/04 and 03/05 and postponed (field strongly wet, due to rain in 26/04).
 
 Quarterfinals
 
-57 AtlÈtico (PR) - Palmeiras                    2-2 (16/05)     0-2 (23/05)            [n]
-                                                [Bruno Mineiro 16, Edgar J˙nior 22 ; Barcos 21, Maikon Leite 59]
+57 Atl√©tico (PR) - Palmeiras                    2-2 (16/05)     0-2 (23/05)            [n]
+                                                [Bruno Mineiro 16, Edgar J√∫nior 22 ; Barcos 21, Maikon Leite 59]
                                                 [Luan 68, Henrique 82]
-58 Bahia - GrÍmio                               1-2 (17/05)     0-2 (23/05)
-                                                [J˙nior 20 ; Fernando 37, Mando 72]
+58 Bahia - Gr√™mio                               1-2 (17/05)     0-2 (23/05)
+                                                [J√∫nior 20 ; Fernando 37, Mando 72]
                                                 [Miralles 12, Marcelo Moreno 54]
-59 S„o Paulo - Goi·s                            2-0 (16/05)     2-2 (23/05)
-                                                [LuÌs Fabiano 31, Douglas 51]
-                                                [Jadson 29, Cortez 61 ; Ricardo Goulart 28, EgÌdio 81]
-60 VitÛria - Coritiba                           0-0 (16/05)     1-4 (23/05)
+59 S√£o Paulo - Goi√°s                            2-0 (16/05)     2-2 (23/05)
+                                                [Lu√≠s Fabiano 31, Douglas 51]
+                                                [Jadson 29, Cortez 61 ; Ricardo Goulart 28, Eg√≠dio 81]
+60 Vit√≥ria - Coritiba                           0-0 (16/05)     1-4 (23/05)
                                                 [Marquinhos 26 ; Everton Costa 28, 87, Everton Ribeiro 43pen, Roberto 62]
 
 [n] 2nd leg played in Barueri.
 
 Semifinals
 
-61 GrÍmio - Palmeiras                           0-2 (13/06)     1-1 (21/06)            [o]
+61 Gr√™mio - Palmeiras                           0-2 (13/06)     1-1 (21/06)            [o]
                                                 [Mazinho 86, Barcos 90+1]
                                                 [Fernando 66 ; Valdivia 72]
-62 S„o Paulo - Coritiba                         1-0 (14/06)     0-2 (20/06)
+62 S√£o Paulo - Coritiba                         1-0 (14/06)     0-2 (20/06)
                                                 [Lucas 88]
                                                 [Emerson 28, Everton Ribeiro 61]
 
@@ -1304,641 +1301,640 @@ Semifinals
 FINAL
 
    Palmeiras - Coritiba                         2-0  (05/07)     1-1 (11/07)            [p]
-                                                [ValdÌvia 45+2pen, Thiago Heleno 64]
+                                                [Vald√≠via 45+2pen, Thiago Heleno 64]
                                                 [Ayrton 61, Betinho 65]
 
 [p] 1st leg played in Barueri.
 
 PALMEIRAS Champions of Copa do Brasil 2012 and classified to Copa Libertadores 2013.
 
-Topscorers: LuÌs Fabiano (S„o Paulo), 8 goals.
+Topscorers: Lu√≠s Fabiano (S√£o Paulo), 8 goals.
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### SÈrie B
+#### S√©rie B
 
 
 Participants
 
-ABC FC (Natal-RN)        Crici˙ma EC (SC)
-AmÈrica FC (Belo Horizonte-MG)      Goi·s EC (Goi‚nia-GO)
-AmÈrica FC (Natal-RN)      [1]  GrÍmio Barueri FL (SP)
+ABC FC (Natal-RN)        Crici√∫ma EC (SC)
+Am√©rica FC (Belo Horizonte-MG)      Goi√°s EC (Goi√¢nia-GO)
+Am√©rica FC (Natal-RN)      [1]  Gr√™mio Barueri FL (SP)
 AS Arapiraquense - ASA (Arapiraca-AL)    Guarani FC (Campinas-SP)
-C AtlÈtico Paranaense (Curitiba-PR)    Guaratinguet· FL (SP)     [2]
-AvaÌ FC (FlorianÛpolis-SC)      Ipatinga FC (MG)
+C Atl√©tico Paranaense (Curitiba-PR)    Guaratinguet√° FL (SP)     [2]
+Ava√≠ FC (Florian√≥polis-SC)      Ipatinga FC (MG)
 Boa EC (Varginha-MG)        Joinville EC (SC)
-CA Bragantino (BraganÁa Paulista-SP)    Paran· Clube (Curitiba-PR)
-Cear· SC (Fortaleza-CE)        S„o Caetano FL (S„o Caetano do Sul-SP)
-Clube de Regatas Brasil ñ CRB (MaceiÛ-AL)  EC VitÛria (Salvador-BA)
+CA Bragantino (Bragan√ßa Paulista-SP)    Paran√° Clube (Curitiba-PR)
+Cear√° SC (Fortaleza-CE)        S√£o Caetano FL (S√£o Caetano do Sul-SP)
+Clube de Regatas Brasil ‚Äì CRB (Macei√≥-AL)  EC Vit√≥ria (Salvador-BA)
 
 [1] Plays home matches in/Manda seus jogos em Goianinha-RN.
 [2] Former/antigo Americana FL.
 
 
-(-) - Teams relegated from 2011 SÈrie A (1st level)
-(+) - Teams promoted from 2011 SÈrie C (3rd level)
+(-) - Teams relegated from 2011 S√©rie A (1st level)
+(+) - Teams promoted from 2011 S√©rie C (3rd level)
 
 Table:
- 1.Goi·s     38 23  9  6  75-37  78  Champions; promoted
- 2.Crici˙ma     38 22  7  9  78-57  73  Promoted
- 3.AtlÈtico     38 21  8  9  65-37  71  Promoted (-)
- 4.VitÛria     38 21  8  9  59-43  71  Promoted
+ 1.Goi√°s     38 23  9  6  75-37  78  Champions; promoted
+ 2.Crici√∫ma     38 22  7  9  78-57  73  Promoted
+ 3.Atl√©tico     38 21  8  9  65-37  71  Promoted (-)
+ 4.Vit√≥ria     38 21  8  9  59-43  71  Promoted
 -----------------------------------------
- 5.S„o Caetano     38 20 11  7  58-38  71
+ 5.S√£o Caetano     38 20 11  7  58-38  71
  6.Joinville     38 17  9 12  58-40  60  (+)
- 7.AvaÌ       38 18  5 15  44-42  59  (-)
- 8.AmÈrica/MG     38 16  7 15  63-58  55  (-)
- 9.AmÈrica/RN     38 14 12 12  60-61  54  (+)
-10.Paran·     38 14 10 14  50-47  52
-11.Cear·     38 12 11 15  51-52  47  (-)
+ 7.Ava√≠       38 18  5 15  44-42  59  (-)
+ 8.Am√©rica/MG     38 16  7 15  63-58  55  (-)
+ 9.Am√©rica/RN     38 14 12 12  60-61  54  (+)
+10.Paran√°     38 14 10 14  50-47  52
+11.Cear√°     38 12 11 15  51-52  47  (-)
 12.ABC       38 11 12 15  50-52  45
 13.ASA       38 13  5 20  48-56  44
 14.Bragantino     38 12  8 18  45-53  44
 15.Boa       38 11 11 16  51-63  44
-16.Guaratinguet·   38 13  4 21  41-63  43
+16.Guaratinguet√°   38 13  4 21  41-63  43
 -----------------------------------------
 17.CRB       38 12  6 20  47-67  42  Relegated (+)
 18.Guarani     38 10 11 17  36-47  41  Relegated
 19.Ipatinga     38  8  7 23  38-73  31  Relegated (+)
-20.GrÍmio Barueri  38  7  9 22  38-69  30  Relegated
+20.Gr√™mio Barueri  38  7  9 22  38-69  30  Relegated
 
 Round 1
 [May 18]
-Cear·    1-2  AmÈrica/MG
+Cear√°    1-2  Am√©rica/MG
 Ipatinga  1-1  ABC
 CRB    0-2  Bragantino
 [May 19]
-Crici˙ma  4-1  Guaratinguet·
-Boa    2-2  AvaÌ
-AmÈrica/RN  5-2  Goi·s
-GrÍmio Barueri  0-1  VitÛria
-Joinville  1-4  AtlÈtico
-Paran·    1-1  Guarani
-S„o Caetano  0-1  ASA
+Crici√∫ma  4-1  Guaratinguet√°
+Boa    2-2  Ava√≠
+Am√©rica/RN  5-2  Goi√°s
+Gr√™mio Barueri  0-1  Vit√≥ria
+Joinville  1-4  Atl√©tico
+Paran√°    1-1  Guarani
+S√£o Caetano  0-1  ASA
 
 Round 2
 [May 22]
-AvaÌ    1-0  S„o Caetano
+Ava√≠    1-0  S√£o Caetano
 [May 25]
 Guarani    0-0  Boa
 ABC    0-0  Joinville
 [May 26]
-AmÈrica/MG  4-0  CRB
-Bragantino  3-4  Crici˙ma
-Guaratinguet·  2-1  Cear·
-ASA    1-1  GrÍmio Barueri
+Am√©rica/MG  4-0  CRB
+Bragantino  3-4  Crici√∫ma
+Guaratinguet√°  2-1  Cear√°
+ASA    1-1  Gr√™mio Barueri
 [Jun 5]
-VitÛria    2-2  AmÈrica/RN
-Goi·s    2-0  Paran·
+Vit√≥ria    2-2  Am√©rica/RN
+Goi√°s    2-0  Paran√°
 [Jul 10]
-AtlÈtico  1-0  Ipatinga        [played in Paranagu·-PR]
+Atl√©tico  1-0  Ipatinga        [played in Paranagu√°-PR]
 
 Round 3 [May 29]
 Joinville  2-0  Guarani
-GrÍmio Barueri  0-3  ABC
-CRB    3-1  Guaratinguet·
-AmÈrica/RN  1-0  AvaÌ
+Gr√™mio Barueri  0-3  ABC
+CRB    3-1  Guaratinguet√°
+Am√©rica/RN  1-0  Ava√≠
 Ipatinga  1-0  ASA
-Boa    2-1  AtlÈtico
-Crici˙ma  2-1  VitÛria
-Paran·    0-1  AmÈrica/MG
-Cear·    2-2  Goi·s
-S„o Caetano  2-0  Bragantino
+Boa    2-1  Atl√©tico
+Crici√∫ma  2-1  Vit√≥ria
+Paran√°    0-1  Am√©rica/MG
+Cear√°    2-2  Goi√°s
+S√£o Caetano  2-0  Bragantino
 
 Round 4
 [Jun 1]
-Guaratinguet·  0-2  AmÈrica/RN
-AtlÈtico  3-0  GrÍmio Barueri
-Goi·s    1-0  CRB
+Guaratinguet√°  0-2  Am√©rica/RN
+Atl√©tico  3-0  Gr√™mio Barueri
+Goi√°s    1-0  CRB
 [Jun 2]
-VitÛria    4-0  Ipatinga
-AmÈrica/MG  3-0  Crici˙ma
-AvaÌ    1-2  Joinville
-ABC    0-1  S„o Caetano
+Vit√≥ria    4-0  Ipatinga
+Am√©rica/MG  3-0  Crici√∫ma
+Ava√≠    1-2  Joinville
+ABC    0-1  S√£o Caetano
 ASA    3-2  Boa
-Guarani    4-1  Cear·
-Bragantino  3-3  Paran·
+Guarani    4-1  Cear√°
+Bragantino  3-3  Paran√°
 
 Round 5
 [Jun 5]
 Joinville  1-0  ASA
-S„o Caetano  1-1  AmÈrica/MG
+S√£o Caetano  1-1  Am√©rica/MG
 [Jun 8]
-Ipatinga  1-2  AvaÌ
-AmÈrica/RN  2-1  Bragantino
-Boa    1-2  VitÛria
+Ipatinga  1-2  Ava√≠
+Am√©rica/RN  2-1  Bragantino
+Boa    1-2  Vit√≥ria
 [Jun 9]
-Paran·    3-2  Guaratinguet·
-GrÍmio Barueri  2-2  Guarani
-CRB    2-0  AtlÈtico
-Crici˙ma  3-0  Goi·s
-Cear·    4-2  ABC
+Paran√°    3-2  Guaratinguet√°
+Gr√™mio Barueri  2-2  Guarani
+CRB    2-0  Atl√©tico
+Crici√∫ma  3-0  Goi√°s
+Cear√°    4-2  ABC
 
 Round 6
 [Jun 12]
-GrÍmio Barueri  1-2  Paran·
+Gr√™mio Barueri  1-2  Paran√°
 Ipatinga  1-2  Boa
-VitÛria    1-0  Guarani
+Vit√≥ria    1-0  Guarani
 [Jun 15]
-S„o Caetano  3-2  AmÈrica/RN
-AvaÌ    2-0  AmÈrica/MG
+S√£o Caetano  3-2  Am√©rica/RN
+Ava√≠    2-0  Am√©rica/MG
 [Jun 16]
 ABC    4-2  CRB
-Bragantino  1-0  Guaratinguet·
-Joinville  1-1  Cear·
-AtlÈtico  0-0  Goi·s        [played in Paranagu·-PR]
-ASA    1-2  Crici˙ma
+Bragantino  1-0  Guaratinguet√°
+Joinville  1-1  Cear√°
+Atl√©tico  0-0  Goi√°s        [played in Paranagu√°-PR]
+ASA    1-2  Crici√∫ma
 
 Round 7
 [Jun 19]
-AmÈrica/MG  3-2  Bragantino
-AmÈrica/RN  2-0  ASA
-CRB    2-2  S„o Caetano
+Am√©rica/MG  3-2  Bragantino
+Am√©rica/RN  2-0  ASA
+CRB    2-2  S√£o Caetano
 [Jun 22]
-Paran·    2-0  Joinville
-Guaratinguet·  1-1  AvaÌ
+Paran√°    2-0  Joinville
+Guaratinguet√°  1-1  Ava√≠
 [Jun 23]
-Boa    4-1  GrÍmio Barueri
-Cear·    1-0  AtlÈtico
-Goi·s    4-3  VitÛria
+Boa    4-1  Gr√™mio Barueri
+Cear√°    1-0  Atl√©tico
+Goi√°s    4-3  Vit√≥ria
 Guarani    1-1  ABC
-Crici˙ma  3-2  Ipatinga
+Crici√∫ma  3-2  Ipatinga
 
 Round 8
 [Jun 26]
-Goi·s    1-1  Guaratinguet·
-Ipatinga  1-2  Cear·
-GrÍmio Barueri  0-1  AmÈrica/MG
+Goi√°s    1-1  Guaratinguet√°
+Ipatinga  1-2  Cear√°
+Gr√™mio Barueri  0-1  Am√©rica/MG
 [Jun 29]
-AmÈrica/RN  1-0  Guarani
+Am√©rica/RN  1-0  Guarani
 ASA    3-1  ABC
 [Jun 30]
-AtlÈtico  0-0  Bragantino        [played in Paranagu·-PR]
-VitÛria    2-0  AvaÌ
-Crici˙ma  2-0  CRB
-S„o Caetano  1-1  Paran·
+Atl√©tico  0-0  Bragantino        [played in Paranagu√°-PR]
+Vit√≥ria    2-0  Ava√≠
+Crici√∫ma  2-0  CRB
+S√£o Caetano  1-1  Paran√°
 Boa    0-0  Joinville
 
 Round 9
 [Jul 3]
-Guaratinguet·  0-1  S„o Caetano
+Guaratinguet√°  0-1  S√£o Caetano
 Guarani    1-0  Ipatinga
 [Jul 6]
-AvaÌ    2-0  ASA
-Cear·    2-2  Crici˙ma
-Joinville  4-0  GrÍmio Barueri
+Ava√≠    2-0  ASA
+Cear√°    2-2  Crici√∫ma
+Joinville  4-0  Gr√™mio Barueri
 [Jul 7]
-CRB    4-2  AmÈrica/RN
-AmÈrica/MG  3-2  AtlÈtico
-ABC    0-1  VitÛria
-Bragantino  3-3  Goi·s
-Paran·    2-0  Boa
+CRB    4-2  Am√©rica/RN
+Am√©rica/MG  3-2  Atl√©tico
+ABC    0-1  Vit√≥ria
+Bragantino  3-3  Goi√°s
+Paran√°    2-0  Boa
 
 Round 10
 [Jul 10]
-Crici˙ma  4-3  Boa
-Guaratinguet·  2-1  ASA
-VitÛria    4-3  Paran·
+Crici√∫ma  4-3  Boa
+Guaratinguet√°  2-1  ASA
+Vit√≥ria    4-3  Paran√°
 [Jul 13]
-Ipatinga  0-3  GrÍmio Barueri
-Goi·s    2-0  AmÈrica/MG
+Ipatinga  0-3  Gr√™mio Barueri
+Goi√°s    2-0  Am√©rica/MG
 [Jul 14]
-AtlÈtico  2-1  ABC        [played in Paranagu·-PR]
-CRB    2-0  AvaÌ
+Atl√©tico  2-1  ABC        [played in Paranagu√°-PR]
+CRB    2-0  Ava√≠
 Bragantino  0-0  Guarani
-S„o Caetano  1-0  Joinville
-AmÈrica/RN  1-1  Cear·
+S√£o Caetano  1-0  Joinville
+Am√©rica/RN  1-1  Cear√°
 
 Round 11 [Jul 17]
-ASA    2-3  VitÛria
-Guarani    1-2  Goi·s
-Cear·    2-2  S„o Caetano
+ASA    2-3  Vit√≥ria
+Guarani    1-2  Goi√°s
+Cear√°    2-2  S√£o Caetano
 Joinville  6-0  Ipatinga
 Boa    0-0  CRB
-ABC    2-2  Crici˙ma
-AvaÌ    1-2  AtlÈtico
-Paran·    1-0  AmÈrica/RN
-GrÍmio Barueri  0-0  Bragantino
-AmÈrica/MG  2-1  Guaratinguet·
+ABC    2-2  Crici√∫ma
+Ava√≠    1-2  Atl√©tico
+Paran√°    1-0  Am√©rica/RN
+Gr√™mio Barueri  0-0  Bragantino
+Am√©rica/MG  2-1  Guaratinguet√°
 
 Round 12
 [Jul 20]
-AmÈrica/RN  2-1  Ipatinga
-S„o Caetano  3-0  GrÍmio Barueri
-AmÈrica/MG  1-1  Guarani
-Guaratinguet·  0-0  Boa
+Am√©rica/RN  2-1  Ipatinga
+S√£o Caetano  3-0  Gr√™mio Barueri
+Am√©rica/MG  1-1  Guarani
+Guaratinguet√°  0-0  Boa
 [Jul 21]
-Crici˙ma  2-1  Paran·
+Crici√∫ma  2-1  Paran√°
 CRB    4-3  Joinville
-Cear·    3-2  ASA
-AtlÈtico  0-1  VitÛria        [played in Paranagu·-PR]
-Goi·s    2-0  AvaÌ
+Cear√°    3-2  ASA
+Atl√©tico  0-1  Vit√≥ria        [played in Paranagu√°-PR]
+Goi√°s    2-0  Ava√≠
 Bragantino  1-2  ABC
 
 Round 13
 [Jul 24]
-ASA    0-1  Goi·s
-Joinville  1-0  AmÈrica/RN
-Boa    2-1  AmÈrica/MG
+ASA    0-1  Goi√°s
+Joinville  1-0  Am√©rica/RN
+Boa    2-1  Am√©rica/MG
 [Jul 27]
-GrÍmio Barueri  1-4  Crici˙ma
-AvaÌ    1-0  Bragantino
+Gr√™mio Barueri  1-4  Crici√∫ma
+Ava√≠    1-0  Bragantino
 [Jul 28]
-ABC    3-0  Guaratinguet·
-Guarani    2-1  AtlÈtico
-VitÛria    1-0  CRB
-Paran·    1-0  Cear·
-Ipatinga  1-2  S„o Caetano
+ABC    3-0  Guaratinguet√°
+Guarani    2-1  Atl√©tico
+Vit√≥ria    1-0  CRB
+Paran√°    1-0  Cear√°
+Ipatinga  1-2  S√£o Caetano
 
 Round 14 [Jul 31]
-AmÈrica/MG  0-2  Joinville
-Cear·    1-1  Boa
-Crici˙ma  2-1  Guarani
-Goi·s    1-1  ABC
-Paran·    1-1  AvaÌ
+Am√©rica/MG  0-2  Joinville
+Cear√°    1-1  Boa
+Crici√∫ma  2-1  Guarani
+Goi√°s    1-1  ABC
+Paran√°    1-1  Ava√≠
 Bragantino  2-2  ASA
 CRB    2-0  Ipatinga
-Guaratinguet·  0-1  AtlÈtico
-S„o Caetano  0-0  VitÛria
-AmÈrica/RN  2-1  GrÍmio Barueri
+Guaratinguet√°  0-1  Atl√©tico
+S√£o Caetano  0-0  Vit√≥ria
+Am√©rica/RN  2-1  Gr√™mio Barueri
 
 Round 15
 [Aug 3]
-Ipatinga  0-6  Goi·s
-VitÛria    0-1  Bragantino
-Boa    1-1  AmÈrica/RN
-GrÍmio Barueri  0-0  CRB
+Ipatinga  0-6  Goi√°s
+Vit√≥ria    0-1  Bragantino
+Boa    1-1  Am√©rica/RN
+Gr√™mio Barueri  0-0  CRB
 [Aug 4]
-AtlÈtico  0-1  S„o Caetano      [played in Paranagu·-PR]
-ASA    3-2  AmÈrica/MG
-Joinville  3-1  Crici˙ma
-AvaÌ    2-1  Cear·
-Guarani    2-1  Guaratinguet·
-ABC    2-0  Paran·
+Atl√©tico  0-1  S√£o Caetano      [played in Paranagu√°-PR]
+ASA    3-2  Am√©rica/MG
+Joinville  3-1  Crici√∫ma
+Ava√≠    2-1  Cear√°
+Guarani    2-1  Guaratinguet√°
+ABC    2-0  Paran√°
 
 Round 16
 [Aug 7]
-AvaÌ    3-1  ABC
-AmÈrica/RN  0-2  AtlÈtico
+Ava√≠    3-1  ABC
+Am√©rica/RN  0-2  Atl√©tico
 Bragantino  0-2  Ipatinga
 [Aug 10]
 ASA    1-0  Guarani
-Cear·    2-0  GrÍmio Barueri
+Cear√°    2-0  Gr√™mio Barueri
 [Aug 11]
-AmÈrica/MG  1-2  VitÛria
-Goi·s    2-0  Boa
-S„o Caetano  1-1  Crici˙ma
-Guaratinguet·  0-3  Joinville
-Paran·    4-0  CRB
+Am√©rica/MG  1-2  Vit√≥ria
+Goi√°s    2-0  Boa
+S√£o Caetano  1-1  Crici√∫ma
+Guaratinguet√°  0-3  Joinville
+Paran√°    4-0  CRB
 
 Round 17 [Aug 14]
-CRB    0-2  Cear·
-Crici˙ma  4-3  AmÈrica/RN
+CRB    0-2  Cear√°
+Crici√∫ma  4-3  Am√©rica/RN
 Joinville  1-0  Bragantino
-Ipatinga  2-0  Paran·
-VitÛria    2-0  Guaratinguet·
-ABC    0-2  AmÈrica/MG
-Boa    1-3  S„o Caetano
-AtlÈtico  1-0  ASA        [played in Paranagu·-PR]
-Guarani    0-2  AvaÌ
-GrÍmio Barueri  2-0  Goi·s
+Ipatinga  2-0  Paran√°
+Vit√≥ria    2-0  Guaratinguet√°
+ABC    0-2  Am√©rica/MG
+Boa    1-3  S√£o Caetano
+Atl√©tico  1-0  ASA        [played in Paranagu√°-PR]
+Guarani    0-2  Ava√≠
+Gr√™mio Barueri  2-0  Goi√°s
 
 Round 18
 [Jul 17]
-VitÛria    2-1  Joinville
-Guaratinguet·  3-1  Ipatinga
-AmÈrica/MG  1-1  AmÈrica/RN
+Vit√≥ria    2-1  Joinville
+Guaratinguet√°  3-1  Ipatinga
+Am√©rica/MG  1-1  Am√©rica/RN
 Guarani    4-0  CRB
-AvaÌ    2-1  GrÍmio Barueri
+Ava√≠    2-1  Gr√™mio Barueri
 [Jul 18]
-Bragantino  1-3  Cear·
-AtlÈtico  1-0  Crici˙ma        [played in Paranagu·-PR]
-Goi·s    0-0  S„o Caetano
+Bragantino  1-3  Cear√°
+Atl√©tico  1-0  Crici√∫ma        [played in Paranagu√°-PR]
+Goi√°s    0-0  S√£o Caetano
 ABC    1-2  Boa
-ASA    1-1  Paran·
+ASA    1-1  Paran√°
 
 Round 19
 [Aug 21]
-GrÍmio Barueri  2-3  Guaratinguet·
-Ipatinga  1-0  AmÈrica/MG
-Crici˙ma  2-0  AvaÌ
+Gr√™mio Barueri  2-3  Guaratinguet√°
+Ipatinga  1-0  Am√©rica/MG
+Crici√∫ma  2-0  Ava√≠
 [Aug 24]
-Cear·    1-3  VitÛria
+Cear√°    1-3  Vit√≥ria
 [Aug 25]
-AmÈrica/RN  1-0  ABC
-Paran·    1-2  AtlÈtico
-S„o Caetano  1-2  Guarani
-Joinville  1-0  Goi·s
+Am√©rica/RN  1-0  ABC
+Paran√°    1-2  Atl√©tico
+S√£o Caetano  1-2  Guarani
+Joinville  1-0  Goi√°s
 CRB    0-1  ASA
 Boa    3-0  Bragantino
 
 Round 20 [Aug 28]
 Bragantino  0-2  CRB
-Guarani    0-0  Paran·
-AtlÈtico  1-1  Joinville        [played in Paranagu·-PR]
-VitÛria    1-0  GrÍmio Barueri
-AvaÌ    2-1  Boa
-AmÈrica/MG  1-3  Cear·
-ASA    4-1  S„o Caetano
-Guaratinguet·  2-1  Crici˙ma        [played in S„o JosÈ dos Campos-SP]
+Guarani    0-0  Paran√°
+Atl√©tico  1-1  Joinville        [played in Paranagu√°-PR]
+Vit√≥ria    1-0  Gr√™mio Barueri
+Ava√≠    2-1  Boa
+Am√©rica/MG  1-3  Cear√°
+ASA    4-1  S√£o Caetano
+Guaratinguet√°  2-1  Crici√∫ma        [played in S√£o Jos√© dos Campos-SP]
 ABC    2-2  Ipatinga
-Goi·s    1-0  AmÈrica/RN
+Goi√°s    1-0  Am√©rica/RN
 
 Round 21
 [Aug 31]
 Boa    1-2  Guarani
-Crici˙ma  3-2  Bragantino
-Cear·    1-1  Guaratinguet·
-GrÍmio Barueri  1-0  ASA
-Ipatinga  1-1  AtlÈtico
+Crici√∫ma  3-2  Bragantino
+Cear√°    1-1  Guaratinguet√°
+Gr√™mio Barueri  1-0  ASA
+Ipatinga  1-1  Atl√©tico
 [Sep 1]
-Paran·    1-3  Goi·s
+Paran√°    1-3  Goi√°s
 Joinville  0-0  ABC
-AmÈrica/RN  2-2  VitÛria
-S„o Caetano  1-0  AvaÌ
-CRB    0-1  AmÈrica/MG
+Am√©rica/RN  2-2  Vit√≥ria
+S√£o Caetano  1-0  Ava√≠
+CRB    0-1  Am√©rica/MG
 
 Round 22 [Sep 4]
-AtlÈtico  2-1  Boa
-AmÈrica/MG  0-0  Paran·
+Atl√©tico  2-1  Boa
+Am√©rica/MG  0-0  Paran√°
 Guarani    2-1  Joinville
-VitÛria    2-2  Crici˙ma
-AvaÌ    2-2  AmÈrica/RN
+Vit√≥ria    2-2  Crici√∫ma
+Ava√≠    2-2  Am√©rica/RN
 ASA    3-0  Ipatinga
-Guaratinguet·  1-2  CRB        [played in S„o JosÈ dos Campos-SP]
-Goi·s    0-0  Cear·
-Bragantino  2-3  S„o Caetano
-ABC    2-1  GrÍmio Barueri
+Guaratinguet√°  1-2  CRB        [played in S√£o Jos√© dos Campos-SP]
+Goi√°s    0-0  Cear√°
+Bragantino  2-3  S√£o Caetano
+ABC    2-1  Gr√™mio Barueri
 
 Round 23
 [Sep 7]
-AmÈrica/RN  4-1  Guaratinguet·
+Am√©rica/RN  4-1  Guaratinguet√°
 Boa    3-2  ASA
-Paran·    2-0  Bragantino
-Cear·    1-0  Guarani
-GrÍmio Barueri  0-6  AtlÈtico
+Paran√°    2-0  Bragantino
+Cear√°    1-0  Guarani
+Gr√™mio Barueri  0-6  Atl√©tico
 [Sep 8]
-CRB    0-2  Goi·s
-Crici˙ma  0-4  AmÈrica/MG
-Ipatinga  1-1  VitÛria
-Joinville  1-0  AvaÌ
-S„o Caetano  0-1  ABC
+CRB    0-2  Goi√°s
+Crici√∫ma  0-4  Am√©rica/MG
+Ipatinga  1-1  Vit√≥ria
+Joinville  1-0  Ava√≠
+S√£o Caetano  0-1  ABC
 
 Round 24 [Sep 11]
-AtlÈtico  4-1  CRB
-AmÈrica/MG  2-5  S„o Caetano
+Atl√©tico  4-1  CRB
+Am√©rica/MG  2-5  S√£o Caetano
 ASA    1-0  Joinville
-AvaÌ    2-1  Ipatinga
-Guaratinguet·  2-0  Paran·        [played in S„o JosÈ dos Campos-SP]
-VitÛria    3-2  Boa
-ABC    0-1  Cear·
-Bragantino  1-0  AmÈrica/RN
-Goi·s    1-0  Crici˙ma
-Guarani    1-0  GrÍmio Barueri
+Ava√≠    2-1  Ipatinga
+Guaratinguet√°  2-0  Paran√°        [played in S√£o Jos√© dos Campos-SP]
+Vit√≥ria    3-2  Boa
+ABC    0-1  Cear√°
+Bragantino  1-0  Am√©rica/RN
+Goi√°s    1-0  Crici√∫ma
+Guarani    1-0  Gr√™mio Barueri
 
 Round 25
 [Sep 14]
-Crici˙ma  2-1  ASA
-Paran·    1-1  GrÍmio Barueri
-AmÈrica/RN  0-2  S„o Caetano
-Guaratinguet·  2-0  Bragantino        [played in S„o JosÈ dos Campos-SP]
-AmÈrica/MG  1-0  AvaÌ
+Crici√∫ma  2-1  ASA
+Paran√°    1-1  Gr√™mio Barueri
+Am√©rica/RN  0-2  S√£o Caetano
+Guaratinguet√°  2-0  Bragantino        [played in S√£o Jos√© dos Campos-SP]
+Am√©rica/MG  1-0  Ava√≠
 [Sep 15]
-Cear·    4-3  Joinville
+Cear√°    4-3  Joinville
 CRB    3-3  ABC
-Goi·s    3-2  AtlÈtico
-Guarani    0-0  VitÛria
+Goi√°s    3-2  Atl√©tico
+Guarani    0-0  Vit√≥ria
 Boa    2-1  Ipatinga
 
 Round 26
 [Sep 18]
-Bragantino  2-0  AmÈrica/MG
+Bragantino  2-0  Am√©rica/MG
 [Sep 21]
-AvaÌ    2-0  Guaratinguet·
+Ava√≠    2-0  Guaratinguet√°
 ABC    3-1  Guarani
-Joinville  3-1  Paran·
+Joinville  3-1  Paran√°
 [Sep 22]
-VitÛria    3-1  Goi·s
-Ipatinga  2-3  Crici˙ma
-GrÍmio Barueri  1-2  Boa
-AtlÈtico  2-1  Cear·
-S„o Caetano  3-2  CRB
-ASA    0-2  AmÈrica/RN
+Vit√≥ria    3-1  Goi√°s
+Ipatinga  2-3  Crici√∫ma
+Gr√™mio Barueri  1-2  Boa
+Atl√©tico  2-1  Cear√°
+S√£o Caetano  3-2  CRB
+ASA    0-2  Am√©rica/RN
 
 Round 27
 [Sep 25]
 ABC    1-1  ASA
-AmÈrica/MG  1-2  GrÍmio Barueri
+Am√©rica/MG  1-2  Gr√™mio Barueri
 Joinville  3-0  Boa
 [Sep 28]
-Paran·    2-1  S„o Caetano
-Guaratinguet·  0-3  Goi·s
-CRB    0-2  Crici˙ma
+Paran√°    2-1  S√£o Caetano
+Guaratinguet√°  0-3  Goi√°s
+CRB    0-2  Crici√∫ma
 [Sep 29]
-AvaÌ    2-0  VitÛria
-Guarani    0-0  AmÈrica/RN
-Bragantino  2-1  AtlÈtico
-Cear·    1-1  Ipatinga
+Ava√≠    2-0  Vit√≥ria
+Guarani    0-0  Am√©rica/RN
+Bragantino  2-1  Atl√©tico
+Cear√°    1-1  Ipatinga
 
 Round 28
 [Oct 2]
-ASA    1-0  AvaÌ
-Goi·s    1-0  Bragantino
-S„o Caetano  1-0  Guaratinguet·
+ASA    1-0  Ava√≠
+Goi√°s    1-0  Bragantino
+S√£o Caetano  1-0  Guaratinguet√°
 [Oct 5]
-AmÈrica/RN  3-3  CRB
-GrÍmio Barueri  1-1  Joinville
+Am√©rica/RN  3-3  CRB
+Gr√™mio Barueri  1-1  Joinville
 Ipatinga  0-0  Guarani
-Boa    2-1  Paran·
-Crici˙ma  2-1  Cear·
+Boa    2-1  Paran√°
+Crici√∫ma  2-1  Cear√°
 [Oct 6]
-AtlÈtico  5-4  AmÈrica/MG
-VitÛria    1-0  ABC
+Atl√©tico  5-4  Am√©rica/MG
+Vit√≥ria    1-0  ABC
 
 Round 29
 [Oct 9]
-ASA    3-1  Guaratinguet·
-GrÍmio Barueri  2-0  Ipatinga
-Joinville  0-0  S„o Caetano
+ASA    3-1  Guaratinguet√°
+Gr√™mio Barueri  2-0  Ipatinga
+Joinville  0-0  S√£o Caetano
 [Oct 12]
-ABC    0-1  AtlÈtico
+ABC    0-1  Atl√©tico
 Guarani    1-2  Bragantino
 [Oct 13]
-Paran·    3-1  VitÛria
-Boa    0-4  Crici˙ma
-Cear·    4-0  AmÈrica/RN
-AmÈrica/MG  1-2  Goi·s
-AvaÌ    1-0  CRB
+Paran√°    3-1  Vit√≥ria
+Boa    0-4  Crici√∫ma
+Cear√°    4-0  Am√©rica/RN
+Am√©rica/MG  1-2  Goi√°s
+Ava√≠    1-0  CRB
 
 Round 30 [Oct 16]
-AtlÈtico  3-1  AvaÌ
-VitÛria    2-0  ASA
-AmÈrica/RN  2-1  Paran·
-S„o Caetano  2-0  Cear·
-Goi·s    5-0  Guarani
-Bragantino  2-2  GrÍmio Barueri
+Atl√©tico  3-1  Ava√≠
+Vit√≥ria    2-0  ASA
+Am√©rica/RN  2-1  Paran√°
+S√£o Caetano  2-0  Cear√°
+Goi√°s    5-0  Guarani
+Bragantino  2-2  Gr√™mio Barueri
 CRB    0-0  Boa
-Guaratinguet·  1-2  AmÈrica/MG
+Guaratinguet√°  1-2  Am√©rica/MG
 Ipatinga  1-0  Joinville
-Crici˙ma  2-0  ABC
+Crici√∫ma  2-0  ABC
 
 Round 31
 [Oct 19]
-ASA    3-0  Cear·
-GrÍmio Barueri  2-2  S„o Caetano
-Ipatinga  4-0  AmÈrica/RN
-AvaÌ    1-4  Goi·s
+ASA    3-0  Cear√°
+Gr√™mio Barueri  2-2  S√£o Caetano
+Ipatinga  4-0  Am√©rica/RN
+Ava√≠    1-4  Goi√°s
 [Oct 20]
 ABC    1-0  Bragantino
-VitÛria    0-2  AtlÈtico
-Paran·    1-1  Crici˙ma
+Vit√≥ria    0-2  Atl√©tico
+Paran√°    1-1  Crici√∫ma
 Joinville  3-1  CRB
-Guarani    0-3  AmÈrica/MG
-Boa    0-1  Guaratinguet·
+Guarani    0-3  Am√©rica/MG
+Boa    0-1  Guaratinguet√°
 
 Round 32 [Oct 23]
-AtlÈtico  1-1  Guarani
-Crici˙ma  3-4  GrÍmio Barueri
-CRB    0-1  VitÛria
-Goi·s    4-0  ASA
-S„o Caetano  1-1  Ipatinga
-AmÈrica/RN  3-1  Joinville
-AmÈrica/MG  3-2  Boa
-Bragantino  1-0  AvaÌ
-Cear·    0-1  Paran·
-Guaratinguet·  2-1  ABC
+Atl√©tico  1-1  Guarani
+Crici√∫ma  3-4  Gr√™mio Barueri
+CRB    0-1  Vit√≥ria
+Goi√°s    4-0  ASA
+S√£o Caetano  1-1  Ipatinga
+Am√©rica/RN  3-1  Joinville
+Am√©rica/MG  3-2  Boa
+Bragantino  1-0  Ava√≠
+Cear√°    0-1  Paran√°
+Guaratinguet√°  2-1  ABC
 
 Round 33
 [Oct 26]
-ABC    3-2  Goi·s
-VitÛria    0-1  S„o Caetano
-Boa    1-0  Cear·
-GrÍmio Barueri  2-3  AmÈrica/RN
-AvaÌ    3-1  Paran·
+ABC    3-2  Goi√°s
+Vit√≥ria    0-1  S√£o Caetano
+Boa    1-0  Cear√°
+Gr√™mio Barueri  2-3  Am√©rica/RN
+Ava√≠    3-1  Paran√°
 [Oct 27]
-AtlÈtico  3-0  Guaratinguet·
-Joinville  2-2  AmÈrica/MG
-Guarani    1-2  Crici˙ma
+Atl√©tico  3-0  Guaratinguet√°
+Joinville  2-2  Am√©rica/MG
+Guarani    1-2  Crici√∫ma
 Ipatinga  3-2  CRB
 ASA    1-1  Bragantino
 
 Round 34
 [Oct 30]
-AmÈrica/MG  0-1  ASA
-Goi·s    4-0  Ipatinga
-Paran·    1-2  ABC
+Am√©rica/MG  0-1  ASA
+Goi√°s    4-0  Ipatinga
+Paran√°    1-2  ABC
 [Nov 2]
-CRB    2-1  GrÍmio Barueri
-Cear·    0-1  AvaÌ
-Guaratinguet·  2-1  Guarani
+CRB    2-1  Gr√™mio Barueri
+Cear√°    0-1  Ava√≠
+Guaratinguet√°  2-1  Guarani
 [Nov 3]
-Bragantino  3-0  VitÛria
-S„o Caetano  1-3  AtlÈtico
-Crici˙ma  2-3  Joinville
-AmÈrica/RN  4-4  Boa
+Bragantino  3-0  Vit√≥ria
+S√£o Caetano  1-3  Atl√©tico
+Crici√∫ma  2-3  Joinville
+Am√©rica/RN  4-4  Boa
 
 Round 35 [Nov 6]
-CRB    0-2  Paran·
-VitÛria    5-3  AmÈrica/MG
-GrÍmio Barueri  0-0  Cear·
-ABC    1-2  AvaÌ
-Crici˙ma  0-2  S„o Caetano
+CRB    0-2  Paran√°
+Vit√≥ria    5-3  Am√©rica/MG
+Gr√™mio Barueri  0-0  Cear√°
+ABC    1-2  Ava√≠
+Crici√∫ma  0-2  S√£o Caetano
 Ipatinga  2-1  Bragantino
-Joinville  2-1  Guaratinguet·
+Joinville  2-1  Guaratinguet√°
 Guarani    2-1  ASA
-Boa    2-2  Goi·s
-AtlÈtico  1-1  AmÈrica/RN
+Boa    2-2  Goi√°s
+Atl√©tico  1-1  Am√©rica/RN
 
 Round 36
 [Nov 9]
 Bragantino  1-0  Joinville
-S„o Caetano  4-2  Boa
-ASA    2-3  AtlÈtico
-AvaÌ    1-0  Guarani
+S√£o Caetano  4-2  Boa
+ASA    2-3  Atl√©tico
+Ava√≠    1-0  Guarani
 [Nov 10]
-Cear·    1-2  CRB
-Goi·s    3-0  GrÍmio Barueri
-AmÈrica/RN  1-4  Crici˙ma
-AmÈrica/MG  3-3  ABC
-Guaratinguet·  1-0  VitÛria
-Paran·    2-0  Ipatinga
+Cear√°    1-2  CRB
+Goi√°s    3-0  Gr√™mio Barueri
+Am√©rica/RN  1-4  Crici√∫ma
+Am√©rica/MG  3-3  ABC
+Guaratinguet√°  1-0  Vit√≥ria
+Paran√°    2-0  Ipatinga
 
 Round 37
 [Nov 16]
-Paran·    2-0  ASA
+Paran√°    2-0  ASA
 [Nov 17]
-Cear·    1-2  Bragantino
-GrÍmio Barueri  2-0  AvaÌ
-Ipatinga  2-3  Guaratinguet·
-AmÈrica/RN  1-1  AmÈrica/MG
-S„o Caetano  1-1  Goi·s
+Cear√°    1-2  Bragantino
+Gr√™mio Barueri  2-0  Ava√≠
+Ipatinga  2-3  Guaratinguet√°
+Am√©rica/RN  1-1  Am√©rica/MG
+S√£o Caetano  1-1  Goi√°s
 CRB    2-1  Guarani
-Crici˙ma  0-0  AtlÈtico
+Crici√∫ma  0-0  Atl√©tico
 Boa    0-0  ABC
-Joinville  1-1  VitÛria
+Joinville  1-1  Vit√≥ria
 
 Round 38
 [Nov 23]
-AmÈrica/MG  3-1  Ipatinga
+Am√©rica/MG  3-1  Ipatinga
 [Nov 24]
-Guarani    1-2  S„o Caetano
+Guarani    1-2  S√£o Caetano
 ASA    2-4  CRB
 Bragantino  3-0  Boa
-ABC    2-2  AmÈrica/RN
-AvaÌ    1-1  Crici˙ma
-Guaratinguet·  2-1  GrÍmio Barueri
-Goi·s    2-1  Joinville
-AtlÈtico  1-1  Paran·
-VitÛria    1-1  Cear·
+ABC    2-2  Am√©rica/RN
+Ava√≠    1-1  Crici√∫ma
+Guaratinguet√°  2-1  Gr√™mio Barueri
+Goi√°s    2-1  Joinville
+Atl√©tico  1-1  Paran√°
+Vit√≥ria    1-1  Cear√°
 
 Table:
- 1.Goi·s     38 23  9  6  75-37  78  Champions; promoted
- 2.Crici˙ma     38 22  7  9  78-57  73  Promoted
- 3.AtlÈtico     38 21  8  9  65-37  71  Promoted (-)
- 4.VitÛria     38 21  8  9  59-43  71  Promoted
+ 1.Goi√°s     38 23  9  6  75-37  78  Champions; promoted
+ 2.Crici√∫ma     38 22  7  9  78-57  73  Promoted
+ 3.Atl√©tico     38 21  8  9  65-37  71  Promoted (-)
+ 4.Vit√≥ria     38 21  8  9  59-43  71  Promoted
 -----------------------------------------
- 5.S„o Caetano     38 20 11  7  58-38  71
+ 5.S√£o Caetano     38 20 11  7  58-38  71
  6.Joinville     38 17  9 12  58-40  60  (+)
- 7.AvaÌ       38 18  5 15  44-42  59  (-)
- 8.AmÈrica/MG     38 16  7 15  63-58  55  (-)
- 9.AmÈrica/RN     38 14 12 12  60-61  54  (+)
-10.Paran·     38 14 10 14  50-47  52
-11.Cear·     38 12 11 15  51-52  47  (-)
+ 7.Ava√≠       38 18  5 15  44-42  59  (-)
+ 8.Am√©rica/MG     38 16  7 15  63-58  55  (-)
+ 9.Am√©rica/RN     38 14 12 12  60-61  54  (+)
+10.Paran√°     38 14 10 14  50-47  52
+11.Cear√°     38 12 11 15  51-52  47  (-)
 12.ABC       38 11 12 15  50-52  45
 13.ASA       38 13  5 20  48-56  44
 14.Bragantino     38 12  8 18  45-53  44
 15.Boa       38 11 11 16  51-63  44
-16.Guaratinguet·   38 13  4 21  41-63  43
+16.Guaratinguet√°   38 13  4 21  41-63  43
 -----------------------------------------
 17.CRB       38 12  6 20  47-67  42  Relegated (+)
 18.Guarani     38 10 11 17  36-47  41  Relegated
 19.Ipatinga     38  8  7 23  38-73  31  Relegated (+)
-20.GrÍmio Barueri  38  7  9 22  38-69  30  Relegated
+20.Gr√™mio Barueri  38  7  9 22  38-69  30  Relegated
 
 
-Topscorer: ZÈ Carlos (Crici˙ma), 27 goals.
+Topscorer: Z√© Carlos (Crici√∫ma), 27 goals.
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-2011
+‚Äπ2011‚Ä∫
 
-2013
+‚Äπ2013‚Ä∫
 
-list of champions.
+‚Äπlist of champions‚Ä∫.
 
-list of 2nd division champions.
+‚Äπlist of 2nd division champions‚Ä∫.
 
-list of cup winners.
+‚Äπlist of cup winners‚Ä∫.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 ## About this document
 
-Prepared and maintained by Rec.Sport.Soccer
-Statistics Foundation and RSSSF
-Brazil
+Prepared and maintained by ‚ÄπRec.Sport.Soccer
+Statistics Foundation‚Ä∫ and ‚ÄπRSSSF
+Brazil‚Ä∫
 
 Author: RSSSF Brazil
-
 Last updated: 7 Jun 2013
 
 

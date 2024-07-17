@@ -1,6 +1,5 @@
 <!--
-   source: http://www.rsssf.com/tablesb/braz2015.html
-   html to text conversion on 2015-07-25 16:33:27 +0200
+   source: https://rsssf.org/tablesb/braz2015.html
   -->
 
 
@@ -8,241 +7,2431 @@
 ## Brazil 2015
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-S�rie A
+‹Série A›
+‹Copa do Brasil›
+‹Série B›
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### S�rie A
+#### Série A
 
 
-Table:
+Final Table:
 
- 1.Atl�tico/MG           11   7  2  2  24-11  23
- 2.Gr�mio                11   7  2  2  17-12  23
- 3.Sport Recife          11   6  5  0  20-10  23
- 4.Fluminense            11   5  3  2  14-10  21
- 5.Corinthians           11   6  2  3  10- 8  20
- 6.Atl�tico/PR           11   6  1  4  15-12  19
- 7.Palmeiras             11   5  3  3  16- 8  18
- 8.S�o Paulo             11   5  3  3  13-11  18
- 9.Chapecoense           11   5  1  5   9-10  16
-10.Ponte Preta           11   4  4  3  15-14  16
-11.Figueirense           11   4  3  4  12-13  15
-12.Cruzeiro              11   4  1  5  11-10  13
-13.Ava�                  11   3  4  4  12-15  13
-14.Internacional         11   3  4  4   8-13  13
-15.Flamengo              11   3  1  7  10-15  10
-16.Goi�s                 11   2  4  5   7-10  10
+ 1.Corinthians           38  24  9  5  71-31  81  Champions
+ 2.Atlético/MG           38  21  6 11  65-47  69
+ 3.Grêmio                38  20  8 10  52-32  68
+ 4.São Paulo             38  18  8 12  53-47  62
+ 5.Internacional         38  17  9 12  39-38  60
+ 6.Sport Recife          38  15 14  9  53-38  59
+ 7.Santos                38  16 10 12  59-41  58
+ 8.Cruzeiro              38  15 10 13  44-35  55
+ 9.Palmeiras             38  15  8 15  60-51  53
+10.Atlético/PR           38  14  9 15  43-48  51
+11.Ponte Preta           38  13 12 13  41-40  51
+12.Flamengo              38  15  4 19  45-53  49
+13.Fluminense            38  14  5 19  40-49  47
+14.Chapecoense           38  12 11 15  34-44  47
+15.Coritiba              38  11 11 16  31-42  44
+16.Figueirense           38  11 10 17  36-50  43
 ------------------------------------------------
-17.Santos                11   2  4  5  13-17  10
-18.Vasco da Gama         11   2  3  6   5-15   9
-19.Coritiba              11   2  2  7   7-14   8
-20.Joinville             11   1  2  8   4-14   5
+17.Avaí                  38  11  9 18  38-60  42  Relegated
+18.Vasco da Gama         38  10 11 17  28-54  41  Relegated
+19.Goiás                 38  10  8 20  39-49  38  Relegated
+20.Joinville             38   7 10 21  26-48  31  Relegated
 
 Round 1
 [May 9]
-Chapecoense     2-1 Coritiba
-Palmeiras       2-2 Atl�tico/MG
-Fluminense      1-0 Joinville
+Palmeiras   2-2  Atlético/MG
+ [Vítor Hugo 81', Rafael Marques 90'+4'; Patric 50', Jô 85']
+Chapecoense   2-1  Coritiba
+ [Elicarlos 29', Roger 65'; Rafhael Lucas 2']
+Fluminense   1-0  Joinville
+ [Vinícius 87']
 [May 10]
-Gr�mio          3-3 Ponte Preta
-Sport Recife    4-1 Figueirense
-Cruzeiro        0-1 Corinthians
-Atl�tico/PR     3-0 Internacional
-S�o Paulo       2-1 Flamengo
-Ava�            1-1 Santos
-Vasco da Gama   0-0 Goi�s
+Grêmio     3-3  Ponte Preta
+ [Yuri Mamute 23',53', Matías Rodríguez 78'; Renato Cajá 61', Rildo 64', Diego Oliveira 90'+4']
+São Paulo   2-1  Flamengo
+ [Luís Fabiano 73', Alexandre Pato 81'; Éverton 85'p]
+Cruzeiro   0-1  Corinthians                  [played in Cuiabá-MT]
+ [Romero 81']
+Atlético/PR   3-0  Internacional
+ [Walter 13', Felipe 65'p, Paulão 68'og]
+Sport     4-1  Figueirense
+ [Matheus Ferraz 19', Diego Souza 63',77', Régis 68'; Renê 67'og]
+Vasco da Gama   0-0  Goiás
+Avaí     1-1  Santos
+ [Marquinhos 63'; Robinho 28']
 
 Round 2
 [May 16]
-Coritiba        2-0 Gr�mio
-Goi�s           2-0 Atl�tico/PR
-Corinthians     1-0 Chapecoense
+Goiás     2-0  Atlético/PR
+ [Bruno Henrique 54',80']
+Coritiba   2-0  Grêmio
+ [Thiago Galhardo 26', Erazo 33'og]
+Corinthians   1-0  Chapecoense                  [played in Araraquara-SP]
+ [Fábio Santos 27']
 [May 17]
-Figueirense     0-0 Vasco da Gama
-Santos          1-0 Cruzeiro
-Atl�tico/MG     4-1 Fluminense
-Flamengo        2-2 Sport Recife
-Ponte Preta     1-0 S�o Paulo
-Internacional   1-0 Ava�
-Joinville       0-0 Palmeiras
+Figueirense   0-0  Vasco da Gama
+Atlético/MG   4-1  Fluminense                  [played in Brasília-DF]
+ [Jemerson 6',36', Dátolo 52', Luan 79'; Fred 88'p]
+Santos     1-0  Cruzeiro
+ [Geuvânio 44']
+Flamengo   2-2  Sport
+ [Canteros 73', Éverton 90'+5'; Diego Souza 45'+1', Elber 68']
+Internacional   1-0  Avaí
+ [Vitinho 62']
+Joinville   0-0  Palmeiras
+Ponte Preta   1-0  São Paulo
+ [Renato Cajá 13']
 
 Round 3
 [May 23]
-S�o Paulo       3-0 Joinville
-Vasco da Gama   1-1 Internacional
-Gr�mio          1-0 Figueirense
+Vasco da Gama   1-1  Internacional
+ [Lucas 83'; Nilmar 45'+2']
+São Paulo   3-0  Joinville
+ [Dória 10', Michel Bastos 58', Alexandre Pato 85']
+Grêmio     1-0  Figueirense
+ [Braian Rodríguez 80']
 [May 24]
-Palmeiras       0-1 Goi�s
-Chapecoense     1-0 Santos
-Ava�            2-1 Flamengo
-Atl�tico/PR     1-0 Atl�tico/MG
-Fluminense      0-0 Corinthians
-Cruzeiro        1-1 Ponte Preta
-Sport Recife    1-0 Coritiba
+Palmeiras   0-1  Goiás
+ [Victor Ramos 76'og]
+Fluminense   0-0  Corinthians
+Chapecoense   1-0  Santos
+ [Apodi 20']
+Avaí     2-1  Flamengo
+ [Hugo 46',61'; Gabriel 50']
+Atlético/PR   1-0  Atlético/MG
+ [Douglas Coutinho 38']
+Cruzeiro   1-1  Ponte Preta
+ [Charles 81'; Biro Biro 84']
+Sport     1-0  Coritiba
+ [Neto 28']
 
 Round 4
 [May 30]
-Coritiba        1-2 Ava�
-Ponte Preta     3-1 Chapecoense
-Joinville       1-2 Atl�tico/PR
+Ponte Preta   3-1  Chapecoense
+ [Tiago Alves 5', Biro Biro 47', Renato Cajá 90'+2'; Gil 88']
+Coritiba   1-2  Avaí
+ [Paulinho 49'; Anderson Lopes 0'45", Roberto 78']
+Joinville   1-2  Atlético/PR
+ [Rafael Costa 64'; Nikão 29', Douglas Coutinho 32']
 [May 31]
-Santos          2-2 Sport Recife
-Goi�s           1-1 Gr�mio
-Internacional   0-0 S�o Paulo
-Corinthians     0-2 Palmeiras
-Atl�tico/MG     3-0 Vasco da Gama
-Figueirense     2-1 Cruzeiro
-Flamengo        2-3 Fluminense
+Santos     2-2  Sport
+ [Robinho 43', Werley 69'; Joélinton 52', Samuel Rosa 90'+2']
+Corinthians   0-2  Palmeiras
+ [Rafael Marques 24', Zé Roberto 45']
+Internacional   0-0  São Paulo
+Goiás     1-1  Grêmio
+ [Rodrigo 52'; Giuliano 35']
+Atlético/MG   3-0  Vasco da Gama
+ [Thiago Ribeiro 11',43', Dátolo 19']
+Flamengo   2-3  Fluminense
+ [Alecsandro 36', Eduardo da Silva 85'; Fred 7'p,46', Pará 32'og]
+Figueirense   2-1  Cruzeiro
+ [Marquinhos 35', Carlos Alberto 49'; Henrique 40']
 
 Round 5
 [Jun 3]
-Atl�tico/PR     1-0 Figueirense
-Chapecoense     2-0 Joinville
-Vasco da Gama   0-3 Ponte Preta
-S�o Paulo       3-2 Santos
-Gr�mio          3-1 Corinthians
-Ava�            1-4 Atl�tico/MG
-Cruzeiro        1-0 Flamengo
+Vasco da Gama   0-3  Ponte Preta
+ [Diego Olivera 0'55", Tiago Alves 38', Borges 76']
+Atlético/PR   1-0  Figueirense
+ [Nikão 19']
+Chapecoense   2-0  Joinville
+ [Ananias 10', Bruno Silva 28']
+São Paulo   3-2  Santos
+ [Michel Bastos 33', Paulo Miranda 49', Rogério Ceni 85'p; Ricardo Oliveira 45',46']
+Cruzeiro   1-0  Flamengo
+ [Manoel 77']
+Avaí     1-4  Atlético/MG
+ [André Lima 73'; Carlos 10',76', Antônio Carlos 22'og, Lucas Pratto 67']
+Grêmio     3-1  Corinthians
+ [Giuliano 2', Marcelo Oliveira 4', Luan 38'; Mendoza 22']
 [Jun 4]
-Fluminense      2-0 Coritiba
-Sport Recife    1-0 Goi�s
-Palmeiras       1-1 Internacional
+Fluminense   2-0  Coritiba
+ [Vinícius 30', Marcos Júnior 87']
+Sport     1-0  Goiás
+ [Maikon Leite 90'+3']
+Palmeiras   1-1  Internacional
+ [Vitor Hugo 64'; Rafael Moura 75']
 
 Round 6
 [Jun 6]
-Santos          2-2 Ponte Preta
-Atl�tico/MG     1-3 Cruzeiro
-Flamengo        1-0 Chapecoense
-Joinville       0-1 Corinthians
-S�o Paulo       2-0 Gr�mio
-Atl�tico/PR     2-0 Vasco da Gama
+Santos     2-2  Ponte Preta
+ [Geuvânio 22', Ricardo Oliveira 60'; Felipe Azevedo 52', Renato Cajá 71']
+Flamengo   1-0  Chapecoense
+ [Gabriel 64']
+Atlético/MG   1-3  Cruzeiro
+ [Luan 12'; Willian 45'+1', Gabriel Xavier 46', Marquinhos 71']
+Atlético/PR   2-0  Vasco da Gama
+ [Nikão 59'p, Ytalo 90'+1']
+Joinville   0-1  Corinthians
+ [Jádson 31']
+São Paulo   2-0  Grêmio
+ [Luis Fabiano 26', Rogério Ceni 55'p]
 [Jun 7]
-Internacional   2-0 Coritiba
-Fluminense      0-0 Sport Recife
-Goi�s           0-1 Ava�
-Figueirense     2-1 Palmeiras
+Internacional   2-0  Coritiba
+ [Vitinho 25', Nilmar 35']
+Goiás     0-1  Avaí
+ [Rômulo 90'+3']
+Fluminense   0-0  Sport
+Figueirense   2-1  Palmeiras
+ [Carlos Alberto 7', Thiago Santana 61'; Gabriel 11']
 
 Round 7
 [Jun 10]
-Atl�tico/MG     2-2 Santos
+Atlético/MG   2-2  Santos
+ [Werley 27'og, Dátolo 42'; Ricardo Oliveira 19', Gabriel 53']
 [Jun 13]
-Chapecoense     0-1 S�o Paulo
-Corinthians     2-1 Internacional
-Coritiba        0-1 Flamengo
-Sport Recife    2-1 Joinville
-Vasco da Gama   1-3 Cruzeiro
+Chapecoense   0-1  São Paulo
+ [Souza 6']
+Corinthians   2-1  Internacional
+ [Jádson 50', Vágner Love 66'; Nilmar 40']
+Coritiba   0-1  Flamengo
+ [Eduardo da Silva 38']
+Vasco da Gama   1-3  Cruzeiro
+ [Rodrigo 87'; Leandro Damião 29',73', Charles 57']
+Sport     2-1  Joinville
+ [Maikon Leite 15',38'; Marcelinho Paraíba 78']
 [Jun 14]
-Ponte Preta     0-0 Goi�s
-Ava�            1-1 Figueirense
-Gr�mio          2-1 Atl�tico/PR
-Palmeiras       2-1 Fluminense
+Ponte Preta   0-0  Goiás
+Avaí     1-1  Figueirense
+ [Anderson Lopes 35'; Marquinhos 14']
+Palmeiras   2-1  Fluminense
+ [Rafael Marques 45'+2', Cristaldo 90'; Jean 16']
+Grêmio     2-1  Atlético/PR
+ [Giuliano 32', Rhodolfo 70'; Hernani 51']
 
 Round 8
 [Jun 18]
-Figueirense     0-0 Internacional
+Figueirense   0-0  Internacional
 [Jun 20]
-Santos          1-0 Corinthians
-Sport Recife    2-1 Vasco da Gama
-Flamengo        0-2 Atl�tico/MG
-Gr�mio          1-0 Palmeiras
+Santos     1-0  Corinthians
+ [Ricardo Oliveira 10']
+Flamengo   0-2  Atlético/MG
+ [Samir 21'og, Lucas Pratto 40']
+Sport     2-1  Vasco da Gama
+ [André 19', Wendell 81'; Riascos 41']
+Grêmio     1-0  Palmeiras
+ [Maicon 55']
 [Jun 21]
-Cruzeiro        0-1 Chapecoense
-S�o Paulo       1-1 Ava�
-Joinville       2-1 Goi�s
-Atl�tico/PR     2-2 Coritiba
+Cruzeiro   0-1  Chapecoense
+ [Camilo 35']
+Atlético/PR   2-2  Coritiba
+ [Walter 24', Edigar Junio 81'; Wellington Paulista 16', Ruy 76']
+Joinville   2-1  Goiás
+ [Kempes 34',45'+1'; Wesley 25']
+São Paulo   1-1  Avaí
+ [Souza 54'; André Lima 88']
 [Jun 24]
-Fluminense      2-0 Ponte Preta
+Fluminense   2-0  Ponte Preta
+ [Wellington Silva 54', Vinícius 90'+4']
 
 Round 9
 [Jun 27]
-Ava�            1-2 Gr�mio
-Chapecoense     1-1 Sport Recife
-Corinthians     2-1 Figueirense
+Avaí     1-2  Grêmio
+ [Anderson Lopes 56'p; Pedro Rocha 1', Luan 9']
+Chapecoense   1-1  Sport
+ [Bruno Rangel 87'; Rithely 28']
+Corinthians   2-1  Figueirense
+ [Vágner Love 54', Jadson 64'p; Thiago Santana 72']
 [Jun 28]
-Atl�tico/MG     1-0 Joinville
-Goi�s           1-2 Fluminense
-Coritiba        1-0 Cruzeiro
-Ponte Preta     2-1 Atl�tico/PR
-Palmeiras       4-0 S�o Paulo
-Internacional   1-0 Santos
-Vasco da Gama   1-0 Flamengo
+Atlético/MG   1-0  Joinville
+ [Leonardo Silva 33']
+Goiás     1-2  Fluminense
+ [Erik 33'; Wagner 52', Edson 63']
+Coritiba   1-0  Cruzeiro
+ [Rafhael Lucas 62']
+Palmeiras   4-0  São Paulo
+ [Leandro Pereira 31', Victor Ramos 42', Rafael Marques 58', Cristaldo 70']
+Ponte Preta   2-1  Atlético/PR
+ [Renato Cajá 29', Felipe Azevedo 70'; Nikão 27']
+Vasco da Gama   1-0  Flamengo                    [played in Cuiabá-MT]
+ [Riascos 16']
+Internacional   1-0  Santos
+ [Valdivia 77']
 
 Round 10
 [Jul 1]
-Sport Recife    3-0 Internacional
-Vasco da Gama   1-0 Ava�
-Palmeiras       2-0 Chapecoense
-Atl�tico/MG     2-0 Coritiba
-Gr�mio          1-0 Cruzeiro
-Atl�tico/PR     2-1 S�o Paulo
-Joinville       0-1 Flamengo
+Sport     3-0  Internacional
+ [André 9',35', Marlone 29']
+Palmeiras   2-0  Chapecoense
+ [Egídio 27', Cristaldo 69']
+Vasco da Gama   1-0  Avaí
+ [Emanuel Biancucchi 68']
+Atlético/MG   2-0  Coritiba
+ [Thiago Ribeiro 45',66']
+Grêmio     1-0  Cruzeiro
+ [Douglas 68'p]
+Atlético/PR   2-1  São Paulo
+ [Gustavo 35', Marcos Guilherme 58'; Centurión 71']
+Joinville   0-1  Flamengo
+ [Emerson Sheik 54']
 [Jul 2]
-Figueirense     3-1 Goi�s
-Corinthians     2-0 Ponte Preta
-Fluminense      2-1 Santos
+Figueirense   3-1  Goiás
+ [Thiago Santana 23', Clayton 33', Paulo Roberto 79'; Felipe Menezes 46']
+Corinthians   2-0  Ponte Preta
+ [Jádson 40', Vágner Love 90'+5']
+Fluminense   2-1  Santos
+ [Fred 39', Lucas Gomes 80'; Ricardo Oliveira 53']
 
 Round 11
 [Jul 4]
-Coritiba        0-0 Joinville
-Cruzeiro        2-0 Atl�tico/PR
-Chapecoense     1-0 Vasco da Gama
+Chapecoense   1-0  Vasco da Gama
+ [Neto 45']
+Coritiba   0-0  Joinville
+Cruzeiro   2-0  Atlético/PR
+ [De Arrascaeta 40', Marinho 72']
 [Jul 5]
-Ava�            2-2 Sport Recife
-Goi�s           0-0 Corinthians
-S�o Paulo       0-0 Fluminense
-Santos          1-3 Gr�mio
-Flamengo        1-2 Figueirense
-Ponte Preta     0-2 Palmeiras
-Internacional   1-3 Atl�tico/MG
+Avaí     2-2  Sport
+ [Samuel Xavier 39'og, Renan 37'; Diego Souza 20', André 90'+2']
+São Paulo   0-0  Fluminense
+Goiás     0-0  Corinthians
+Santos     1-3  Grêmio
+ [Ricardo Oliveira 63'; Pedro Rocha 3', Rafael Galhardo 49', Yuri Mamute 80']
+Ponte Preta   0-2  Palmeiras                    [played in Cuiabá-MT]
+ [Dudu 8',39']
+Flamengo   1-2  Figueirense
+ [Alan Patrick 47'; Ricardinho 61', Fabinho 90'+2']
+Internacional   1-3  Atlético/MG
+ [Lisandro López 85'; Maicosuel 58',76', Thiago Ribeiro 79']
 
-Table:
+Round 12
+[Jul 8]
+Goiás     4-1  Santos
+ [Felipe Menezes 47'p,58', Fred 51', Carlos Augusto 61'; Ricardo Oliveira 89'p]
+Coritiba   0-0  Ponte Preta
+Chapecoense   1-0  Grêmio
+ [Bruno Rangel 76']
+Figueirense   0-2  Joinville
+ [Kempes 10',60']
+Palmeiras   3-0  Avaí
+ [Rafael Marques 7', Lucas 64', Cristaldo 88']
+Atlético/MG   2-1  Sport
+ [Lucas Pratto 46', Giovanni Augusto 54'; Matheus Ferraz 49']
+Internacional   1-2  Flamengo
+ [Ernando 90'+2'; Paolo Guerrero 10', Everton 64']
+Vasco da Gama   0-4  São Paulo                    [played in Brasília-DF]
+ [Alexandre Pato 13', Michel Bastos 17', Wesley 48', Boschilia 90'+2']
+[Jul 9]
+Corinthians   2-0  Atlético/PR
+ [Elias 33', Jádson 76']
+Fluminense   1-0  Cruzeiro
+ [Gustavo Scarpa 73']
 
- 1.Atl�tico/MG           11   7  2  2  24-11  23
- 2.Gr�mio                11   7  2  2  17-12  23
- 3.Sport Recife          11   6  5  0  20-10  23
- 4.Fluminense            11   5  3  2  14-10  21
- 5.Corinthians           11   6  2  3  10- 8  20
- 6.Atl�tico/PR           11   6  1  4  15-12  19
- 7.Palmeiras             11   5  3  3  16- 8  18
- 8.S�o Paulo             11   5  3  3  13-11  18
- 9.Chapecoense           11   5  1  5   9-10  16
-10.Ponte Preta           11   4  4  3  15-14  16
-11.Figueirense           11   4  3  4  12-13  15
-12.Cruzeiro              11   4  1  5  11-10  13
-13.Ava�                  11   3  4  4  12-15  13
-14.Internacional         11   3  4  4   8-13  13
-15.Flamengo              11   3  1  7  10-15  10
-16.Goi�s                 11   2  4  5   7-10  10
+Round 13
+[Jul 11]
+Grêmio     2-0  Vasco da Gama
+ [Anderson Salles 59'og, Pedro Rocha 80']
+Santos     3-0  Figueirense
+ [David Braz 31', Lucas Lima 46', Gabriel 62']
+Ponte Preta   0-2  Atlético/MG
+ [Thiago Ribeiro 27', Giovanni Augusto 87']
+[Jul 12]
+São Paulo   3-1  Coritiba
+ [Centurión 14', Alexandre Pato 45',90'; Marcos Aurélio 59']
+Joinville   0-2  Internacional
+ [Réver 32', Vitinho 45'p]
+Atlético/PR   1-2  Fluminense
+ [Sidcley 68'; Gustavo Scarpa 51', Fred 90'+3']
+Cruzeiro   1-0  Goiás
+ [Joel 37']
+Flamengo   0-3  Corinthians
+ [Elias 25', Uendel 45'+3', Jádson 63']
+Sport     2-2  Palmeiras
+ [Matheus Ferraz 21', André 90'; Leandro Pereira 43',58']
+Avaí     2-1  Chapecoense
+ [Emerson 9', William 19'; Bruno Rangel 47']
+
+Round 14
+[Jul 18]
+Internacional   2-1  Goiás
+ [Eduardo 59', Eduardo Sasha 88'; Felipe Menezes 79'p]
+Flamengo   1-0  Grêmio
+ [Paolo Guerrero 40']
+Corinthians   1-0  Atlético/MG
+ [Malcom 42']
+[Jul 19]
+Atlético/PR   1-0  Chapecoense
+ [Ernani 52']
+Palmeiras   1-0  Santos
+ [Leandro Pereira 14']
+Figueirense   0-0  Coritiba
+Sport     2-0  São Paulo
+ [Élber 33', Ferrugem 90'+2']
+Fluminense   1-2  Vasco da Gama
+ [Marcos Júnior 58'; Andrezinho 38', Jhon Cley 70']
+Cruzeiro   1-1  Avaí
+ [Marcos Vinícius 14'; André Lima 81']
+Joinville   1-1  Ponte Preta
+ [Silvinho 54'; Fernando Bob 73'p]
+
+Round 15
+[Jul 25]
+Avaí     1-2  Atlético/PR
+ [Rômulo 38'; Marcos Guilherme 42',89']
+Grêmio     1-1  Sport
+ [Pedro Rocha 44'; Diego Souza 61']
+Atlético/MG   1-0  Figueirense
+ [Lucas Pratto 62']
+[Jul 26]
+Chapecoense   2-1  Fluminense
+ [Bruno Rangel 26',89'p; Edson 28']
+Santos     2-0  Joinville
+ [Gabriel 3',18']
+São Paulo   1-0  Cruzeiro
+ [Alexandre Pato 44']
+Ponte Preta   0-0  Internacional
+Coritiba   1-1  Corinthians
+ [Evandro 90'+1'; Felipe 41']
+Goiás     0-1  Flamengo
+ [Marcelo Cirino 71']
+Vasco da Gama   1-4  Palmeiras
+ [Riascos 68'; Leandro Pereira 3',54', Dudu 17', Victor Ramos 34']
+
+Round 16
+[Jul 29]
+Corinthians   3-0  Vasco da Gama
+ [Renato Augusto 46', Gil 61', Elias 76']
+Atlético/MG   3-1  São Paulo
+ [Lucas Pratto 19',25',43'; Alexandre Pato 58']
+[Aug 1]
+Fluminense   1-0  Grêmio
+ [Marcos Júnior 81']
+[Aug 2]
+Palmeiras   0-1  Atlético/PR
+ [Walter 77']
+Coritiba   1-1  Goiás
+ [Evandro 90'; Liniker 65']
+Figueirense   3-1  Ponte Preta
+ [João Vitor 4', Marquinhos 73', Dudu 90'+1'; Renato Chaves 50']
+Joinville   2-0  Avaí
+ [Jéci 39'og, Guti 60']
+Flamengo   2-2  Santos
+ [Alan Patrick 39', Emerson Sheik 42'; Ricardo Oliveira 51', Lucas Lima 71']
+Internacional   0-0  Chapecoense
+Sport     0-0  Cruzeiro
+
+Round 17
+[Aug 8]
+Avaí     1-0  Fluminense
+ [André Lima 5']
+Santos     3-0  Coritiba
+ [Geuvânio 19', Ivan 43'og, Ricardo Oliveira 59']
+[Aug 9]
+Vasco da Gama   0-0  Joinville
+Atlético/PR   1-1  Sport
+ [Vilches 90'+7'; Marlone 15']
+Cruzeiro   2-1  Palmeiras
+ [Alisson 4', De Arrascaeta 81'; Cristaldo 74']
+Goiás     0-0  Atlético/MG
+Ponte Preta   1-0  Flamengo
+ [Pablo 71']
+São Paulo   1-1  Corinthians
+ [Luís Fabiano 47'; Luciano 20']
+Chapecoense   2-2  Figueirense
+ [Bruno Rangel 49', Tiago Luis 56'; Dudu 82', Marcão 88']
+Grêmio     5-0  Internacional
+ [Giuliano 35', Luan 42',48', Fernandinho 78', Réver 84'og]
+
+Round 18
+[Aug 12]
+Flamengo   3-2  Atlético/PR
+ [Wallace 12', Emerson Sheik 39', Alan Patrick 44'; Hernani 24', Kadu 65']
+Coritiba   2-1  Palmeiras
+ [Henrique Almeida 17',81'; Rafael Marques 45']
+Santos     1-0  Vasco da Gama
+ [Victor Ferraz 48']
+Goiás     0-0  Chapecoense
+Corinthians   4-3  Sport
+ [Luciano 12',45'+1', Samuel Xavier 59'og, Jádson 87'p; André 16', Hernane 71',76']
+Figueirense   0-2  São Paulo
+ [Alexandre Pato 13', Rogério Ceni 26'p]
+Internacional   1-0  Fluminense
+ [Vitinho 82']
+[Aug 13]
+Ponte Preta   2-0  Avaí
+ [Borges 59', Felipe Azevedo 72']
+Joinville   3-0  Cruzeiro
+ [Marcelinho Paraíba 13', Bruno Aguiar 26', Trípodi 71']
+Atlético/MG   0-2  Grêmio
+ [Douglas 40', Luan 54']
+
+Round 19
+[Aug 15]
+Atlético/PR   0-0  Santos
+Vasco da Gama   0-1  Coritiba
+ [Evandro 90'+2']
+São Paulo   0-3  Goiás
+ [Felipe Menezes 26', Erik 44',76']
+[Aug 16]
+Palmeiras   4-2  Flamengo
+ [Jackson 5', Samir 57'og, Dudu 65', Alecsandro 71'; Ederson 50',56']
+Fluminense   2-1  Figueirense
+ [Cícero 48', Fred 64'; Clayton 40'p]
+Avaí     1-2  Corinthians
+ [André Lima 13'; Luciano 45'+2',86']
+Sport     1-1  Ponte Preta
+ [Diego Souza 9'; Borges 81']
+Cruzeiro   0-0  Internacional
+Grêmio     2-1  Joinville
+ [Erazo 60', Rafael Galhardo 83'; Bruno Aguiar 2']
+Chapecoense   2-1  Atlético/MG
+ [Cléber Santana 40', Apodi 77'; Neto 63'og]
+
+Halfway Table:
+
+ 1.Corinthians           19  12  4  3  27-14  40
+ 2.Atlético/MG           19  11  3  5  33-18  36
+ 3.Grêmio                19  11  3  5  29-17  36
+ 4.Fluminense            19  10  3  6  22-18  33
+ 5.Palmeiras             19   9  4  6  32-18  31
+ 6.São Paulo             19   9  4  6  25-21  31
+ 7.Sport Recife          19   7 10  2  31-21  31
+ 8.Atlético/PR           19   9  3  7  23-21  30
+ 9.Chapecoense           19   8  4  7  17-17  28
+10.Ponte Preta           19   6  8  5  21-21  26
+11.Internacional         19   6  7  6  14-21  25
+12.Santos                19   6  6  7  25-24  24
+13.Flamengo              19   7  2 10  21-28  23
+14.Cruzeiro              19   6  4  9  15-17  22
+15.Figueirense           19   5  5  9  18-26  20
+16.Avaí                  19   5  5  9  18-28  20
 ------------------------------------------------
-17.Santos                11   2  4  5  13-17  10
-18.Vasco da Gama         11   2  3  6   5-15   9
-19.Coritiba              11   2  2  7   7-14   8
-20.Joinville             11   1  2  8   4-14   5
+17.Goiás                 19   4  7  8  16-16  19
+18.Coritiba              19   4  6  9  13-23  18
+19.Joinville             19   4  4 11  13-21  16
+20.Vasco da Gama         19   3  4 12   8-31  13
+
+Round 20
+[Aug 22]
+Goiás     3-0  Vasco da Gama
+ [Zé Love 4', Erik 16'p,76'p]
+Santos     5-2  Avaí
+ [Gabriel 10', Thiago Maia 13', Ricardo Oliveira 47', Gilson 80', Lucas Lima 90'+3'p; Léo Gamalho 29',82']
+Figueirense   2-1  Sport
+ [Dudu 62', Bruno Alves 69'; Renê 31']
+[Aug 23]
+Ponte Preta   0-0  Grêmio
+Coritiba   1-0  Chapecoense
+ [Henrique Almeida 23']
+Internacional   2-0  Atlético/PR
+ [Valdívia 3', Paulão 70']
+Corinthians   3-0  Cruzeiro
+ [Vágner Love 14',47', Jadson 44']
+Joinville   2-1  Fluminense
+ [Mário Sérgio 80', Marlon 90'+1'og; Cícero 70']
+Flamengo   2-1  São Paulo
+ [Éderson 42', Guerrero 47'; Luiz Eduardo 35']
+Atlético/MG   2-1  Palmeiras
+ [Lucas Pratto 17',36'p; Andrei Girotto 4']
+
+Round 21
+[Aug 29]
+Vasco da Gama   0-1  Figueirense
+ [Marcão 90'+3']
+São Paulo   3-0  Ponte Preta
+ [Michel Bastos 34', Ganso 49', Wilder Guisao 53']
+[Aug 30]
+Grêmio     0-0  Coritiba
+Avaí     3-0  Internacional
+ [Léo Gamalho 69'p,83', Néstor Camacho 90'+5']
+Sport     0-1  Flamengo
+ [Éverton 4']
+Chapecoense   1-3  Corinthians
+ [Bruno Rangel 45'+3'; Elias 10', Vágner Love 13', Jádson 89'p]
+Palmeiras   3-2  Joinville
+ [Gabriel Jesus 0'48", 67', Dudu 23'; Marcelinho Paraíba 26',27']
+Fluminense   1-2  Atlético/MG
+ [Wellington Paulista 46'; Giovanni Augusto 21', Patric 82']
+Cruzeiro   0-1  Santos
+ [Ricardo Oliveira 42']
+Atlético/PR   3-0  Goiás
+ [Wálter 26',77', Ewandro 87']
+
+Round 22
+[Sep 2]
+Internacional   6-0  Vasco da Gama
+ [Ernando 10', Eduardo Sasha 39', Lisandro López 53',90'+1', Valdívia 57', Nílton 62']
+Joinville   0-0  São Paulo
+Ponte Preta   1-2  Cruzeiro
+ [Biro Biro 58'; Willians 42', Vinícius Araújo 90'+3']
+Flamengo   3-0  Avaí                    [played in Natal-RN]
+ [Alan Patrick 30', Kayke 54',75']
+Atlético/MG   0-1  Atlético/PR
+ [Walter 57'p]
+Goiás     1-0  Palmeiras
+ [Bruno Henrique 62']
+Coritiba   0-0  Sport
+Corinthians   2-0  Fluminense
+ [Marciel 4', Ralf 70']
+[Sep 3]
+Santos     3-1  Chapecoense
+ [Ricardo Oliveira 15',75', Geuvânio 57'; Neto 83']
+Figueirense   0-2  Grêmio
+ [Bobô 6', Pedro Rocha 77']
+
+Round 23
+[Sep 5]
+São Paulo   2-0  Internacional
+ [Rogério 48', Michel Bastos 71']
+Vasco da Gama   1-2  Atlético/MG
+ [Nenê 73'p; Lucas Pratto 23'p, Dátolo 42']
+Atlético/PR   0-0  Joinville
+[Sep 6]
+Chapecoense   0-0  Ponte Preta
+Cruzeiro   5-1  Figueirense
+ [Willian 3',28',71',74', Vinícius Araújo 60'; Marquinhos Pedroso 65']
+Grêmio     2-1  Goiás
+ [Douglas 51', Everton 82'; Bruno Henrique 43']
+Palmeiras   3-3  Corinthians
+ [Lucas 19', Robinho 27', Dudu 41'; Guilherme Arana 24', Amaral 37'og, Vágner Love 78']
+Fluminense   1-3  Flamengo
+ [Jean 57'p; Emerson Sheik 9', Kayke 14', Paulinho 68']
+Avaí     0-2  Coritiba
+ [Henrique Almeida 64',82']
+Sport     1-1  Santos
+ [André 27'; Ricardo Oliveira 20']
+
+Round 24
+[Sep 9]
+Internacional   1-0  Palmeiras
+ [Nílton 19']
+Atlético/MG   2-0  Avaí
+ [Luan 11', Leonardo Silva 29']
+Ponte Preta   0-1  Vasco da Gama
+ [Leandrão 74']
+Figueirense   1-1  Atlético/PR
+ [Clayton 43'p; Walter 40']
+Santos     3-0  São Paulo
+ [David Braz 31', Rafael Longuine 42', Ricardo Oliveira 51']
+Corinthians   1-1  Grêmio
+ [Renato Augusto 65'; Bobô 58']
+Coritiba   1-1  Fluminense
+ [Henrique Almeida 28'; Marcos Júnior 59']
+[Sep 10]
+Goiás     1-0  Sport
+ [Carlos 79']
+Flamengo   2-0  Cruzeiro
+ [Alan Patrick 45', Luiz Antônio 68']
+Joinville   0-0  Chapecoense
+
+Round 25
+[Sep 12]
+Coritiba   0-1  Internacional
+ [Vitinho 45'+3']
+Palmeiras   2-0  Figueirense
+ [Jackson 46', Zé Roberto 87'p]
+[Sep 13]
+Corinthians   3-0  Joinville
+ [Malcon 38', Uendel 57', Vágner Love 88']
+Ponte Preta   3-1  Santos
+ [Bady 8', Ferrón 22', Borges 43'; Rafael Longuine 90'+2']
+Chapecoense   1-3  Flamengo
+ [Bruno Rangel 80'; Paulinho 10', Canteros 32', Kayke 88']
+Vasco da Gama   2-0  Atlético/PR
+ [Júlio César 4', Nenê 47'p]
+Grêmio     1-2  São Paulo
+ [Everton 90'+2'; Alexandre Pato 34', Rogério 90']
+Cruzeiro   1-1  Atlético/MG
+ [Willian 37'; Carlos 88']
+Avaí     2-1  Goiás
+ [Emerson 87', André Lima 90'+3'; Bruno Henrique 28']
+Sport     1-0  Fluminense
+ [Danilo 17']
+
+Round 26
+[Sep 16]
+Fluminense   1-4  Palmeiras
+ [Jean 36'; Lucas Barrios 68',89',90'+2', Gabriel Jesus 78']
+Goiás     1-2  Ponte Preta
+ [Fred 27'; Biro Biro 5', Alexandro 80']
+Joinville   1-1  Sport
+ [Edgar Júnio 38'; André 90']
+Atlético/PR   1-2  Grêmio
+ [Ewandro 77'; Douglas 31', Luan 46']
+Figueirense   0-1  Avaí
+ [Renan Oliveira 79']
+Santos     4-0  Atlético/MG
+ [Gabriel 37',54', Ricardo Oliveira 70', Marquinhos Gabriel 90'+1']
+Internacional   2-1  Corinthians
+ [Réver 37', Valdivia 73'; Malcom 18']
+Cruzeiro   2-2  Vasco da Gama
+ [Willian 26', Alisson 42'; Rafael Silva 24',80']
+[Sep 17]
+São Paulo   0-0  Chapecoense
+Flamengo   0-2  Coritiba                    [played in Brasília-DF]
+ [Kléber Gladiador 8'p, Henrique Almeida 24']
+
+Round 27
+[Sep 19]
+Internacional   1-1  Figueirense
+ [Alex 36'p; Thiago Santana 77']
+Palmeiras   3-2  Grêmio
+ [Victor Hugo 6', Lucas Barrios 31', Rafael Marques 58'; Luan 19',85'p]
+Ponte Preta   3-1  Fluminense
+ [Borges 7', Fernando Bob 25'p, Marlon 43'og; Gustavo Scarpa 46']
+[Sep 20]
+Corinthians   2-0  Santos
+ [Jádson 85'p,88']
+Goiás     3-0  Joinville
+ [Fred 18', Erik 72'p,86']
+Avaí     2-1  São Paulo
+ [Marquinhos 17', Anderson Lopes 71'; Breno 43']
+Atlético/MG   4-1  Flamengo
+ [Marcelo 15'og, Jemerson 25',54', Dátolo 70'; Paulinho 18']
+Vasco da Gama   2-1  Sport
+ [Nenê 1', Rafael Vaz 48'; Elber 39']
+Chapecoense   0-2  Cruzeiro
+ [Fabiano 11', Rafael Lima 23'og]
+Coritiba   2-0  Atlético/PR
+ [Henrique Almeida 12', Negueba 44']
+
+Round 28
+[Sep 26]
+Fluminense   2-0  Goiás
+ [Fred 28', Gustavo Scarpa 49']
+Grêmio     3-1  Avaí
+ [Giuliano 12',23', Maxi Rodríguez 75'; André Lima 64']
+[Sep 27]
+Atlético/PR   1-2  Ponte Preta
+ [Bruno Mota 29'; Biro Biro 16',63']
+Santos     3-1  Internacional
+ [Marquinhos Gabriel 36', Gabriel 59'p, Leandro 89'; Valdívia 26'p]
+Figueirense   1-3  Corinthians
+ [Leandro Silva 90'; Elias 14', Gil 66', Renato Augusto 82']
+São Paulo   1-1  Palmeiras
+ [Carlinhos 59'; Robinho 90'+2']
+Flamengo   1-2  Vasco da Gama
+ [Emerson Sheik 11'; Rodrigo 57', Nenê 61'p]
+Joinville   2-2  Atlético/MG
+ [Kempes 61', William Popp 82'; Luan 51', Thiago Ribeiro 81']
+Sport     3-0  Chapecoense
+ [Diego Souza 24', Apodi 77'og, Régis 84']
+Cruzeiro   2-0  Coritiba
+ [Ceará 21', Willian 65']
+
+Round 29
+[Oct 3]
+Coritiba   0-3  Atlético/MG
+ [Leandro Silva 41'og, Giovanni Augusto 65', Lucas Pratto 84'p]
+Internacional   2-1  Sport
+ [Lisandro López 64', Rodrigo Dourado 81'; Élber 79']
+São Paulo   1-0  Atlético/PR
+  [Rogério 71']
+[Oct 4]
+Avaí     1-1  Vasco da Gama
+ [André Lima 85'; Nenê 43'p]
+Flamengo   2-0  Joinville
+  [Ayrton 56', Gabriel 79']
+Ponte Preta   2-2  Corinthians
+ [Elton 61', Felipe Azevedo 63'; Jádson 42', Rodriguinho 84']
+Goiás     2-3  Figueirense
+ [Zé Love 45'+5'p, Rafael Forster 66'; Dudu 56',59', Rafael Bastos 86']
+Cruzeiro   0-0  Grêmio
+Santos     3-1  Fluminense
+ [Lucas Lima 5', Marquinhos Gabriel 10', Neto Berola 83'; Robert 90'+1']
+Chapecoense   5-1  Palmeiras
+ [Neto 4', Camilo 22', Túlio de Melo 54', Apodi 64', Ananias 86'; Dudu 58']
+
+Round 30
+[Oct 14]
+Atlético/MG   2-1  Internacional
+  [Lucas Pratto 16'p, Marcos Rocha 69'; Paulão 38']
+Sport     3-0  Avaí
+ [Régis 60', André 63',84']
+Joinville   3-1  Coritiba
+ [Marcelinho Paraíba 32'p, Rafael Donato 56', Kadu 72'; Henrique Almeida 88'p]
+Figueirense   3-0  Flamengo
+ [Clayton 21',65', Dudu 87']
+Palmeiras   0-1  Ponte Preta
+ [Fernando Bob 27'p]
+Atlético/PR   2-2  Cruzeiro
+ [Ewandro 36', Bruno Pereirinha 79'; Fabrício 73', Arrascaeta 84']
+Fluminense   2-0  São Paulo
+ [Fred 30', Marcos Junior 48']
+[Oct 15]
+Corinthians   3-0  Goiás
+ [Edu Dracena 15', Malcom 26', Rodriguinho 87']
+Vasco da Gama   1-1  Chapecoense
+ [Rodrigo 71'; Bruno Rangel 85'p]
+Grêmio     1-0  Santos
+ [Bressan 26']
+
+Round 31
+[Oct 17]
+Avaí     1-3  Palmeiras
+ [André Lima 68'; Gabriel Jesus 16', Cristaldo 60', Dudu 77']
+Joinville   1-0  Figueirense
+ [Kempes 53']
+[Oct 18]
+Cruzeiro   2-0  Fluminense
+ [Willian 27',46']
+Ponte Preta   3-0  Coritiba
+ [Alexandro 49',85', Biro Biro 90'+2']
+São Paulo   2-2  Vasco da Gama
+ [Luis Fabiano 1', Rodrigo Caio 87'; Nenê 45'p, Rodrigo 62']
+Flamengo   0-1  Internacional
+ [Ernando 18']
+Atlético/PR   1-4  Corinthians
+ [Bruno Mota 55'; Renato Augusto 16',45', Vágner Love 28',62']
+Grêmio     2-3  Chapecoense
+ [Douglas 4', Bobô 33'; Túlio de Melo 56'p,77', Apodi 90'+5']
+Santos     3-1  Goiás
+ [Werley 11', Ricardo Oliveira 14',45'; David 48']
+Sport     4-1  Atlético/MG
+ [Matheus Ferraz 6', Diego Souza 22', Elber 26', Maikon Leite 53'; Thiago Ribeiro 83'p]
+
+Round 32
+[Oct 24]
+Fluminense   0-1  Atlético/PR
+ [Walter 59']
+Figueirense   0-0  Santos
+Internacional   1-0  Joinville
+ [Vitinho 64']
+Palmeiras   0-2  Sport
+ [Marlone 15', André 58'p]
+[Oct 25]
+Vasco da Gama   0-0  Grêmio
+Coritiba   1-2  São Paulo
+ [Cáceres 45'; Alan Kardec 24', Alexandre Pato 64']
+Chapecoense   0-0  Avaí
+Corinthians   1-0  Flamengo
+ [Vágner Love 45'+1']
+Goiás     0-1  Cruzeiro
+ [Arrascaeta 51']
+Atlético/MG   2-1  Ponte Preta
+ [Luan 51', Giovanni Augusto 56'; Renato Chaves 90'+1']
+
+Round 33
+[Oct 31]
+São Paulo   3-0  Sport
+ [Paulo Henrique Ganso 18', Luís Fabiano 43', Michel Bastos 64']
+Avaí     1-1  Cruzeiro
+ [Rômulo 50'; Leandro Damião 74']
+Ponte Preta   1-0  Joinville
+ [Guti 54'og]
+Coritiba   1-1  Figueirense
+ [Juan 23'; Yago 39']
+[Nov 1]
+Santos     2-1  Palmeiras
+ [Thiago Maia 26', Ricardo Oliveira 48'; Dudu 74']
+Grêmio     2-0  Flamengo
+ [Éverton 51', Bobô 84']
+Chapecoense   0-0  Atlético/PR
+Atlético/MG   0-3  Corinthians
+ [Malcom 67', Vágner Love 74', Lucca 84']
+Vasco da Gama   0-1  Fluminense
+ [Gérson 45'+2']
+Goiás     2-1  Internacional
+ [Zé Love 47', Bruno Henrique 50'; Valdívia 19']
+
+Round 34
+[Nov 7]
+Internacional   1-0  Ponte Preta
+ [Vitinho 87']
+Corinthians   2-1  Coritiba
+  [Jadson 15'p, Lucca 88'; Negueba 47']
+Atlético/PR    2-1  Avaí
+ [Wálter 34', Sidcley 42'; Anderson Lopes 58']
+Fluminense   2-3  Chapecoense
+ [Jean 19'p, Gustavo Scarpa 49'; Túlio de Melo 29', Thiego 33', Camilo 63']
+[Nov 8]
+Palmeiras   0-2  Vasco da Gama
+ [Rafael Silva 34', Nenê 39']
+Flamengo   4-1  Goiás
+ [Alan Patrick 18',47', Kayke 50',63'; Erik 45'+1']
+Figueirense   0-1  Atlético/MG
+ [Dátolo 90']
+Cruzeiro   2-1  São Paulo
+ [Willian 32', Leandro Damião 75'; Luis Fabiano 30']
+Joinville   0-0  Santos
+Sport     1-0  Grêmio
+ [André 69']
+
+Round 35
+[Nov 15]
+Cruzeiro   3-0  Sport
+ [Willians 58'p, Durval 61'og, Marcos Vinícius 66']
+[Nov 18]
+Goiás     1-3  Coritiba
+ [Fred 79'; Juan 0'25", João Paulo 45'+2', Henrique Almeida 90'+3']
+Avaí     2-1  Joinville
+ [André Lima 18', Everton Silva 87'; Fernando Viana 42']
+Atlético/PR   3-3  Palmeiras
+ [Marcos Guilherme 1', Ewandro 83',86'; Robinho 53', Jackson 74', Alecsandro 90'+4']
+Ponte Preta   0-1  Figueirense
+ [Clayton 13'p]
+[Nov 19]
+Chapecoense   1-0  Internacional
+ [Ananias 64']
+Grêmio     1-0  Fluminense
+ [Luan 59'p]
+São Paulo   4-2  Atlético/MG
+ [Alan Kardec 68',84', Michel Bastos 74', Luis Fabiano 90'p; Luan 56', Dátolo 69']
+Santos     0-0  Flamengo
+Vasco da Gama   1-1  Corinthians
+ [Júlio César 72'; Vágner Love 81']
+
+Round 36
+[Nov 21]
+Palmeiras   1-1  Cruzeiro
+ [Lucas Barrios 70'; Marcos Vinícius 20']
+[Nov 22]
+Figueirense   0-0  Chapecoense
+Atlético/MG   2-2  Goiás
+ [Luan 22', Marcos Rocha 56'; Erik 38', Bruno Henrique 59']
+Joinville   1-2  Vasco da Gama
+ [Rafael Donato 79'; Nenê 5', Riascos 9']
+Corinthians   6-1  São Paulo
+ [Bruno Henrique 25', Romero 28',63', Edu Dracena 45', Lucca 75', Cristian 76'p; Carlinhos 69']
+Internacional   1-0  Grêmio
+ [Vitinho 52']
+Flamengo   1-1  Ponte Preta                  [played in Brasília-DF]
+ [Gabriel 55'; Diego Olivera 76']
+Sport     0-0  Atlético/PR
+Coritiba   1-0  Santos
+ [Henrique Almeida 57']
+Fluminense   3-1  Avaí                    [played in Cariacica-ES]
+ [Gum 20', Osvaldo 74', Fred 85'; Léo Gamalho 89']
+
+Round 37
+[Nov 28]
+São Paulo   3-2  Figueirense
+ [Luis Fabiano 10', Thiago Mendes 90'+4', Alan Kardec 90'; Clayton 27', Carlos Alberto 74']
+Fluminense   1-1  Internacional
+ [Cícero 73'p; Vitinho 4']
+Avaí     1-0  Ponte Preta
+ [Antônio Carlos 65']
+[Nov 29]
+Sport     2-0  Corinthians
+ [Matheus Ferraz 23', André 90']
+Cruzeiro   3-0  Joinville
+ [Willian 34', Charles 39', Alisson 63']
+Vasco da Gama   1-0  Santos
+ [Nenê 44'p]
+Grêmio     2-1  Atlético/MG
+ [Éverton 30', Luan 68'; Lucas Pratto 41'p]
+Chapecoense   1-3  Goiás
+ [Túlio de Melo 46'; Erik 28'p, Fred 32',77']
+Palmeiras   0-2  Coritiba
+ [Juan 23', Henrique Almeida 90'+3']
+Atlético/PR   3-0  Flamengo
+ [Roberto 12', Cléberson 32',67']
+
+Round 38 [Dec 6]
+Joinville   0-2  Grêmio
+ [Marcelo Oliveira 5', Bobô 60']
+Atlético/MG   3-0  Chapecoense
+ [Thiago Ribeiro 38', Leonardo Silva 50', Patric 67']
+Coritiba   0-0  Vasco da Gama
+Flamengo   1-2  Palmeiras
+ [Pará 75'; Dudu 71', Vitor Hugo 89']
+Ponte Preta   0-1  Sport
+ [Diego Souza 61']
+Internacional   2-0  Cruzeiro
+ [Vitinho 25',61']
+Santos     5-1  Atlético/PR
+ [Geuvânio 14',80', Gabriel 29',59', Vitor Bueno 73'; Cléberson 12']
+Figueirense   1-0  Fluminense
+ [Marcão 48']
+Corinthians   1-1  Avaí
+ [Vágner Love 77'; Claudinei 57']
+Goiás     0-1  São Paulo
+ [Rogério 90'+2']
+
+Final Table:
+
+ 1.Corinthians           38  24  9  5  71-31  81  Champions
+ 2.Atlético/MG           38  21  6 11  65-47  69
+ 3.Grêmio                38  20  8 10  52-32  68
+ 4.São Paulo             38  18  8 12  53-47  62
+ 5.Internacional         38  17  9 12  39-38  60
+ 6.Sport Recife          38  15 14  9  53-38  59
+ 7.Santos                38  16 10 12  59-41  58
+ 8.Cruzeiro              38  15 10 13  44-35  55
+ 9.Palmeiras             38  15  8 15  60-51  53
+10.Atlético/PR           38  14  9 15  43-48  51
+11.Ponte Preta           38  13 12 13  41-40  51
+12.Flamengo              38  15  4 19  45-53  49
+13.Fluminense            38  14  5 19  40-49  47
+14.Chapecoense           38  12 11 15  34-44  47
+15.Coritiba              38  11 11 16  31-42  44
+16.Figueirense           38  11 10 17  36-50  43
+------------------------------------------------
+17.Avaí                  38  11  9 18  38-60  42  Relegated
+18.Vasco da Gama         38  10 11 17  28-54  41  Relegated
+19.Goiás                 38  10  8 20  39-49  38  Relegated
+20.Joinville             38   7 10 21  26-48  31  Relegated
 
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-2014
+#### Copa do Brasil
 
-list of champions.
 
-list of 2nd division champions.
+Participants:
 
-list of cup winners.
+Clubs classified to Taça Libertadores da América (and bye to 1/8 Finals):
+
+C Atlético Mineiro (Belo Horizonte, MG)
+SC Corinthians P (São Paulo, SP)
+Cruzeiro EC (Belo Horizonte, MG)
+SC Internacional (Porto Alegre, RS)
+São Paulo FC (São Paulo, SP)
+
+Best placed in 2014 Brazilian Championship, except the five clubs above (bye to 1/8 Finals):
+
+Fluminense FC (Rio de Janeiro, RJ)
+
+Clubs classified due to state competitions performance:
+
+SÃO PAULO (5 berths):
+Ituano FC (Itu)
+Santos FC (Santos)
+SE Palmeiras (São Paulo)
+Capivariano FC (Capivari)
+EC Santo André (Santo André)
+
+RIO DE JANEIRO (5 berths):
+CR Flamengo (Rio de Janeiro)
+CR Vasco da Gama (Rio de Janeiro)
+AD Cabofriense (Cabo Frio)
+Boavista SC (Saquarema)
+Madureira EC (Rio de Janeiro)
+
+MINAS GERAIS (4 berths):
+América FC (Belo Horizonte)
+Boa EC (Varginha)
+Tupi FC (Juiz de Fora)
+Villa Nova AC (Nova Lima)
+
+RIO GRANDE DO SUL (4 berths):
+Grêmio FBPA (Porto Alegre)
+GE Brasil (Pelotas)
+SER Caxias S (Caxias do Sul)
+CE Lajeadense (Lajeado)
+
+PARANÁ (4 berths):
+Londrina EC (Londrina)
+Maringá FC (Maringá)
+Coritiba FC (Curitiba)
+C Atlético Paranaense (Curitiba)
+
+SANTA CATARINA (3 berths):
+Figueirense FC (Florianópolis)
+Joinville EC (Joinville)
+A Chapecoense F (Chapecó)
+
+GOIÁS (3 berths):
+Atlético CG (Goiânia)
+Goiás EC (Goiânia)
+AA Anapolina (Anápolis)
+
+PERNAMBUCO (3 berths):
+Sport CR (Recife)
+C Náutico C (Recife)
+Salgueiro AC (Salgueiro)
+
+BAHIA (3 berths):
+EC Bahia (Salvador)
+EC Jacuipense (Riachão do Jacuípe)
+ECPP Vitória da Conquista (Vitória da Conquista)
+
+CEARÁ (3 berths):
+Ceará SC (Fortaleza)
+Fortaleza EC (Fortaleza)
+ADRC ICASA (Juazeiro do Norte)
+
+RIO GRANDE DO NORTE (3 berths):
+América FC (Natal)
+Globo FC (Ceará Mirim)
+Alecrim FC (Natal)
+
+ALAGOAS (3 berths):
+AA Coruripe (Coruripe)
+CRB (Maceió)
+Murici FC (Murici)
+
+PARÁ (3 berths):
+C Remo (Belém)
+Paysandu SC (Belém)
+Independente AC (Tucuruí)
+
+MATO GROSSO (3 berths):
+Cuiabá EC (Cuiabá)
+Luverdense EC (Lucas do Rio Verde)
+CE Operário V (Várzea Grande)
+
+PARAÍBA (2 berths):
+Botafogo FC (João Pessoa)
+Campinense C (Campina Grande)
+
+MARANHÃO (2 berths):
+Sampaio Corrêa FC (São Luís)
+Moto Club SL (São Luís)
+
+DISTRITO FEDERAL (2 berths):
+AA Luziânia (Luziânia)*
+Brasília FC (Brasília)
+
+* The city of Luziânia belongs to Goiás state, but the team of Luziânia
+plays the Distrito Federal championship.
+
+AMAZONAS (2 berths):
+Nacional FC (Manaus)
+Princesa do Solimões EC (Manacapuru)
+
+ACRE (2 berths):
+Rio Branco FC (Rio Branco)
+Atlético Acreano (Rio Branco)
+
+SERGIPE (2 berths):
+AD Confiança (Aracaju)
+Amadense EC (Tobias Barreto)
+
+MATO GROSSO DO SUL (2 berths):
+CENE (Campo Grande)
+EC Águia Negra (Rio Brilhante)
+
+PIAUÍ (2 berths):
+Ríver AC (Teresina)
+Piauí EC (Teresina)
+
+ESPÍRITO SANTO (2 berths):
+Estrela do Norte FC (Cachoeiro de Itapemirim)
+Real Noroeste CFC (Águia Branca)
+
+TOCANTINS (1 berth):
+Interporto FC (Porto Nacional)
+
+AMAPÁ (1 berth):
+Santos FC (Macapá)
+
+RONDÔNIA (1 berth):
+Vilhena EC (Vilhena)
+
+RORAIMA (1 berth):
+São Raimundo EC (Boa Vista)
+
+Clubs classified due to CBF Ranking
+(between brackets the placing in this ranking):
+
+Botafogo FR (Rio de Janeiro, RJ)       [11]
+EC Vitória (Salvador, BA)              [17]
+AA Ponte Preta (Campinas, SP)          [18]
+ABC FC (Natal, RN)                     [23]
+A Portuguesa D (São Paulo, SP)         [24]
+Criciúma EC (Criciúma, SC)             [25]
+Avaí FC (Florianópolis, SC)            [27]
+Paraná Clube (Curitiba, PR)            [31]
+CA Bragantino (Bragança Paulista, SP)  [32]
+ASA (Arapiraca, AL)                    [35]
+
+- Cruzeiro [1], Corinthians [2], Atlético/MG [6], São Paulo [7], Fluminense [8] and
+Internacional [9] are already qualified as byes to 1/8 Finals.
+- Flamengo [3], Grêmio [4], Santos [5], Atlético/PR [10], Vasco [12], Palmeiras [13],
+Coritiba [14], Goiás [15], Bahia [16], Ceará [19], Sport [20], Figueirense [21],
+Atlético/GO [22], Náutico [26], América/RN [28], América/MG [29], Chapecoense [30],
+Joinville [33] and Paysandu [34] are already qualified due to their performances in
+the state competitions.
+
+Obs.: 1) In each match, the second mentioned team plays the 2nd leg in home.
+      2) Away goal rule applied on all phases.
+
+Preliminary Phase
+[if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played]
+
+   Real Noroeste (ES) - Atlético Acreano (AC)   1-0 (08/02)     3-2 (22/02)
+                                                [Morotó 40]
+                                                [Stênio Garcia 14, 20, 40 ; Aílton 50, Jeferson 69og]
+
+First Round
+[if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played]
+
+ 1 Palmeiras (SP) - Vitória da Conquista (BA)   4-1 (04/03)     n/p (02/04)
+                                                [Cristaldo 13pen, Allione 64, Robinho 78, Dudu 83 ; Tatu 63]
+ 2 Sampaio Corrêa (MA) - Estrela do Norte (ES)  2-3 (25/02)     4-1 (01/04)
+                                                [Geraldo 71, Roben 83 ; David 31, Carlos Alberto 45+2pen, 61pen]
+                                                [Robert 15, 81, 89, Dionnes 52 ; Ferrugem 77]
+ 3 Vitória (BA) - Anapolina (GO)                2-1 (01/04)     1-1 (14/04)
+                                                [Pedro Oldoni 14 ; Rogério 69, Luiz Gustavo 71]
+                                                [Rogério 79 ; Pedro Oldoni 33]
+ 4 ASA (AL) - São Raimundo (RR)                 3-1 (25/02)     n/p (18/03)
+                                                [Valdanes 13, Uéderson 74, Didira 81 ; Wellinton 8]
+ 5 Botafogo (RJ) - Botafogo (PB)                2-2 (01/04)     4-2 (16/04)
+                                                [Rafael Oliveira 12, 75 ; Bill 49pen, 51]
+                                                [Bill 15, Tomás 33, Willian Arão 71, Sassá 89 ; Gustavo 45+2, Aírton 79]
+ 6 Caxias (RS) - Capivariano (SP)               0-3 (04/03)     0-0 (19/03)
+                                                [Rodolfo 3, 65, Kleiton Domingues  81]
+ 7 Figueirense (SC) - Princesa do Solimões (AM) 2-2 (18/03)     2-1 (01/04)     [a]
+                                                [Fabinho 34, Marquinhos 36 ; Léo Paraíba 52pen, Gílson 75]
+                                                [Clayton 11, Jean Deretti 65 ; Nando 50]
+ 8 Avaí (SC) - Operário (MT)                    0-0 (01/04)     3-1 (15/04)
+                                                [André Lima 9, Anderson Lopes 11, 47 ; Geílson 39]
+ 9 Santos (SP) - Londrina (PR)                  1-0 (17/03)     1-0 (16/04)     [b]
+                                                [Robinho 52pen]
+                                                [Elano 49]
+10 Madureira (RJ) - Maringá (PR)                0-2 (05/03)     3-1 (15/04)
+                                                [Gabriel Barcos 21, Leozão 86pen]
+                                                [Rodrigo Pinho 6, João Carlos 12, Ryan 20 ; Edmar 82]
+11 Sport (PE) - CENE (MS)                       2-1 (01/04)     4-1 (16/04)     [c]
+                                                [Tévez 55 ; Joelinton 24, Régis 46]
+                                                [Rithely 14, Régis 37, Felipe Azevedo 43pen, Neto Moura 78 ; Pavão 53]
+12 Chapecoense (SC) - Interporto (TO)           5-2 (18/03)     n/p (01/04)
+                                                [Hyoran 26, 38, Bruno Rangel 30, 40, 68 ; Patrick 83, 88]
+13 Flamengo (RJ) - Brasil (RS)                  2-1 (25/02)     2-0 (18/03)
+                                                [Alecsandro 32, Pará 74 ; Nena 90+1]
+                                                [Paulinho 70, Eduardo da Silva 90+2]
+14 Salgueiro (PE) - Piauí (PI)                  5-1 (31/03)     n/p (15/04)
+                                                [Paulinho Mossoró 31, Kanu 37, 42, 83, Valdeir 45+2 ; Niel 4]
+15 Náutico (PE) - Brasília (DF)                 1-0 (02/04)     2-0 (15/04)
+                                                [Pedro Carmona 51]
+                                                [André 12og, Anderson Preto 85]
+16 Paraná (PR) - Jacuipense (BA)                1-0 (01/04)     0-1 (23/04)     [4-5pk]
+                                                [Yan Philippe 80]
+                                                [Nadson 73]
+17 Goiás (GO) - Santo André (SP)                1-0 (25/02)     1-0 (01/04)     [d]
+                                                [Alex Alves 32]
+                                                [Erik 87]
+18 ICASA (CE) - Independente (PA)               0-5 (04/03)     2-0 (19/03)
+                                                [Wegno 44, Joãozinho 46, 55, Daniel Piauí 66, Cariri 86]
+                                                [Diego Ceará 19, Alan 35]
+19 Portuguesa (SP) - Santos (AP)                3-1 (04/03)     n/p (19/03)
+                                                [Diego 38, Matheus Ortigoza 57, 78 ; Dedé 63]
+20 Joinville (SC) - Ituano (SP)                 0-3 (01/04)     1-0 (15/04)
+                                                [Clayson 38, Jonathan Lima 54, Ronaldo 67pen]
+                                                [Tiago Luís 32]
+21 Coritiba (PR) - Villa Nova (MG)              3-0 (04/03)     n/p (18/03)
+                                                [Wellington Paulista 5, Leandro Almeida 57, 85]
+22 Fortaleza (CE) - Ríver (PI)                  1-0 (01/04)     2-1 (16/04)
+                                                [Cássio 35]
+                                                [Tinga 73, Lúcio Maranhão 90+1 ; Fabinho 85]
+23 Ponte Preta (SP) - Vilhena (RO)              1-1 (03/03)     3-0 (02/04)
+                                                [Fábio Santos 24 ; Flávio 30"]
+                                                [Rildo 37, Fernando Bob 52pen, Adrianinho 81pen]
+24 Boa (MG) - Moto Club (MA)                    1-1 (25/02)     1-1 (15/04)     [3-4pk]
+                                                [Matheus 40 ; Nhaô 38]
+                                                [Pedro Augusto 26 ; Henrique 70]
+25 Vasco (RJ) - Rio Branco (AC)                 2-1 (01/04)     3-2 (15/04)     [e]
+                                                [Thalles 1, Douglas Silva 44 ; Kinho 80]
+                                                [Yago 46, Thalles 61, 78 ; Alexandre Matão 87, Kinho 71]
+26 Cuiabá (MT) - Murici (AL)                    2-3 (04/03)     2-0 (18/03)
+                                                [Felipe Alves 14, Egon 53 ; Val Paraíba 23, Diogo 49, Odair Lucas 60]
+                                                [Felipe Biau 54, Ricardo Braz 78]
+27 Atlético (GO) - Coruripe (AL)                1-1 (01/04)     2-0  (30/04)
+                                                [Tiago Lima 48 ; Pedro Bambu 55]
+                                                [Murilo 17, Juninho 56]
+28 América (RN) - Globo (RN)                    5-1 (01/04)     n/p (16/04)
+                                                [Marcel 61 ; Cascata 41, Flávio Boaventura 47, Régis 68, Max 80, Álvaro 85]
+29 Atlético (PR) - Remo (PA)                    1-1 (02/04)     1-1 (16/04)     [5-4pk]
+                                                [Igor João 76 ; Felipe 47pen]
+                                                [Lula 19 ; Felipe Macena 53]
+30 Tupi (MG) - Alecrim (RN)                     2-0 (04/03)     n/p (19/03)     [f]
+                                                [Daniel Moraes 58, Silvio 77]
+31 Ceará (CE) - Confiança (SE)                  0-0 (01/04)     1-0 (15/04)
+                                                [Marcos Aurélio 60pen]
+32 América (MG) - Luziânia (DF)                 3-0 (25/02)     n/p (02/04)
+                                                [Felipe Amorim 30, 45, Mancini 78pen]
+33 Grêmio (RS) - Campinense (PB)                2-1 (01/04)     2-0 (15/04)
+                                                [Felipe Alves 64pen ; Douglas 49, Luan 67]
+                                                [Douglas 64, Lincoln 90+3]
+34 CRB (AL) - Amadense (SE)                     2-1 (25/02)     1-0 (02/04)     [g]
+                                                [Lima 61pen, 86 ; Rafael Franciscatti 52pen]
+                                                [Dudu 90+1]
+35 Criciúma (SC) - Real Noroeste (ES)           4-1 (18/03)     n/p (16/04)
+                                                [Joílson 18, 59, Lucca 22, 71 ; Iverton 89]
+36 Bragantino (SP) - Lajeadense (RS)            1-2 (18/03)     1-0 (16/04)
+                                                [Pedro Henrique 13 ; Gilmar 52pen, Mateus Santana 79]
+                                                [João Vítor 64]
+37 Bahia (BA) - Nacional (AM)                   0-0 (02/04)     3-2 (16/04)
+                                                [Zé Roberto 9, Tchô 41, Kieza 89 ; Leonardo 17, Charles 56]
+38 Luverdense (MT) - Cabofriense (RJ)           1-1 (05/03)     1-0 (18/03)
+                                                [Osman 74 ; Arthur 17]
+                                                [Ricardo Maria 27]
+39 ABC (RN) - Boavista (RJ)                     1-0 (04/03)     2-0 (19/03)
+                                                [Leandro Amaro 71]
+                                                [Leandro Amaro 47, Nem 87]
+40 Paysandu (PA) - Águia Negra (MS)             2-2 (18/03)     0-2 (01/04)
+                                                [Bruno Veiga 2, Aylon 16 ; Tity 67, Yago Pikachu 69og]
+                                                [Bruno Veiga 46, Dão 74]
+
+[a] 1st leg played in Manaus.
+[b] 2nd leg played in São José dos Campos.
+[c] 1st leg played in Dourados.
+[d] 1st leg played in São Bernardo do Campo.
+[e] 1st leg originally scheduled to Mar 4th and postponed due to heavy flood in Rio Branco city.
+[f] 1st leg played in Goianinha.
+[g] 1st leg played in Aracaju.
+
+Second Round
+[if the away team wins the 1st leg by 2 or more goals, no 2nd leg is played]
+
+41 Palmeiras - Sampaio Corrêa                   1-1 (29/04)     5-1 (12/05)
+                                                [Cristaldo 68 ; Cleitinho 86]
+                                                [Vítor Hugo 49, Cristaldo 55, Zé Roberto 66, 90+2, Kelvin 79]
+42 Vitória - ASA                                1-1 (13/05)     2-2 (19/05)
+                                                [Élton 34 ; Alex Henrique 60]
+                                                [Escudero 47pen, 87pen ; Rayro 53, Didira 65pen]
+43 Botafogo (RJ) - Capivariano                  2-1 (29/04)     3-0 (06/05)
+                                                [Sassá 10, Daniel Carvalho 84 ; Marllon 75]
+                                                [Gegê 18, Sassá 36, Luís Ricardo 66]
+44 Figueirense - Avaí                           0-1 (06/05)     2-0 (13/05)
+                                                [Anderson Lopes 14]
+                                                [Thiago Heleno 47, Marquinhos Pedroso 58]
+45 Santos - Maringá                             2-2 (06/05)     1-0 (13/05)
+                                                [Elano 24, Marquinho Gabriel 55 ; Fabiano 81, Rodrigo Dantas 90+1]
+                                                [Ricardo Oliveira 90+1]
+46 Sport - Chapecoense                          0-2 (06/05)     2-0 (13/05)     [4-2pk]
+                                                [Hyoran 73, Maranhão 79]
+                                                [Mike 67, Diego Souza 72]
+47 Flamengo - Salgueiro                         2-0 (22/04)     n/p (13/05)
+                                                [Arthur Maia 39 ; Marcelo Cirino 47]
+48 Náutico - Jacuipense                         2-0 (30/04)     n/p (05/05)
+                                                [Josimar 50, Patrick Vieira 56]
+49 Goiás - Independente                         0-1 (07/04)     3-0 (13/05)
+                                                [Joãozinho 88]
+                                                [Rodrigo 77, Wesley 85, Erik 90+2]
+50 Portuguesa - Ituano                          1-1 (23/04)     1-2 (28/04)
+                                                [Léo Costa 45 ; Walfrido 49]
+                                                [Renan 66 ; Clayson 44, Ronaldo 88pen]
+51 Coritiba - Fortaleza                         1-2 (06/05)     2-1 (13/05)     [11-10pk]
+                                                [Rafhael Lucas 36 ; Wanderson 23, Adalberto 52]
+                                                [Ruy 40, Rafhael Lucas 55 ; Daniel Sobralense 52pen]
+52 Ponte Preta - Moto Club                      2-1 (07/05)     4-1 (13/05)
+                                                [Wanderson 33, Leandrinho 57 ; Rayllan 78]
+                                                [Borges 33, Cesinha 74, 90+1, Diego Oliveira 85 ; Rayllan 61]
+53 Vasco - Cuiabá                               1-1 (13/05)     0-0 (20/05)
+                                                [Rodrigo 90+3 ; Maninho 79]
+54 Atlético (GO) - América (RN)                 2-4 (12/05)     1-0 (20/05)
+                                                [Juninho 54, Ayrton 56 ; Álvaro 16, Thiago Potiguar 21, Adriano Pardal 26, Max 81]
+                                                [Juninho 64]
+55 Atlético (PR) - Tupi                         0-1 (28/04)     2-1 (05/05)
+                                                [Vinícius Kiss 71]
+                                                [Marco Damasceno 19, Walter 60 ; Daniel Morais 29]
+56 Ceará - América (MG)                         1-1 (12/05)     3-0 (20/05)
+                                                [William 23 ; Wesley Matos 79]
+                                                [Marinho 57, Assisinho 68, 90]
+57 Grêmio - CRB                                 3-1 (13/05)     n/p (19/05)
+                                                [Luan 11, Pedro Rocha 38, 43 ; Maxwell 70]
+58 Criciúma - Bragantino                        3-0 (23/04)     n/p (30/04)
+                                                [Bruno Lopes 13, Paulo Sérgio 79, Jefferson 90+2]
+59 Bahia - Luverdense                           0-0 (12/05)     3-1 (20/05)
+                                                [Léo Gamalho 14, Tiago Real 26, Willians Santana 90+1 ; Paulinho 65]
+60 ABC - Paysandu                               0-1 (12/05)     1-2 (19/05)
+                                                [Leandro Cearense 60]
+                                                [Bruno Luiz 46 ; Yago Pikachú 66pen, Carlos Alberto 73]
+
+Third Round
+
+61 ASA - Palmeiras                              0-0 (27/05)     0-1 (15/07)     [h]
+                                                [Gabriel Jesus 69]
+62 Botafogo - Figueirense                       2-2 (20/05)     0-1 (14/07)
+                                                [Diego Giaretta 78, Luís Ricardo 90+3 ; Clayton 29, Emerson 49og]
+                                                [Marcão 90+1]
+63 Santos - Sport                               1-2 (20/05)     3-1 (22/07)
+                                                [Lucas Lima 20 ; Régis 3, Renê 73]
+                                                [Gabriel 1, 35, Geuvânio 57 ; Diego Souza 39]
+64 Náutico - Flamengo                           1-1 (27/05)     0-2 (15/07)
+                                                [Douglas 75 ; Wallace 42]
+                                                [Jorge 50, Guerrero 76]
+65 Goiás - Ituano                               0-2 (20/05)     3-1 (27/05)
+                                                [Ronaldo 78pen, 87]
+                                                [Erik 28, Wesley 77, Arthur 85 ; Ronaldo 77pen]
+66 Ponte Preta - Coritiba                       1-2 (27/05)     2-1 (22/07)     [1-3pk]
+                                                [Cesinha 27 ; Wellington Paulista 43, Giva 84]
+                                                [Keno 51, Cesinha 53 ; Evandro 90]
+67 América (RN) - Vasco                         1-3 (15/07)     2-3 (22/07)
+                                                [Reis 52 ; Herrera 45+2, Anderson Salles 62pen, Emanuel Biancucchi 81]
+                                                [Cascata 47pen, Adriano Pardal 54 ; Riascos 20, 45, Rafael Silva 75]
+68 Tupi - Ceará                                 0-0 (15/07)     2-1 (22/07)
+                                                [Marco Goiano 36, Roger Gaúcho 14, Arthur 45+3]
+69 Criciúma - Grêmio                            1-0 (14/07)     0-1 (21/07)     [3-4pk]
+                                                [Lucca 33]
+                                                [Pedro Rocha 67]
+70 Bahia - Paysandu                             0-3 (15/07)     2-0 (22/07)
+                                                [Misael 68, Fahel 71, Yago Pikachu 84pen]
+                                                [Souza 76pen, Kieza 86]
+
+[h] 2nd leg played in Londrina.
+
+- The 6 bye clubs (the 5 from Copa Libertadores, plus Fluminense) will join the 10
+  winners of Third Round in the 1/8 Finals, whose pairings will be defined by draw.
+- From the 71 clubs eliminated before the 1/8 Finals, the 6 best placed in Brazilian
+  Championship 2014 (excepting Brasília, winner of Copa Verde 2014, and Ceará, winner
+  of Copa do Nordeste 2015) will be qualified to Copa Sul-Americana 2015:
+
+ 1. Atlético (PR) - 8th in Brazilian Championship 2014
+        2. Sport - 11th in Brazilian Championship 2014
+        3. Goiás - 12th in Brazilian Championship 2014
+        4. Chapecoense - 15th in Brazilian Championship 2014
+        5. Joinville - 16th (1st of Série B) in Brazilian Championship 2014
+        6. Ponte Preta - 17th (2nd of Série B) in Brazilian Championship 2014
+
+- Since has already qualified to Copa do Brasil 1/8 Finals, Ceará will not be able
+  to play Copa Sul-Americana, whose matches are scheduled to same dates of Copa do
+  Brasil ones. Due to this, Ceará's berth in Copa Sul-Americana was transferred to
+  Bahia, runner-up of Copa do Nordeste 2015.
+
+1/8 Finals
+(pairings drawn in 04/08)
+
+71 Ituano - Internacional                       0-2 (20/08)     1-2 (27/08)
+                                                [Vitinho 14, Valdívia 62]
+                                                [Ronaldo 66 ; Valdívia 5, Eduardo Sasha 73]
+72 Ceará - São Paulo                            2-1 (20/08)     0-3 (26/08)
+                                                [Rafael Costa 17, 65 ; Alexandre Pato 67]
+                                                [Rogério Ceni 45pen, Thiago Mendes 55, Alexandre Pato 75]
+73 Cruzeiro - Palmeiras                         1-2 (19/08)     2-3 (26/08)
+                                                [Leandro Damião 49 ; Cleiton Xavier 7, Rafael Marques 62]
+                                                [Vinícius Araújo 38, Alisson 75 ; Lucas Barrios 8, Gabriel Jesus 27, 32]
+74 Vasco - Flamengo                             1-0 (19/08)     1-1 (26/08)
+                                                [Jorge Henrique 58]
+                                                [Rafael Silva 81, Madson 5og]
+75 Paysandu - Fluminense                        1-2 (20/08)     1-2 (26/08)
+                                                [Yago Pikachu 71 ; Magno Alves 55, Renato 90+3]
+                                                [Yago Pikachu 40pen ; Cícero 16, Marcos Júnior 53]
+76 Grêmio - Coritiba                            1-0 (19/08)     3-1 (27/08)
+                                                [Marcelo Oliveira 72]
+                                                [Geromel 37, Douglas 55, Luan 90+4pen ; Rafhael Lucas 39]
+77 Figueirense - Atlético (MG)                  1-1 (19/08)     2-1 (26/08)
+                                                [Clayton 45+3 ; Leonardo Silva 90+2]
+                                                [Leandro Silva 71, Marcão 89 ; Edcarlos 43]
+78 Corinthians - Santos                         0-2 (19/08)     1-2 (26/08)
+                                                [Gabriel 31, Marquinhos Gabriel 78]
+                                                [Romero 71 ; Gabriel 14, Ricardo Oliveira 64]
+
+Quarterfinals
+(pairings drawn in 31/08)
+
+79 São Paulo - Vasco                            3-0 (23/09)     1-1 (30/09)
+                                                [Alexandre Pato 25, 36, Luís Fabiano 75]
+                                                [Centurión 59 ; Riascos 16]
+80 Figueirense - Santos                         0-1 (23/09)     2-3 (01/10)     [i]
+                                                [Gabriel 78pen]
+                                                [Bruno Alves 37, Carlos Alberto 86 ; Gabriel 20, Marquinhos Gabriel 28, Neto Berola 47]
+81 Internacional - Palmeiras                    1-1 (23/09)     2-3 (30/09)
+                                                [Alex 53 ; Rafael Marques 73]
+                                                [Anderson 56, Lisandro López 73 ; Victor Hugo 7, Zé Roberto 38pen, Andrei Girotto 74]
+82 Fluminense - Grêmio                          0-0 (23/09)     1-1 (30/09)
+                                                [Fred 39, Bobô 74]
+
+[i] 2nd leg played in São Paulo.
+
+Semifinals
+
+83 São Paulo - Santos                           1-3 (21/10)     1-3 (28/10)
+                                                [Alexandre Pato 25 ; Gabriel 14, Ricardo Oliveira 47, Marquinhos Gabriel 49]
+                                                [Michel Bastos 71 ; Ricardo Oliveira 11, 23, Marquinhos Gabriel 20]
+84 Fluminense - Palmeiras                       2-1 (21/10)     1-2 (28/10)     [4-1pk]
+                                                [Marcos Junior 28, Gum 41 ; Zé Roberto 60pen]
+                                                [Fred 70 ; Lucas Barrios 13, 17]
+
+FINAL
+[no away goals rule applied]
+
+   Santos - Palmeiras                           1-0 (25/11)     1-2 (02/12)     [3-4pk]
+                                                [Gabriel 75]
+                                                [Ricardo Oliveira 88 ; Dudu 56, 84]
+
+PALMEIRAS Champions of Copa do Brasil 2015 and classified to Copa Libertadores 2016.
+
+Topscorers: Gabriel (Santos), 8 goals
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+#### Série B
+
+
+Participants
+
+ABC Futebol Clube (Natal-RN)
+AMÉRICA Futebol Clube (Belo Horizonte-MG)
+ATLÉTICO Clube Goianiense (Goiânia-GO)
+Esporte Clube BAHIA (Salvador-BA)
+BOA Esporte Clube (Varginha-MG)
+BOTAFOGO de Futebol e Regatas (Rio de Janeiro-RJ)
+Clube Atlético BRAGANTINO (Bragança Paulista-SP)
+CEARÁ Sporting Club (Fortaleza-CE)
+Clube de Regatas Brasil - CRB (Maceió-AL)
+CRICIÚMA Esporte Clube (Criciúma-SC)
+LUVERDENSE Esporte Clube (Lucas do Rio Verde-MT)
+MACAÉ Esporte Futebol Clube (Macaé-RJ)
+MOGI MIRIM Esporte Clube (Mogi Mirim-SP)
+Clube NÁUTICO Capibaribe (Recife-PE)
+OESTE Futebol Clube (Itápolis-SP)
+PARANÁ Clube (Curitiba-PR)
+PAYSANDU Sport Club (Belém-PA)
+SAMPAIO CORRÊA Futebol Clube (São Luís-MA)
+SANTA CRUZ Futebol Clube (Recife-PE)
+Esporte Clube VITÓRIA (Salvador-BA)
+
+[1] Plays home matches in/Manda seus jogos em Osasco-SP.
+
+(Double round-robin; top 4 are promoted, bottom 4 are relegated)
+(Turno e returno em pontos corridos; os 4 primeiros sobem, os 4 últimos caem)
+
+Table:
+ 1.Botafogo     38 21  9  8  60-30  72  Champions; promoted
+ 2.Santa Cruz      38 20  7 11  63-43  67  Promoted
+ 3.Vitória     38 19  9 10  58-40  66  Promoted
+ 4.América     38 19  8 11  55-39  65  Promoted
+-----------------------------------------
+ 5.Náutico     38 18  9 11  49-42  63
+ 6.Bragantino     38 19  3 16  56-56  60
+ 7.Paysandu     38 17  9 12  49-40  60
+ 8.Sampaio Corrêa  38 15 13 10  51-43  58
+ 9.Bahia     38 15 13 10  48-41  58
+10.Luverdense     38 15  9 14  46-40  54
+11.CRB       38 15  9 14  47-45  54
+12.Criciúma     38 12 13 13  36-41  49
+13.Paraná     38 12 11 15  39-43  47
+14.Atlético     38 11 13 14  36-46  46
+15.Ceará     38 12  9 17  42-50  45
+16.Oeste     38 10 14 14  37-45  44
+-----------------------------------------
+17.Macaé     38 10 13 15  46-54  43  Relegated
+18.ABC       38  6 14 18  41-64  32  Relegated
+19.Boa       38  7 10 21  34-54  31  Relegated
+20.Mogi Mirim     38  4 11 23  32-69  23  Relegated
+
+Round 1
+[May 8]
+ABC     0-1  Oeste
+ [Júnior Negão 89'p]
+Atlético   1-0  Boa
+ [Artur 74']
+Paraná     1-0  Ceará
+ [Henrique 30']
+Mogi Mirim   1-2  Criciúma
+ [Júnior Juazeiro 88'; Douglas Moreira 60', Fábio Ferreira 67']
+[May 9]
+América     1-1  Bahia
+ [Mancini 65'; Wesley Matos 10'og]
+Náutico     1-0  Luverdense
+ [Hiltinho 16']
+Vitória     0-2  Sampaio Corrêa
+ [Robert 40', Válber 57']
+Macaé     2-0  Santa Cruz
+ [Fernando Santos 35', Juninho 90'+3']
+CRB     2-0  Bragantino
+ [Clebinho 15', Daniel Cruz 82']
+Paysandu   0-1  Botafogo
+ [Rodrigo Pimpão 86']
+
+Round 2
+[May 15]
+Bahia     4-1  Mogi Mirim
+ [Maxi Biancucchi 18', Zé Roberto 44',46', Léo Gamalho 63'; Geovanne 30']
+Sampaio Corrêa   3-1  Macaé
+ [Válber 41', Edvânio 65', 90'+1'; Henrique 53']
+Santa Cruz   4-1  Paraná
+ [Rodrigo 6'og, Nathan 54', Anderson Aquino 72',82'; Rodrigo 39']
+Criciúma   0-2  ABC
+ [Ronaldo Mendes 54', Kayke 66']
+[May 16]
+Botafogo   4-1  CRB
+ [Bill 16', Lulinha 53', Willian Arão 63', Elvis 66'; Fernando 76']
+Boa     0-1  Náutico
+ [Diego 90'+3']
+Oeste     1-2  Vitória
+ [Wagninho 9'; Escudero 34', Élton 45'+1']
+Bragantino   1-0  Paysandu
+ [Jobinho 53'p]
+Ceará     2-0  Atlético
+ [Uilliam Correia 65', Marinho 77']
+Luverdense   1-0  América
+ [Osman 26'p]
+
+Round 3
+[May 19]
+Macaé     4-2  Oeste
+ [Aloísio 1', Anselmo 12', Pipico 19',32'; Wagninho 72', Júnior Negão 74']
+Náutico     2-0  Criciúma
+ [Douglas 13', Ronaldo Alves 20'p]
+Vitória     4-1  Bragantino
+ [Escudero 7', Élton 47', Rogério 50', Diogo Matheus 86'; Chico 73']
+Mogi Mirim   1-1  Sampaio Corrêa
+ [Júnior Juazeiro 62'; Robert 18']
+[May 23]
+Atlético   0-0  Botafogo                    [played in Brasília-DF]
+América    4-1  Santa Cruz
+ [Robertinho 1', Mancini 8', Diego Sacoman 16'og, Marcelo Toscano 43'; Pedro Castro 45']
+Paysandu   2-1  Ceará
+ [Yago Pikachu 40', Fahel 72'; Ricardinho 62']
+Paraná     1-1  Boa
+ [Fernando Viana 72'; Raphael Silva 85']
+CRB     0-3  Bahia
+ [Pittoni 32', Marlon 41', Willians Santana 90'+3']
+ABC     1-1  Luverdense
+ [Kayke 35'; Ciro 9']
+
+Round 4
+[May 26]
+Ceará     1-1  CRB
+ [William 13'; Gabriel 17']
+[May 29]
+Bragantino   0-1  América
+ [Marcelo Toscano 60']
+Santa Cruz   0-1  ABC
+ [Kayke 26']
+Bahia     1-0  Paraná
+ [Titi 19']
+[May 30]
+Boa      0-1  Paysandu
+ [Yago Pikachu 75']
+Botafogo   2-0  Vitória
+ [Diego Giaretta 4', Willian Arão 21']
+Sampaio Corrêa   1-1  Náutico
+ [Edvânio 57'; Douglas 90']
+Criciúma   1-0  Atlético
+ [Juba 67']
+Luverdense   1-2  Macaé
+ [Luiz Eduardo 29'; Pipico 64', Fernando Santos 67']
+Oeste     0-0  Mogi Mirim
+
+Round 5 [Jun 2]
+Mogi Mirim    0-2  Boa
+ [Bruno 35',52']
+América    1-0  Sampaio Corrêa
+ [Marcelo Toscano 77']
+Vitória    2-1  Criciúma
+ [Ramón 34', Guilherme Mattis 65'; Paulo Sérgio 70']
+Náutico    2-0  Ceará
+ [Ronaldo Alves 2'p, William Magrão 50']
+ABC      1-1  Bragantino
+ [Kayke 28'; Jobinho 65']
+Paysandu    2-1  Santa Cruz
+ [Thiago Martins 33', Carlinhos 75'; Anderson Aquino 45'+1'p]
+CRB      3-0  Oeste
+ [Maxwell 12', Gérson Magrão 62', Clebinho 82'p]
+Macaé      0-0  Bahia
+Paraná      1-2  Botafogo
+ [Fernando Viana 40'p; Zé Roberto 26'og, Rodrigo Pimpão 90'+2']
+Atlético    0-1  Luverdense
+ [Osman 80']
+
+Round 6
+[Jun 5]
+Náutico    2-1  América
+ [Diego 32', Douglas 75'p; Marcelo Toscano 49']
+Vitória    3-1  Atlético
+ [Escudero 19'p, Diego Renan 61', Élton 65'; Artur 45']
+Botafogo    3-0  Mogi Mirim
+ [Rodrigo Pimpão 42', Bill 48', Lulinha 54']
+[Jun 6]
+Bragantino    2-0  Bahia
+ [Jobinho 29', Alan Mineiro 74']
+Ceará      1-3  Sampaio Corrêa
+ [Marinho 31'; Robert 4',48',57'p]
+Criciúma    0-3  Macaé
+ [Anselmo 50', Pipico 52', Henrique 89']
+Luverdense    2-2  Santa Cruz
+ [Diego Rosa 17', Osman 28'; Daniel Costa 3', Nathan 79']
+CRB      0-1  ABC
+ [Kayke 52']
+Boa      1-2  Oeste
+ [Bruno 45'; Wagninho 23', Wangler 56']
+Paysandu    2-1  Paraná
+ [Leandro Cearense 55', Aylon 73'; Marcos Paraná 60']
+
+Round 7
+[Jun 9]
+Paraná      1-0  Luverdense
+ [Henrique 51']
+Oeste      0-1  Botafogo
+ [Rodrigo Pimpão 67']
+[Jun 12]
+ABC      0-2  Paysandu
+ [Yago Pikachu 18', Leandro Cearense 35']
+Sampaio Corrêa    3-1  Criciúma
+ [William Simões 36', Diones 51', Robert 69'; Cléber Santana 18']
+Santa Cruz    0-0  Boa
+[Jun 13]
+Mogi Mirim    1-1  Vitória
+ [Edson Ratinho 75'p; Élton 18']
+Atlético    2-0  Náutico
+ [Juninho 6', Artur 53']
+Bahia      1-0  Ceará
+ [Maxi Biancucchi 69']
+América    1-0  CRB
+ [Cristiano 33']
+Macaé      2-5  Bragantino
+ [Diego Corrêa 14', Anselmo 56'; Jobinho 30'p,63', Gedeil 46'og, Alan Mineiro 65', Roberto 86']
+
+Round 8
+[Jun 16]
+Náutico    1-1  Paysandu
+ [Pedro Carmona 4'; Yago Pikachu 60']
+Luverdense    0-1  Criciúma
+ [Rodrigo Andrade 45'+4'p]
+[Jun 19]
+Paraná      3-1  Mogi Mirim
+ [Washington 55', Paulo Henrique 68', Lucas Pará 78'; Gustavo 28']
+Sampaio Corrêa    0-0  Bahia
+Botafogo    1-1  Boa
+ [Rodrigo Pimpão 21'; Bruno 3']
+[Jun 20]
+América    1-0  Atlético
+ [Mancini 1'p]
+Ceará      3-3  Santa Cruz
+ [Roger Gaúcho 31', Marinho 75'p, 90'+2'; Anderson Aquino 25'p,64', Waldison 90']
+Vitória    2-0  ABC
+ [Pedro Ken 18', Rogério 21']
+Bragantino    3-1  Oeste
+ [Alan Mineiro 29', Jocinei 39', Jobinho 51'; Júnior Negão 85'p]
+CRB      3-1  Macaé
+ [Zé Carlos 17'p,37'p,84'; Diego Corrêa 68']
+
+Round 9
+[Jun 23]
+Criciúma    2-2  América
+ [Neto Baiano 38', Fábio Ferreira 45'; Felipe Amorim 19', Cristiano 51']
+Paysandu    1-0  Vitória
+ [Carlinhos 90'+5']
+[Jun 26]
+Atlético    1-1  Paraná
+ [Márcio 18'; Rafael Carioca 29']
+Oeste      2-0  Ceará
+ [Daniel Gigante 72', Rodriguinho 79']
+[Jun 27]
+Macaé      4-2  Botafogo
+ [Anselmo 18',23', Pipico 32',71'; Daniel Carvalho 56', Roger Carvalho 61']
+Mogi Mirim   0-1  CRB
+ [Renato Camilo 77'og]
+Santa Cruz    1-0  Sampaio Corrêa
+ [Renatinho 63']
+ABC      3-3  Náutico
+ [Kayke 37', Marcílio 49', Edno 88'; Pedro Carmona 35'p, Marino 45'+1',72']
+Bahia      1-0  Luverdense
+ [João Leonardo 86']
+Boa      3-0  Bragantino
+ [Moacir 21', Pirão 46', João Paulo 68']
+
+Round 10
+[Jun 30]
+Paysandu    2-0  Atlético
+ [Leandro Cearense 43', Yago Pikachu 55'p]
+Luverdense    3-0  Ceará
+ [Paulinho 13', Ciro 59',80']
+[Jul 3]
+Paraná      0-0  Criciúma
+Botafogo    5-0  Sampaio Corrêa
+ [Luis Henrique 6',37', Rodrigo Pimpão 44'p,71', Thiago Carleto 76'p]
+[Jul 4]
+ABC      1-1  Macaé
+ [Kayke 90'+2'p; Anselmo 36']
+Vitória    4-1  Bahia
+ [Guilherme Mattis 4', Escudero 63'p, Rogério 82', Robert 90'+3'; Maxi Biancucchi 86']
+Bragantino    1-2  Santa Cruz
+ [Rodolfo 90'+4'; Anderson Aquino 57', Renatinho 80']
+CRB      1-1  Boa
+ [Zé Carlos 63'; Radamés 90'+1'p]
+América    3-1  Mogi Mirim
+ [Mancini 37'p, Marcelo Toscano 80', Richarlison 86'; Edson Ratinho 42'p]
+Náutico    2-1  Oeste
+
+Round 11 [Jul 7]
+Boa      0-0  Vitória
+Oeste      1-0  Paraná
+ [Mazinho 89'p]
+Atlético    1-2  ABC
+ [Artur 9'; Edno 20',65']
+Sampaio Corrêa    3-1  Luverdense
+ [Douglas Oliveira 25', Nadson 90', Pimentinha 90'+3'; Diego Rosa 69']
+Bahia      2-0  Paysandu
+ [Jacó 43',46']
+Criciúma    1-0  Bragantino
+ [Lucca 27']
+Macaé      1-1  América
+ [Anselmo 30'; Thiago Santos 66']
+Mogi Mirim    2-1  Náutico
+ [Serginho 70',87'; Douglas 31']
+Ceará      0-0  Botafogo
+Santa Cruz    2-1  CRB
+ [João Paulo 48', Anderson Aquino 79'; Zé Carlos 2']
+
+Round 12
+[Jul 10]
+Macaé      2-1  Paysandu
+ [Marquinho 50', Pipico 90'+2'; Gualberto 10']
+Ceará      1-1  Criciúma
+ [Ricardinho 42'; Wanderson 18']
+Atlético    1-1  Mogi Mirim
+ [Artur 50'; Rivaldo Júnior 77']
+Bragantino    1-0  Botafogo
+ [Jocinei 45']
+[Jul 11]
+América    2-1  ABC
+ [Richarlison 53', Thiago Santos 72'; Kayke 36']
+Paraná      0-1  Vitória
+ [David 60']
+Náutico    2-1  Santa Cruz
+ [Guilherme 52', Gil Mineiro 73'; Anderson Aquino 57'p]
+CRB      0-0  Luverdense
+Sampaio Corrêa    3-0  Boa
+ [Douglas Oliveira 58'p, Nadson 79', Pimentinha 84']
+Bahia      1-0  Oeste
+ [Tiago Real 24']
+
+Round 13
+[Jul 14]
+Mogi Mirim    3-1  Macaé
+ [Rivaldo Júnior 2',41', Rivaldo 17'p; Pipico 79'p]
+ABC      1-4  Paraná
+ [Edno 23'p; Danielzinho 50', Henrique 58', Ricardinho 68', Lucas Pará 90'+1']
+[Jul 17]
+Luverdense    2-1  Bragantino
+ [Tozin 51'p,68'; Jobinho 47'p]
+Vitória    3-1  CRB
+ [Daniel Marques 11'og, Élton 42', Diogo Matheus 45'; Leandro Brasília 90']
+[Jul 18]
+Santa Cruz    3-0  Atlético
+ [Lelê 14',90'+3', Daniel Costa 63']
+Botafogo    1-0  Náutico
+ [Lulinha 76']
+Criciúma    2-1  Bahia
+ [Rodrigo Andrade 13'p, Adalberto 65'; Tiago Real 51']
+Paysandu    1-1  Sampaio Corrêa
+ [Gualberto 83'; Plínio 90'+1']
+Oeste      3-1  América
+ [Waguininho 19', Rodriguinho 61', Mazinho 69'p; Marcelo Toscano 35']
+Boa      0-0  Ceará
+
+Round 14
+[Jul 21]
+Macaé      0-0  Paraná
+[Jul 24]
+América    2-0  Boa
+ [Alisson 29', Wendel 67'og]
+Bragantino    0-1  Atlético
+ [Júnior Viçosa 49']
+[Jul 25]
+CRB      3-0  Paysandu
+ [Zé Carlos 13',21',68']
+Náutico    2-1  Vitória
+ [Douglas 55'p, Rafael Pereira 74'; Rhayner 4']
+Bahia      1-1  Botafogo
+ [Kieza 52'; Luis Henrique 28']
+Sampaio Corrêa    3-2  ABC
+ [Diones 23', Válber 61', Nadson 64'; Bismark 36', Rafael Oliveira 75']
+Criciúma    0-0  Santa Cruz
+Luverdense    1-1  Oeste
+ [Tozin 88'; Mazinho 84']
+Ceará      2-3  Mogi Mirim
+ [Ricardinho 52',78'; Rivaldo Junior 15',61', Edson Ratinho 84']
+
+Round 15 [Jul 28]
+Paraná      2-0  Náutico
+ [Rafael Costa 4', Fernando Viana 18']
+ABC      0-1  Ceará
+ [Uilliam Correia 65']
+Paysandu    2-0  América
+ [Wellinton Júnior 12',47']
+Oeste      1-0  Sampaio Corrêa
+ [Mazinho 62']
+Vitória    0-0  Macaé
+Boa      2-1  Luverdense
+ [Clébson 68',90'+1'; Ricardo 67']
+Mogi Mirim    2-3  Bragantino
+ [Geovane 55',77'; Alan Mineiro 20', Lincon 71', Éverton Dias 90'+2']
+Santa Cruz    3-1  Bahia
+ [Anderson Aquino 37', Luisinho 63',90'+3'; Thales 39']
+Atlético    1-0  CRB
+ [Juninho 61']
+Botafogo    0-0  Criciúma
+
+Round 16
+[Jul 31]
+Boa      1-1  Criciúma
+ [Marcelo Nicácio 38'; Maicon Silva 87']
+ABC      0-3  Bahia
+ [Alexandro 28', Souza 42', Rômulo 58']
+Paysandu    1-1  Mogi Mirim
+ [Fahel 8'; Franco 13']
+[Aug 1]
+Oeste      1-0  Santa Cruz
+ [Rafael Martins 81']
+Vitória    1-1  América
+ [Rogério 85'; Marcelo Toscano 69'p]
+Atlético    3-1  Sampaio Corrêa
+ [Jorginho 20', Artur 23', Júnior Viçosa 30'; Bruno Moura 51'og]
+Náutico    1-1  Macaé
+ [Fabiano Eller 40'; Brinner 78']
+Paraná      0-0  CRB
+Botafogo    0-0  Luverdense
+Bragantino    3-0  Ceará
+ [Chico 59', Lincon 61',68']
+
+Round 17
+[Aug 4]
+América    2-0  Paraná
+ [Robertinho 9', Tony 28'p]
+Sampaio Corrêa    2-0  Bragantino
+ [Nadson 22',60']
+[Aug 7]
+Criciúma    3-2  Oeste
+ [Lucca 18', Natan 20', Neto Baiano 90'+3'; Rafael Martins 50', Wagninho 70']
+Luverdense    1-0  Paysandu
+ [Muralha 12']
+Bahia      4-1  Boa
+ [Jaílton 3', Kieza 28', Eduardo 31', Souza 62'; Tadeu 45']
+[Aug 8]
+CRB      1-0  Náutico
+ [Zé Carlos 59']
+Ceará      1-2  Vitória
+ [Júlio César 77'; Escudero 15', Rogério 17']
+Macaé      0-1  Atlético
+ [Júnior Viçosa 64']
+Santa Cruz    1-0  Botafogo
+ [Grafite 50']
+Mogi Mirim    2-2  ABC
+ [Paulão 33', Rivaldo Junior 87;' Rafael Miranda 30', Bismark 59']
+
+Round 18 [Aug 11]
+Ceará      0-2  América
+ [Marcelo Toscano 50', Mancini 81']
+Oeste      0-0  Atlético
+Bahia      1-1  Náutico
+ [Vítor Costa 56'; Patrick Vieira 43']
+Sampaio Corrêa    1-0  CRB
+ [Nadson 74']
+Criciúma    1-0  Paysandu
+ [Everaldo 90'og]
+Santa Cruz    2-1  Mogi Mirim
+ [Grafite 19', Anderson Aquino 29'p; Geovane 13']
+Luverdense    0-2  Vitória                    [played in Cuiabá-MT]
+ [Vander 82', Diego Renan 90'+1']
+Boa      2-1  Macaé
+ [Chapinha 76',90'+2'; Aloísio 90'p]
+Botafogo    3-1  ABC
+ [Alvaro Navarro 22',54', Neilton 30'; Edno 13']
+Bragantino    2-1  Paraná
+ [Éverton Dias 25', Thiago Santos 72'; Paulo Henrique 87']
+
+Round 19
+[Aug 14]
+Atlético    1-1  Bahia
+ [Jorginho 73'; Alexandro 32']
+Paraná      1-0  Sampaio Corrêa
+ [Rafael Costa 8']
+Vitória    2-1  Santa Cruz
+ [Escudero 4'p, Élton 7'; Luisinho 55']
+[Aug 15]
+América    1-2  Botafogo
+ [Thiago Santos 15'; Thiago Carleto 37', Neilton 62']
+ABC      0-1  Boa
+ [Chapinha 52']
+Paysandu    3-1  Oeste
+ [Leandro Cearense 16',70', Edinho 82'; Rafael Martins 63']
+CRB      3-1  Criciúma
+ [Zé Carlos 41', Clebinho 56', Maxwell 81'; Audálio 26'og]
+Náutico    3-1  Bragantino
+ [Patrick Vieira 33'p, Rogerinho 67', Stéfano Iuri 88'; Alan Mineiro 90'+3']
+Macaé      1-2  Ceará
+ [Jones 43'; Sandro 3', Victor Luís 74']
+Mogi Mirim    1-1  Luverdense
+ [Matheus Ortigoza 81'; Diego Rosa 14']
+
+Round 20
+[Aug 21]
+Criciúma    0-0  Mogi Mirim
+Santa Cruz    1-0  Macaé
+ [Grafite 59']
+[Aug 22]
+Luverdense    5-1  Náutico
+ [Tozin 6',18', Diego Rosa 47', Alípio 73',75'; Daniel Morais 80']
+Sampaio Corrêa    1-0  Vitória
+ [Diones 22']
+Boa      2-2  Atlético
+ [Felipe Alves 28', Tadeu 34'; Artur 31',82']
+Oeste      1-1  ABC
+ [Waguininho 46'p; Edno 6']
+Bragantino    2-1  CRB
+ [Lincon 51', Jobinho 85'; Zé Carlos 22']
+Bahia      1-1  América
+ [Kieza 26'; Alison 77']
+[Aug 23]
+Botafogo    2-3  Paysandu
+ [Daniel Carvalho 63', Sassá 81'; Yago Pikachu 26', Thiago Martins 28', Jhonnatan 65']
+Ceará      4-3  Paraná
+ [Júlio César 6', Victor Luís 30', Fabinho 89', Rafael Costa 90'+1'; Carlão 14',49',69']
+
+Round 21
+[Aug 25]
+Vitória    1-1  Oeste
+ [Rhayner 72'; Gatito Fernandez 54'og]
+ABC      2-2  Criciúma
+ [Rafinha 30', Rafael Oliveira 57'; Tiago Adan 87', Natan 90'+1']
+[Aug 28]
+América    1-2  Luverdense
+ [Richarlison 63'; Tozin 32',53'p]
+CRB      2-1  Botafogo
+ [Cañete 22'p, Isac 26'; Neilton 30']
+[Aug 29]
+Macaé      1-1  Sampaio Corrêa
+ [Fernando Neto 36'; Pimentinha 44']
+Atlético    3-2  Ceará
+ [Willie 13', Márcio 57'p, Geraldo 78'; Rafael Costa 29', Victor Luís 52']
+Paysandu    2-0  Bragantino
+ [Fahel 68',88']
+Paraná      3-2  Santa Cruz
+ [Henrique 37', Carlão 46',53'; Marcílio 6', Lelê 64']
+Náutico    1-0  Boa
+ [Rafael Pereira 89']
+Mogi Mirim    1-1  Bahia
+ [Matheus Ortigoza 60'; Kieza 75']
+
+Round 22 [Sep 1]
+Criciúma    1-0  Náutico
+ [Lucca 35'p]
+Ceará      0-0  Paysandu
+Bragantino    2-1  Vitória
+ [Diego Maurício 80', Chico 90'; Robert 6']
+Oeste      1-2  Macaé
+ [Rodriguinho 83'; Anselmo 26', Marquinho 42']
+Boa      1-2  Paraná
+ [Erick Luís 25'; Rafael Costa 76', Carlinhos 88']
+Bahia      3-2  CRB
+ [Kieza 34',56', Gustavo Blanco 90'+3'; Josa 65', Gabriel 86']
+Sampaio Corrêa    3-1  Mogi Mirim
+ [Pimentinha 29', Jheimy 77',89'; Matheus Ortigoza 63']
+Santa Cruz    2-1  América
+ [Luisinho 23', Bruno Moraes 73'; Tony 65']
+Luverdense    1-1  ABC
+ [Alípio 90'+2'; Erivélton 78']
+Botafogo    4-0  Atlético
+ [Alvaro Navarro 22',53',61', Willian Arão 24']
+
+Round 23
+[Sep 4]
+Mogi Mirim    0-0  Oeste
+ABC      1-1  Santa Cruz
+ [Rafael Oliveira 42'; Moradei 24']
+Náutico    1-1  Sampaio Corrêa
+ [Patrick Vieira 17'; Diones 6']
+CRB      1-3  Ceará
+ [Maxwell 75'; Rafael Costa 8',71', Mazola 78']
+Macaé      1-3  Luverdense
+ [Juninho 41'; Osman 28', Luiz Eduardo 54',56']
+Paraná      1-0  Bahia
+ [Rafael Costa 26']
+[Sep 5]
+Vitória    1-2  Botafogo
+ [Guilherme Mattis 90'+3'; Alvaro Navarro 71', Sassá 90'+4']
+América    1-2  Bragantino
+ [Felipe Amorim 7'; Lincom 20', Jobinho 75']
+Paysandu    3-0  Boa
+ [Leandro Cearense 51', Edinho 62', Betinho 83']
+[Sep 22]
+Atlético    0-0  Criciúma
+
+Round 24
+[Sep 7]
+Oeste       0-0  CRB
+Ceará      1-0  Náutico
+ [Rafael Costa 79']
+[Sep 8]
+Sampaio Corrêa    0-2  América
+ [Rodrigo Souza 45'+1', Richarlison 83']
+Botafogo    2-1  Paraná
+ [Sassá 70',86'; Gustavo Sauer 13']
+Criciúma    2-3  Vitória
+ [Roger Guedes 58', Wanderson 72'; Rhayner 2',44', Vander 86']
+Santa Cruz    1-2  Paysandu
+ [Grafite 60'p; Jhonnatan 32', Betinho 81']
+Bahia      1-0  Macaé
+ [Jaílton 51']
+Bragantino    3-1  ABC
+ [Gilberto 20', Alan Mineiro 55', Diego Maurício 78'; Rafinha 62']
+Boa      0-1  Mogi Mirim
+ [Matheus Ortigoza 34']
+Luverdense    1-1  Atlético
+ [Tozin 25'p; Juninho 90'+4']
+
+Round 25
+[Sep 11]
+Bahia      3-2  Bragantino
+ [Kieza 39'p, Maxi Biancucchi 59', Souza 90'+1'p; Gilberto 36', Lincom 90'+4']
+Oeste      2-1  Boa
+ [Júnior Lopes 44', Mazinho 53'; Wilson Júnior 19']
+Paraná      1-1  Paysandu
+ [Rafael Costa 30'; Wellinton Júnior 79']
+Mogi Mirim    0-3  Botafogo                    [played in Cariacica-ES]
+ [Roger Carvalho 2', Tomas 80', Luis Henrique 90'p]
+[Sep 12]
+Sampaio Corrêa    1-0  Ceará
+ [Jheimy 21']
+América    2-1  Náutico
+ [Marcelo Toscano 13', Felipe Amorim 64'; Guilherme 90'+2']
+Atlético    0-0  Vitória
+Santa Cruz    2-0  Luverdense
+ [Alemão 29', Daniel Costa 64']
+ABC      0-0  CRB
+Macaé      1-1  Criciúma
+ [Juninho 16'; Lucca 64']
+
+Round 26 [Sep 15]
+Ceará      2-2  Bahia
+ [Ávine 27'og, Júlio César 70'; Roger 36', Tiago Real 62']
+Bragantino    2-2  Macaé
+ [Frauches 0'40"og, Alan Mineiro 66'p; Gedeil 54', Pipico 77']
+CRB      1-0  América
+ [Audálio 90'+3']
+Luverdense    2-0  Paraná
+ [Diego Rosa 48',90'+1']
+Paysandu    3-2  ABC
+ [Léo Melo 11', Betinho 32'p,79'; Ronaldo Mendes 7', Adriano Alves 88']
+Náutico    1-1  Atlético
+ [Bruno Alves 73'; Juninho 63']
+Vitória    4-1  Mogi Mirim
+ [David 14',80', Diego Renan 20', Euller 76'; Luiz Fernando 48'p]
+Criciúma    1-1  Sampaio Corrêa
+ [Marcos Assunção 88'; Válber 26']
+Botafogo    1-1  Oeste
+ [Roger Carvalho 89'; Renan Mota 47']
+Boa      1-3  Santa Cruz
+ [Felipe Alves 69'; Bruno Moraes 13',52', Daniel Costa 57']
+
+Round 27
+[Sep 18]
+ABC      0-0  Vitória
+Atlético    1-1  América
+ [Artur 86'; Wesley Matos 90'+3']
+Boa      0-1  Botafogo
+ [Fernandes 25']
+[Sep 19]
+Mogi Mirim    1-2  Paraná
+ [Val Barreto 64'; Lúcio Flávio 52', Rafael Costa 90'+3'p]
+Paysandu    0-1  Náutico
+ [Rafael Pereira 66']
+Santa Cruz    2-1  Ceará
+ [Grafite 54'p, Vítor 89'; Ricardinho 67']
+Oeste      1-1  Bragantino
+ [Mazinho 76'; Alan Mineiro 47']
+Bahia      1-1  Sampaio Corrêa
+ [Kieza 33'p; Jheimy 50']
+Macaé      0-0  CRB
+Criciúma    0-1  Luverdense
+ [Diego Rosa 72']
+
+Round 28
+[Sep 22]
+Botafogo    2-1  Macaé
+ [Igor Julião 9'og, Fernandes 30'; Aloísio 36']
+Bragantino    2-1  Boa
+ [Gilberto 39', Bruno César 74'; Moacir 87']
+[Sep 25]
+América    2-1  Criciúma
+ [Marcelo Toscano 14',51'; Maurinho 33']
+[Sep 26]
+Náutico    3-0  ABC
+ [Daniel Morais 47', Bergson 50',80']
+CRB      2-1  Mogi Mirim
+ [Maxwell 54', Zé Carlos 69'; Val Barreto 86']
+Sampaio Corrêa    0-0  Santa Cruz
+Vitória    3-1  Paysandu
+ [Escudero 39',72'p, Kanu 46'; Yago Pikachu 54']
+Ceará      1-1  Oeste
+ [Rafael Costa 45'+2'; Kahê 34']
+Luverdense    2-2  Bahia
+ [Tozin 59',62'; Kieza 28', Roger 67']
+Paraná      1-2  Atlético
+ [Ricardinho 44'; Artur 9', Júnior Viçosa 45'+1']
+
+Round 29
+[Sep 29]
+Ceará      0-1  Luverdense
+ [Lucas Fernandes 61']
+Santa Cruz    3-1  Bragantino
+ [Lelê 34', Luisinho 55', Bruninho 88'; Alan Mineiro 59']
+[Oct 2]
+Criciúma    0-0  Paraná
+Sampaio Corrêa    2-2  Botafogo
+ [Jheimy 53', Edimar 90'+5'; Neílton 19', Alvaro Navarro 58']
+[Oct 3]
+Bahia      1-3  Vitória
+ [Kieza 0'19"; Escudero 28', Rhayner 57', Diego Renan 83']
+Boa      1-3  CRB
+ [Felipe Alves 60'; Zé Carlos 14'p, Bocão 26', Leandro Brasília 82']
+Atlético    2-1  Paysandu
+ [Jorginho 26', Juninho 86'; Yago Pikachu 73'p]
+Macaé      3-1  ABC
+ [Juninho 55', Pipico 74', Fernando Neto 76'; Edno 43']
+Oeste      2-0  Náutico
+ [Mazinho 34', Patrik 79']
+Mogi Mirim    1-2  América
+ [Anderson 18'; Richarlison 58', Sávio 89']
+
+Round 30
+[Oct 6]
+Bragantino    2-0  Criciúma
+ [Jocinei 40',87']
+Paraná      1-1  Oeste
+ [Rafael Carioca 37'; Renan Mota 70']
+CRB      3-2  Santa Cruz
+ [Diego Jussani 12', Zé Carlos 70',74'; Grafite 28', Luisinho 83']
+Luverdense    2-1  Sampaio Corrêa
+ [Diego Rosa 60', Calyson 88'; Henrique 71']
+Náutico    1-0  Mogi Mirim
+ [Gastón Filgueira 13']
+América    1-0  Macaé
+ [Wesley Matos 45'+2']
+ABC      1-1  Atlético
+ [Suéliton 49'; Willie 37']
+Paysandu    0-0  Bahia
+[Oct 10]
+Vitória    2-1  Boa
+ [Élton 9', Escudero 55'; Felipe Alves 58']
+[Oct 20]
+Botafogo    0-1  Ceará
+ [Rafael Costa 56'p]
+
+Round 31
+[Oct 16]
+Boa      2-2  Sampaio Corrêa
+ [Chapinha 20', Thaciano 28'; Jheimy 55', Diones 87']
+Vitória    1-1  Paraná
+ [Kanu 11'; Thiaguinho 84']
+[Oct 17]
+Botafogo    4-0  Bragantino
+ [Alvaro Navarro 18',60', Willian Arão 68', Neílton 89']
+ABC      4-2  América
+ [Rafinha 9', Erivélton 45', Ednei 75'p, Bismark 85'; Alison 45'+3', Mancini 65']
+Oeste      0-1  Bahia
+ [Kieza 32']
+Santa Cruz    1-3  Náutico
+ [Bruno Moraes 30'p; Bergson 39', Hiltinho 46',55']
+Mogi Mirim    0-2  Atlético
+ [Artur 21', Fábio Sanches 52'og]
+Criciúma    3-0  Ceará
+ [Dudu 16', Hugo 40', Bruno Lopes 53']
+Luverdense    2-0  CRB
+ [Alípio 54', Tozin 71']
+Paysandu    1-1  Macaé
+ [Leandro Cearense 35'p; Gedeil 87']
+
+Round 32
+[Oct 20]
+Bahia      1-0  Criciúma
+ [Kieza 88']
+[Oct 23]
+Macaé      1-0  Mogi Mirim
+ [Fernando Neto 24']
+América    2-1  Oeste
+ [Richarlison 47', Bryan 89'p; Rafael Martins 90'+1']
+[Oct 24]
+Náutico    1-4  Botafogo
+ [Daniel Morais 84'; Sassá 36',46',79', Diego Jardel 69']
+CRB      0-0  Vitória
+Atlético    0-0  Santa Cruz
+Sampaio Corrêa    2-0  Paysandu
+ [Jheimy 25',90'+4']
+Ceará      2-1  Boa
+ [Alex Amado 32', Ricardinho 40'; Clébson 45'+3']
+Bragantino    3-2  Luverdense
+ [Leandro Silva 24'p, Thiago Santos 57', Rodolfo 65'; Luiz Otávio 59', Lucas Fernandes 90']
+[Oct 27]
+Paraná      0-0  ABC
+
+Round 33
+[Oct 27]
+Boa      1-2  América
+ [Thaciano 33'; Richarlison 14', Leandro Guerreiro 67']
+Santa Cruz    2-0  Criciúma
+ [Bruno Moraes 14', Raniel 74']
+Oeste      1-0  Luverdense
+ [Mazinho 16']
+[Oct 30]
+Atlético    0-1  Bragantino
+ [Moisés Barbosa 25']
+Paraná      3-0  Macaé
+ [Lucas Pará 59', Rafael Costa 84', Henrique 90'+2']
+[Oct 31]
+Vitória    2-3  Náutico
+ [Élton 12', Rafaelson 83'; Daniel Morais 46', Bergson 53', João Ananias 60']
+Paysandu    5-1  CRB
+ [Aylon 42', Ricardo Capanema 68', Leandro Cearense 75',88', Wellinton Júnior 90'+3'; Zé Carlos 27']
+Botafogo    1-0  Bahia
+ [Neílton 51']
+Mogi Mirim    0-2  Ceará
+ [Ricardinho 51'p,69']
+ABC      2-3  Sampaio Corrêa
+ [Bismark 58', Adriano Alves 90'; Nádson 44',63',81']
+
+Round 34
+[Nov 3]
+Bragantino    3-1  Mogi Mirim
+ [Alan Mineiro 40',86', Thiago Santos 68'; Henrique Motta 25']
+América    3-1  Paysandu
+ [Marcelo Toscano 11',51', Richarlison 76'; Yago Pikachu 90'+2']
+[Nov 6]
+Ceará      3-0  ABC
+ [Charles 23', Siloé 25',58']
+Luverdense    2-0  Boa
+ [Tozin 25', Diego Rosa 41']
+[Nov 7]
+Náutico    2-0  Paraná
+ [Rafael Pereira 14', Daniel Morais 27']
+Bahia      1-2  Santa Cruz
+ [Kieza 51'; Danny Morais 65', Bruno Moraes 82']
+Criciúma    1-0  Botafogo
+ [Maurinho 69']
+Macaé      0-2  Vitória
+ [Vander 9', Rhayner 90'+1']
+Sampaio Corrêa    1-1  Oeste
+ [Plínio 30'; Rafael Martins 51']
+CRB      4-1  Atlético
+ [Zé Carlos 29', Gerson Magrão 50', Danilo Bueno 70', Maxwell 83'; Júnior Viçosa 81'p]
+
+Round 35 [Nov 10]
+América    4-0  Vitória
+ [Diego Lorenzi 16', Marcelo Toscano 45', Richarlison 75', Pablo 77']
+Mogi Mirim    1-1  Paysandu
+ [Gabriel 71'; Betinho 17']
+Criciúma    3-0  Boa
+ [Tiago Adan 22', Dudu 32', Roger Guedes 43']
+Macaé      1-1  Náutico
+ [Douglas Assis 22'; Ronaldo Alves 31']
+Bahia      2-2  ABC
+ [Kieza 7', Roger 39'; Pingo 26', Bismark 41']
+Sampaio Corrêa    2-0  Atlético
+ [Válber 11', Douglas Oliveira 54']
+Ceará      3-0  Bragantino
+ [Wescley 20', Rafael Costa 49', Siloé 65']
+Luverdense    0-1  Botafogo
+ [Ronaldo 42']
+CRB      2-0  Paraná
+ [Zé Carlos 37', Clebinho 90'+2']
+Santa Cruz    3-1  Oeste
+ [Daniel Costa 22', Danny Morais 44', Luisinho 73'; Rafael Martins 87']
+
+Round 36
+[Nov 13]
+ABC      3-1  Mogi Mirim
+ [Rafael Miranda 12', Ronaldo Mendes 48', Ednei 84'p; Jô 89']
+Paysandu    3-2  Luverdense
+ [Betinho 6', Aylon 19',68'; Lázaro 45', Diego Rosa 88']
+Oeste      1-1  Criciúma
+ [Ligger 5'; Maurinho 52']
+[Nov 14]
+Náutico    1-1  CRB
+ [Ronaldo Alves 37'; Pery 23']
+Vitória    1-0  Ceará
+ [Kanu 19']
+Boa      3-0  Bahia
+ [Moacir 19', Thaciano 58', Wendel 90'+2']
+Botafogo    0-3  Santa Cruz
+ [Lelê 50', Grafite 68', Bruno Moraes 76']
+Bragantino    3-0  Sampaio Corrêa
+ [Rodolfo 53', Alan Mineiro 79', Jobinho 83']
+Atlético    3-4  Macaé
+ [Juninho 41', Arthur 72', Raphael Luz 84'; Wagner Carioca 32', Anselmo 55', Pipico 67'p, Juninho 87']
+Paraná      1-0  América
+ [Lúcio Flávio 11']
+
+Round 37
+[Nov 20]
+Atlético    3-1  Oeste
+ [Márcio 19'p, Júnior Viçosa 59', Pedro Bambu 76'; Renan Mota 5']
+Macaé      1-1  Boa
+ [Pipico 66'; Leonardo 14']
+ABC      1-2  Botafogo
+ [Erivélton 23'; Roger Carvalho 8', Willian Arão 32']
+[Nov 21]
+Vitória    3-0  Luverdense
+ [Escudero 60', Kanu 64', Élton 70']
+Paysandu    1-0  Criciúma
+ [Edinho 87']
+Náutico    1-0  Bahia
+ [Fabiano Eller 17']
+CRB      2-1  Sampaio Corrêa
+ [Daniel Cruz 82',84'; Diego Jussani 60'og]
+América    1-1  Ceará
+ [Wesley Matos 43'; Siloé 11']
+Mogi Mirim    0-3  Santa Cruz                  [played in Itu-SP]
+ [Daniel Costa 55'p, Bruno Moraes 58', Bileu 77']
+Paraná      0-2  Bragantino
+ [Luiz Felipe 29'og, Jobinho 89']
+
+Round 38
+[Nov 24]
+Boa      2-0  ABC
+ [Balinha 44'og, Thaciano 76']
+[Nov 28]
+Santa Cruz    3-1  Vitória
+ [Allan 39', Daniel Costa 50', Bruno Moraes 84'p; Vander 82']
+Sampaio Corrêa    1-1  Paraná
+ [Nádson 56'; Carlão 14']
+Bahia      1-0  Atlético
+ [Vítor Costa 20']
+Ceará      1-0  Macaé
+ [Rafael Costa 41'p]
+Botafogo    0-0  América
+Oeste      0-0  Paysandu
+Bragantino    0-2  Náutico
+ [Daniel Morais 10', Guilherme Biteco 90'+3']
+Criciúma    2-1  CRB
+ [Wanderson 1', Dudu 44'; Zé Carlos 90'+2'p]
+Luverdense    2-0  Mogi Mirim
+ [Tozin 51'p, Adriano da Matta 88']
+
+Table:
+ 1.Botafogo     38 21  9  8  60-30  72  Champions; promoted
+ 2.Santa Cruz      38 20  7 11  63-43  67  Promoted
+ 3.Vitória     38 19  9 10  58-40  66  Promoted
+ 4.América     38 19  8 11  55-39  65  Promoted
+-----------------------------------------
+ 5.Náutico     38 18  9 11  49-42  63
+ 6.Bragantino     38 19  3 16  56-56  60
+ 7.Paysandu     38 17  9 12  49-40  60
+ 8.Sampaio Corrêa  38 15 13 10  51-43  58
+ 9.Bahia     38 15 13 10  48-41  58
+10.Luverdense     38 15  9 14  46-40  54
+11.CRB       38 15  9 14  47-45  54
+12.Criciúma     38 12 13 13  36-41  49
+13.Paraná     38 12 11 15  39-43  47
+14.Atlético     38 11 13 14  36-46  46
+15.Ceará     38 12  9 17  42-50  45
+16.Oeste     38 10 14 14  37-45  44
+-----------------------------------------
+17.Macaé     38 10 13 15  46-54  43  Relegated
+18.ABC       38  6 14 18  41-64  32  Relegated
+19.Boa       38  7 10 21  34-54  31  Relegated
+20.Mogi Mirim     38  4 11 23  32-69  23  Relegated
+
+* 925 goals / 380 matches = 2.43 gpm.
+
+Topscorer: Zé Carlos (CRB), 19 goals.
+     Marcelo Toscano (América) and Kieza (Bahia), 14 goals each.
+
+Promoted: Vila Nova FC (Goiânia), Londrina EC,
+          Tupi FC (Juiz de Fora), GE Brasil (Pelotas)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+‹2014›
+
+‹2016›
+
+‹list of champions›.
+
+‹list of 2nd division champions›.
+
+‹list of cup winners›.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 ## About this document
 
-Prepared and maintained by Rec.Sport.Soccer
-Statistics Foundation and RSSSF
-Brazil
+Prepared and maintained by ‹Rec.Sport.Soccer
+Statistics Foundation› and ‹RSSSF
+Brazil›
 
 Author: RSSSF Brazil
+Last updated: 29 Dec 2021
 
-Last updated: 8 Jul 2015
 
-
-**(C) Copyright RSSSF and RSSSF Brazil 2015**
+**(C) Copyright RSSSF and RSSSF Brazil 2015/21**
 You are free to copy
 this document in whole or part provided that proper acknowledgement is given to
 the author. All rights reserved.
