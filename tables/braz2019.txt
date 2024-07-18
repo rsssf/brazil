@@ -7,13 +7,13 @@
 ## Brazil 2019
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-‹Série A›
-‹Copa do Brasil›
-‹Supercopa do Brasil›
-‹Série B›
+‹Série A, see §sa›
+‹Copa do Brasil, see §cb›
+‹Supercopa do Brasil, see §supcb›
+‹Série B, see §sb›
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série A
+#### Série A  ‹§sa›
 
 
 Final Table:
@@ -644,7 +644,7 @@ Promoted: Bragantino, Sport Recife, Coritiba, Atlético Goianiense
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Copa do Brasil
+#### Copa do Brasil  ‹§cb›
 
 
 Participants
@@ -1069,7 +1069,7 @@ Internacional/RS      1-2  Athletico/PR
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Supercopa do Brasil 2020
+#### Supercopa do Brasil 2020  ‹§supcb›
 
 
 NB: between 2019 champions and cup winners
@@ -1080,7 +1080,7 @@ Flamengo/RJ           3-0  Athletico/PR
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série B
+#### Série B  ‹§sb›
 
 
 Final Table:
@@ -1113,22 +1113,20 @@ Promoted: Náutico, Sampaio Corrêa, Confiança, Juventude (Caxias)
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2018›
+‹2018, see page braz2018›
 
-‹2020/21›
+‹2020/21, see page braz2020›
 
-‹list of champions›.
+‹list of champions, see page brazchamp›.
 
-‹list of 2nd division champions›.
+‹list of 2nd division champions, see page braz2champ›.
 
-‹list of cup winners›.
+‹list of cup winners, see page brazcuphist›.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
-Prepared and maintained by ‹Rec.Sport.Soccer
-Statistics Foundation› and ‹RSSSF
-Brazil›
+Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
 
 Author: RSSSF Brazil
 Last updated: 29 Dec 2021

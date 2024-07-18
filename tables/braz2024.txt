@@ -7,10 +7,10 @@
 ## Brazil 2024
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-‹Série A›
+‹Série A, see §sa›
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série A
+#### Série A  ‹§sa›
 
 
 Table:
@@ -285,20 +285,18 @@ Table:
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2023›
+‹2023, see page braz2023›
 
-‹list of champions›.
+‹list of champions, see page brazchamp›.
 
-‹list of 2nd division champions›.
+‹list of 2nd division champions, see page braz2champ›.
 
-‹list of cup winners›.
+‹list of cup winners, see page brazcuphist›.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
-Prepared and maintained by ‹Rec.Sport.Soccer
-Statistics Foundation› and ‹RSSSF
-Brazil›
+Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
 
 Author: RSSSF Brazil
 Last updated: 2 Jul 2024

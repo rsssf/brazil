@@ -7,12 +7,12 @@
 ## Brazil 2016
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-‹Série A›
-‹Copa do Brasil›
-‹Série B›
+‹Série A, see §sa›
+‹Copa do Brasil, see §cb›
+‹Série B, see §sb›
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série A
+#### Série A  ‹§sa›
 
 
 Final Table:
@@ -619,7 +619,7 @@ Final Table:
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Copa do Brasil
+#### Copa do Brasil  ‹§cb›
 
 articipants:
 
@@ -1074,7 +1074,7 @@ Topscorer: MARINHO (Vitória), 6 goals
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série B
+#### Série B  ‹§sb›
 
 
 Final Table:
@@ -1106,22 +1106,20 @@ Promoted: Boa Esporte (Varginha), Guaraní, ABC, Juventude (Caxias)
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2015›
+‹2015, see page braz2015›
 
-‹2017›
+‹2017, see page braz2017›
 
-‹list of champions›.
+‹list of champions, see page brazchamp›.
 
-‹list of 2nd division champions›.
+‹list of 2nd division champions, see page braz2champ›.
 
-‹list of cup winners›.
+‹list of cup winners, see page brazcuphist›.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
-Prepared and maintained by ‹Rec.Sport.Soccer
-Statistics Foundation› and ‹RSSSF
-Brazil›
+Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
 
 Author: RSSSF Brazil
 Last updated: 29 Dec 2021

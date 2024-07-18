@@ -7,14 +7,14 @@
 ## Brazil 2020/21
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-‹Série A›
-‹Copa do Brasil›
-‹Supercopa do Brasil›
-‹Série B›
-‹Série C›
+‹Série A, see §sa›
+‹Copa do Brasil, see §cb›
+‹Supercopa do Brasil, see §supcb›
+‹Série B, see §sb›
+‹Série C, see §sc›
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série A
+#### Série A  ‹§sa›
 
 
 Final Table:
@@ -643,7 +643,7 @@ Final Table:
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Copa do Brasil 2020/21
+#### Copa do Brasil 2020/21  ‹§cb›
 
 
 Participants
@@ -991,7 +991,7 @@ Palmeiras/SP              2-0  Grêmio/RS
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Supercopa do Brasil 2021
+#### Supercopa do Brasil 2021  ‹§supcb›
 
 
 [Apr 11, 2021, Brasília]
@@ -1000,7 +1000,7 @@ Flamengo/RJ               2-2  Palmeiras/SP              [6-5 pen (no extra time
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série B
+#### Série B  ‹§sb›
 
 
 Final Table:
@@ -1033,7 +1033,7 @@ Promoted: Vila Nova, Remo, Brusque, Londrina
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série C
+#### Série C  ‹§sc›
 
 
 First Stage
@@ -1099,22 +1099,20 @@ Promoted from 4th level: Altos, Floresta, Mirassol, Novorizontino
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2019›
+‹2019, see page braz2019›
 
-‹2021›
+‹2021, see page braz2021›
 
-‹list of champions›.
+‹list of champions, see page brazchamp›.
 
-‹list of 2nd division champions›.
+‹list of 2nd division champions, see page braz2champ›.
 
-‹list of cup winners›.
+‹list of cup winners, see page brazcuphist›.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
-Prepared and maintained by ‹Rec.Sport.Soccer
-Statistics Foundation› and ‹RSSSF
-Brazil›
+Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
 
 Author: RSSSF Brazil
 Last updated: 4 Jul 2023

@@ -7,11 +7,11 @@
 ## Brazil 2014
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-‹Série A›
-‹Copa do Brasil›
+‹Série A, see §sa›
+‹Copa do Brasil, see §cb›
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série A
+#### Série A  ‹§sa›
 
 
 Final Table:
@@ -626,7 +626,7 @@ Promoted: Joinville, Ponte Preta, Vasco da Gama, Avaí
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Copa do Brasil
+#### Copa do Brasil  ‹§cb›
 
 
 Participants:
@@ -1095,22 +1095,20 @@ Topscorers: Bill (Ceará), Gabriel (Santos), Léo Gamalho (Santa Cruz), 6 goals
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2013›
+‹2013, see page braz2013›
 
-‹2015›
+‹2015, see page braz2015›
 
-‹list of champions›.
+‹list of champions, see page brazchamp›.
 
-‹list of 2nd division champions›.
+‹list of 2nd division champions, see page braz2champ›.
 
-‹list of cup winners›.
+‹list of cup winners, see page brazcuphist›.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
-Prepared and maintained by ‹Rec.Sport.Soccer
-Statistics Foundation› and ‹RSSSF
-Brazil›
+Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
 
 Author: RSSSF Brazil
 Last updated: 13 May 2015
