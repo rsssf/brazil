@@ -1,4 +1,3 @@
-
 # Brazil (Brasil)
 
 football.db RSSSF (Rec.Sport.Soccer Statistics Foundation) Archive Data for
@@ -15,9 +14,3 @@ _Last Update: 2015-07-25 20:48:35 +0200_
 | 2011 | [1-seriea.txt](2011/1-seriea.txt) | 38 |
 
 
-
-## Questions? Comments?
-
-Send them along to the
-[Open Sports & Friends Forum](http://groups.google.com/group/opensport).
-Thanks!

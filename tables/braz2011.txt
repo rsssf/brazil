@@ -7,14 +7,14 @@
 ## Brazil 2011
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-‹Série A›
-‹Copa do Brasil›
-‹Série B›
-‹Série C›
-‹Série D›
+‹Série A, see §sa›
+‹Copa do Brasil, see §cb›
+‹Série B, see §sb›
+‹Série C, see §sc›
+‹Série D, see §sd›
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série A
+#### Série A  ‹§sa›
 
 
 Participants
@@ -982,7 +982,7 @@ Teams placed 6-13 (except Santos) qualified to 2012 Sudamericana.
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Copa do Brasil
+#### Copa do Brasil  ‹§cb›
 
 
 Participants:
@@ -1327,7 +1327,7 @@ Topscorers: Rafael Coelho (Avaí), William (Avaí), Adriano (Palmeiras) and
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série B
+#### Série B  ‹§sb›
 
 
 Participants
@@ -1948,7 +1948,7 @@ Topscorer: Kiesa (Náutico), 21 goals.
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série C
+#### Série C  ‹§sc›
 
 
 Participants
@@ -2372,7 +2372,7 @@ Joinville      4-0 CRB
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série D
+#### Série D  ‹§sd›
 
 
 Participants
@@ -3167,24 +3167,22 @@ Topscorer: Marcinho (Oeste), Fernando (Cuiabá), 11 goals.
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2010›
+‹2010, see page braz2010›
 
-‹2012›
+‹2012, see page braz2012›
 
-‹list of champions›.
+‹list of champions, see page brazchamp›.
 
-‹list of 2nd division champions›.
+‹list of 2nd division champions, see page braz2champ›.
 
-‹list of cup winners›.
+‹list of cup winners, see page brazcuphist›.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
 Thanks to Martin Arenlind
 
-Prepared and maintained by ‹Rec.Sport.Soccer
-Statistics Foundation› and ‹RSSSF
-Brazil›
+Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
 
 Author: RSSSF Brazil
 Last updated: 20 Feb 2024

@@ -7,11 +7,11 @@
 ## Brazil 2013
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-‹Série A›
-‹Copa do Brasil›
+‹Série A, see §sa›
+‹Copa do Brasil, see §cb›
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Série A
+#### Série A  ‹§sa›
 
 
 Participants
@@ -959,7 +959,7 @@ NB: both Flamengo and Portuguesa had 4 points deducted on Dec 16 for fielding
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Copa do Brasil
+#### Copa do Brasil  ‹§cb›
 
 
 Obs.: From 2012 to 2013, CBF changed the classification criteria to Copa do Brasil.
@@ -1479,22 +1479,20 @@ Topscorer: Luís Fabiano (São Paulo), 9 goals.
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2012›
+‹2012, see page braz2012›
 
-‹2014›
+‹2014, see page braz2014›
 
-‹list of champions›.
+‹list of champions, see page brazchamp›.
 
-‹list of 2nd division champions›.
+‹list of 2nd division champions, see page braz2champ›.
 
-‹list of cup winners›.
+‹list of cup winners, see page brazcuphist›.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
 
-Prepared and maintained by ‹Rec.Sport.Soccer
-Statistics Foundation› and ‹RSSSF
-Brazil›
+Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
 
 Author: RSSSF Brazil
 Last updated: 15 May 2014
