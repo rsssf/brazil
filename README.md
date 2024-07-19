@@ -4,8 +4,6 @@
 football.db RSSSF (Rec.Sport.Soccer Statistics Foundation) Archive Data for
 Brazil
 
-_Last Update: 2024-07-19 15:40:07 +0200_
-
 | Season | League, Cup | Errors |
 | :----- | :---------- | -----: |
 | 2024 | [1-seriea.txt](2024/1-seriea.txt) |  OK  |
