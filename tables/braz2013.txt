@@ -1,7 +1,7 @@
-<!--
-   source: https://rsssf.org/tablesb/braz2013.html
-  -->
-
+  <!--
+     source: https://rsssf.org/tablesb/braz2013.html
+    -->
+  
 
 
 ## Brazil 2013
@@ -757,7 +757,7 @@ Corinthians     1-0 Criciúma
 Bahia           0-1 São Paulo
  [Aloísio 23']
 Internacional   2-2 Grêmio
- [Willians 4', D´Alessandro 60'p; Jackson 40'og, Vargas 52']
+ [Willians 4', D'Alessandro 60'p; Jackson 40'og, Vargas 52']
 Goiás           3-0 Atlético/PR
  [Roni 18', Dudu Cearense 26', Walter 90'+4']
 Atlético/MG     1-0 Flamengo

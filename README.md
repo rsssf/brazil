@@ -1,8 +1,8 @@
 
-# Brazil
+# Brazil (Brasil)
 
 football.db RSSSF (Rec.Sport.Soccer Statistics Foundation) Archive Data for
-Brazil
+Brazil (Brasil)
 
 | Season | League, Cup | Errors |
 | :----- | :---------- | -----: |
@@ -17,12 +17,12 @@ Brazil
 | 2016 | [1-seriea.txt](2016/1-seriea.txt) |  OK  |
 | 2015 | [1-seriea.txt](2015/1-seriea.txt) |  **!! 4**  |
 | 2014 | [1-seriea.txt](2014/1-seriea.txt) |  OK  |
-| 2013 | [1-seriea.txt](2013/1-seriea.txt) |  **!! 3**  |
+| 2013 | [1-seriea.txt](2013/1-seriea.txt) |  **!! 2**  |
 | 2012 | [1-seriea.txt](2012/1-seriea.txt) |  **!! 1**  |
 | 2011 | [1-seriea.txt](2011/1-seriea.txt) |  OK  |
 
 
-10 errors in 14 datafile(s)
+9 errors in 14 datafile(s)
 
 ```
 2019/1-seriea.txt -- parse error (INSIDE_RE) - skipping >0-< @52,53
@@ -41,8 +41,6 @@ Brazil
      in line >[Juan 14', Otavinho 87'; João Paulo 37", Éderson 74']<
 2013/1-seriea.txt -- parse error (INSIDE_RE) - skipping >40"< @37,38
      in line >[Maikon Leite 50'; Thiago Ribeiro 40", Cícero 21',89', Éverton Costa 24', Cicinho 26']<
-2013/1-seriea.txt -- parse error (INSIDE_RE) - skipping >D´< @16,26
-     in line >[Willians 4', D´Alessandro 60'p; Jackson 40'og, Vargas 52']<
 2012/1-seriea.txt -- parse error (INSIDE_RE) - skipping >49"< @14,15
      in line >[Ademilson 49", Willian José 90'+3']<
 ```
