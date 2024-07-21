@@ -365,7 +365,7 @@ Coritiba        0-1 Vasco da Gama
 Portuguesa      2-1 São Paulo
  [Diogo 37',78'; Lucas Evangelista 46']
 Internacional   2-2 Atlético/PR
- [Juan 14', Otavinho 87'; João Paulo 37", Éderson 74']
+ [Juan 14', Otavinho 87'; João Paulo 37', Éderson 74']
 Bahia           0-3 Grêmio
  [Riveros 68', Maxi Rodríguez 77', Guilherme Biteco 89']
 Ponte Preta     3-1 Criciúma
@@ -750,7 +750,7 @@ Round 30
 Fluminense      1-1 Ponte Preta
  [Diego Sacoman 84'og; Rafael Ratão 81']
 Náutico         1-5 Santos
- [Maikon Leite 50'; Thiago Ribeiro 40", Cícero 21',89', Éverton Costa 24', Cicinho 26']
+ [Maikon Leite 50'; Thiago Ribeiro 40', Cícero 21',89', Éverton Costa 24', Cicinho 26']
 Corinthians     1-0 Criciúma
  [Alexandre Pato 59']
 [Oct 20]

@@ -10,11 +10,11 @@ football.db RSSSF Archive Data Summary for Brazil (Brasil)
 | [braz2022.txt](braz2022.txt) | RSSSF Brazil | 4 Jul 2023 | 849 (21562) | Série A, Copa do Brasil 2022, Série B, Série C |
 | [braz2021.txt](braz2021.txt) | RSSSF Brazil | 4 Jul 2023 | 845 (21016) | Série A, Copa do Brasil 2021, Supercopa do Brasil 2022, Série B, Série C |
 | [braz2020.txt](braz2020.txt) | RSSSF Brazil | 4 Jul 2023 | 1124 (32832) | Série A, Copa do Brasil 2020/21, Supercopa do Brasil 2021, Série B, Série C |
-| [braz2019.txt](braz2019.txt) | RSSSF Brazil | 29 Dec 2021 | 1138 (33129) | Série A, Copa do Brasil, Supercopa do Brasil 2020, Série B |
+| [braz2019.txt](braz2019.txt) | RSSSF Brazil | 29 Dec 2021 | 1138 (33130) | Série A, Copa do Brasil, Supercopa do Brasil 2020, Série B |
 | [braz2018.txt](braz2018.txt) | RSSSF Brazil | 29 Dec 2021 | 1101 (37037) | Série A, Copa do Brasil, Série B |
 | [braz2017.txt](braz2017.txt) | RSSSF Brazil | 29 Dec 2021 | 1123 (38801) | Série A, Copa do Brasil, Série B |
 | [braz2016.txt](braz2016.txt) | RSSSF Brazil | 29 Dec 2021 | 1131 (41814) | Série A, Copa do Brasil, Série B |
-| [braz2015.txt](braz2015.txt) | RSSSF Brazil | 29 Dec 2021 | 2435 (83719) | Série A, Copa do Brasil, Série B |
+| [braz2015.txt](braz2015.txt) | RSSSF Brazil | 29 Dec 2021 | 2435 (83711) | Série A, Copa do Brasil, Série B |
 | [braz2014.txt](braz2014.txt) | RSSSF Brazil | 13 May 2015 | 1120 (42429) | Série A, Copa do Brasil |
 | [braz2013.txt](braz2013.txt) | RSSSF Brazil | 15 May 2014 | 1504 (58707) | Série A, Copa do Brasil |
 | [braz2012.txt](braz2012.txt) | RSSSF Brazil | 7 Jun 2013 | 1942 (61386) | Série A, Copa do Brasil, Série B |

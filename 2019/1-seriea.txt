@@ -545,7 +545,7 @@ Avaí            0-0 Athletico/PR
 Botafogo        1-1 Ceará
 Corinthians     1-2 Fluminense
 Cruzeiro        0-2 Palmeiras       [abandoned at 0-2 in 86' due to crowd
-CSA             1-2 São Paulo        trouble]
+CSA             1-2 São Paulo        ⮑trouble]
 Fortaleza       2-1 Bahia
 Goiás           3-2 Grêmio
 Internacional   2-1 Atlético/MG
