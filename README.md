@@ -20,9 +20,10 @@ Brazil (Brasil)
 | 2013 | [1-seriea.txt](2013/1-seriea.txt) |  **!! 2**  |
 | 2012 | [1-seriea.txt](2012/1-seriea.txt) |  **!! 1**  |
 | 2011 | [1-seriea.txt](2011/1-seriea.txt) |  OK  |
+| 2010 | [1-seriea.txt](2010/1-seriea.txt) |  OK  |
 
 
-9 errors in 14 datafile(s)
+9 errors in 15 datafile(s)
 
 ```
 2019/1-seriea.txt -- parse error (INSIDE_RE) - skipping >0-< @52,53
